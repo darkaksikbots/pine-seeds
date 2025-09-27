@@ -1,12 +1,12 @@
 {
   "symbol": "SPY",
-  "timestamp": "2025-09-27T14:40:38Z",
+  "timestamp": "2025-09-27T16:43:58Z",
   "data": {
     "spot": 661.82,
-    "zero_gamma": 687.5,
-    "net_gex": 5338615,
-    "call_gex": 3403434415,
-    "put_gex": -3398095800,
+    "zero_gamma": 695.5,
+    "net_gex": 3257983,
+    "call_gex": 3401958279,
+    "put_gex": -3398700295,
     "call_walls": [
       670,
       672,
