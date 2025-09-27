@@ -1,0 +1,30 @@
+{
+  "symbol": "DIA",
+  "timestamp": "2025-09-27T14:41:41Z",
+  "data": {
+    "spot": 462.28,
+    "zero_gamma": 472.5,
+    "net_gex": 23778450,
+    "call_gex": 115173118,
+    "put_gex": -91394667,
+    "call_walls": [
+      471,
+      465,
+      473,
+      470,
+      475
+    ],
+    "put_walls": [
+      460,
+      459,
+      450,
+      455,
+      462
+    ],
+    "hvl": 460,
+    "contracts": 76,
+    "oi_vintage": "2025-09-27",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}
