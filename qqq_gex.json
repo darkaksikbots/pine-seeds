@@ -1,12 +1,12 @@
 {
   "symbol": "QQQ",
-  "timestamp": "2025-09-28T02:06:46Z",
+  "timestamp": "2025-09-28T13:57:38Z",
   "data": {
     "spot": 595.97,
-    "zero_gamma": 599.5,
-    "net_gex": 1069032551,
-    "call_gex": 3079845663,
-    "put_gex": -2010813112,
+    "zero_gamma": 600.5,
+    "net_gex": 1061419995,
+    "call_gex": 3075080543,
+    "put_gex": -2013660547,
     "call_walls": [
       600,
       610,
