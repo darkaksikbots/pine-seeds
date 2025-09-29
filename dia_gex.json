@@ -1,18 +1,18 @@
 {
   "symbol": "DIA",
-  "timestamp": "2025-09-29T18:31:06Z",
+  "timestamp": "2025-09-29T20:01:05Z",
   "data": {
     "spot": 462.28,
     "zero_gamma": 470.5,
-    "net_gex": 18512977,
-    "call_gex": 115453655,
-    "put_gex": -96940677,
+    "net_gex": 22011112,
+    "call_gex": 122867043,
+    "put_gex": -100855930,
     "call_walls": [
       470,
       465,
       471,
       475,
-      463
+      468
     ],
     "put_walls": [
       460,
@@ -22,7 +22,7 @@
       462
     ],
     "hvl": 470,
-    "contracts": 72,
+    "contracts": 78,
     "oi_vintage": "2025-09-29",
     "data_quality": "production",
     "source": "polygon"
