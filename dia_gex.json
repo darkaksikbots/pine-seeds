@@ -1,12 +1,12 @@
 {
   "symbol": "DIA",
-  "timestamp": "2025-09-29T13:30:51Z",
+  "timestamp": "2025-09-29T16:31:16Z",
   "data": {
     "spot": 462.28,
     "zero_gamma": 469.0,
-    "net_gex": 83607196,
-    "call_gex": 167011313,
-    "put_gex": -83404116,
+    "net_gex": 79122296,
+    "call_gex": 164170302,
+    "put_gex": -85048006,
     "call_walls": [
       470,
       471,
