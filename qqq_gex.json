@@ -1,12 +1,12 @@
 {
   "symbol": "QQQ",
-  "timestamp": "2025-09-30T23:30:27Z",
+  "timestamp": "2025-09-30T23:45:25Z",
   "data": {
     "spot": 598.73,
     "zero_gamma": 569.5,
-    "net_gex": 1538458744,
-    "call_gex": 2661396072,
-    "put_gex": -1122937328,
+    "net_gex": 1489870182,
+    "call_gex": 2630038704,
+    "put_gex": -1140168522,
     "call_walls": [
       600,
       610,
@@ -22,7 +22,7 @@
       585
     ],
     "hvl": 600,
-    "contracts": 328,
+    "contracts": 327,
     "oi_vintage": "2025-09-30",
     "data_quality": "production",
     "source": "polygon"
