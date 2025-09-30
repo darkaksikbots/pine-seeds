@@ -1,0 +1,30 @@
+{
+  "symbol": "HD",
+  "timestamp": "2025-10-01T02:35:53Z",
+  "data": {
+    "spot": 406.8,
+    "zero_gamma": 406.8,
+    "net_gex": -14354108,
+    "call_gex": 35380250,
+    "put_gex": -49734358,
+    "call_walls": [
+      410,
+      415,
+      425,
+      430,
+      420
+    ],
+    "put_walls": [
+      405,
+      400,
+      390,
+      385,
+      395
+    ],
+    "hvl": 405,
+    "contracts": 43,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

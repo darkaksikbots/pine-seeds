@@ -1,0 +1,30 @@
+{
+  "symbol": "CMG",
+  "timestamp": "2025-10-01T02:39:00Z",
+  "data": {
+    "spot": 39.9,
+    "zero_gamma": 39.9,
+    "net_gex": -5211014,
+    "call_gex": 9493741,
+    "put_gex": -14704756,
+    "call_walls": [
+      40,
+      42.5,
+      42,
+      41,
+      43
+    ],
+    "put_walls": [
+      37.5,
+      37,
+      39,
+      35,
+      38
+    ],
+    "hvl": 37.5,
+    "contracts": 65,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "COP",
+  "timestamp": "2025-10-01T02:41:28Z",
+  "data": {
+    "spot": 95.85,
+    "zero_gamma": 96.5,
+    "net_gex": 1266476,
+    "call_gex": 9148894,
+    "put_gex": -7882417,
+    "call_walls": [
+      100,
+      105,
+      97.5,
+      97,
+      96
+    ],
+    "put_walls": [
+      93,
+      95,
+      90,
+      92.5,
+      92
+    ],
+    "hvl": 97.5,
+    "contracts": 34,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

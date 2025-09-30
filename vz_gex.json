@@ -1,0 +1,30 @@
+{
+  "symbol": "VZ",
+  "timestamp": "2025-10-01T02:49:08Z",
+  "data": {
+    "spot": 43.25,
+    "zero_gamma": 43.75,
+    "net_gex": 27361719,
+    "call_gex": 40005360,
+    "put_gex": -12643640,
+    "call_walls": [
+      44,
+      45,
+      46,
+      44.5,
+      43.5
+    ],
+    "put_walls": [
+      43,
+      42,
+      41,
+      40,
+      39
+    ],
+    "hvl": 44,
+    "contracts": 56,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

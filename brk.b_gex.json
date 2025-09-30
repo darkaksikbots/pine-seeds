@@ -1,0 +1,30 @@
+{
+  "symbol": "BRK.B",
+  "timestamp": "2025-10-01T02:28:35Z",
+  "data": {
+    "spot": 499.25,
+    "zero_gamma": 506.25,
+    "net_gex": 42909682,
+    "call_gex": 100465608,
+    "put_gex": -57555925,
+    "call_walls": [
+      500,
+      510,
+      507.5,
+      505,
+      515
+    ],
+    "put_walls": [
+      495,
+      497.5,
+      480,
+      485,
+      490
+    ],
+    "hvl": 500,
+    "contracts": 74,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

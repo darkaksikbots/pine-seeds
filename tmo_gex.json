@@ -1,0 +1,26 @@
+{
+  "symbol": "TMO",
+  "timestamp": "2025-10-01T02:46:44Z",
+  "data": {
+    "spot": 462.04,
+    "zero_gamma": 495.0,
+    "net_gex": 4756622,
+    "call_gex": 8314444,
+    "put_gex": -3557821,
+    "call_walls": [
+      500,
+      470,
+      480,
+      472.5
+    ],
+    "put_walls": [
+      460,
+      450
+    ],
+    "hvl": 500,
+    "contracts": 8,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

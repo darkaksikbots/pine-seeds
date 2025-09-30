@@ -1,0 +1,29 @@
+{
+  "symbol": "T",
+  "timestamp": "2025-10-01T02:48:53Z",
+  "data": {
+    "spot": 28.07,
+    "zero_gamma": 27.75,
+    "net_gex": 8680109,
+    "call_gex": 14834089,
+    "put_gex": -6153979,
+    "call_walls": [
+      29,
+      30,
+      28.5,
+      29.5
+    ],
+    "put_walls": [
+      28,
+      27,
+      25,
+      26,
+      27.5
+    ],
+    "hvl": 30,
+    "contracts": 38,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

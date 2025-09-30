@@ -1,0 +1,30 @@
+{
+  "symbol": "GS",
+  "timestamp": "2025-10-01T02:30:01Z",
+  "data": {
+    "spot": 804.12,
+    "zero_gamma": 804.12,
+    "net_gex": -10519106,
+    "call_gex": 46170680,
+    "put_gex": -56689786,
+    "call_walls": [
+      820,
+      810,
+      805,
+      850,
+      825
+    ],
+    "put_walls": [
+      750,
+      780,
+      790,
+      725,
+      730
+    ],
+    "hvl": 750,
+    "contracts": 60,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

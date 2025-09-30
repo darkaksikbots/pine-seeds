@@ -1,0 +1,24 @@
+{
+  "symbol": "KMB",
+  "timestamp": "2025-10-01T02:38:28Z",
+  "data": {
+    "spot": 122.66,
+    "zero_gamma": 127.5,
+    "net_gex": 519054,
+    "call_gex": 1963742,
+    "put_gex": -1444688,
+    "call_walls": [
+      125,
+      130
+    ],
+    "put_walls": [
+      120,
+      115
+    ],
+    "hvl": 125,
+    "contracts": 5,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

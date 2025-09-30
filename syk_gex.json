@@ -1,0 +1,23 @@
+{
+  "symbol": "SYK",
+  "timestamp": "2025-10-01T02:47:29Z",
+  "data": {
+    "spot": 369.88,
+    "zero_gamma": 385.0,
+    "net_gex": 657321,
+    "call_gex": 2259956,
+    "put_gex": -1602634,
+    "call_walls": [
+      390,
+      380
+    ],
+    "put_walls": [
+      360
+    ],
+    "hvl": 390,
+    "contracts": 4,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

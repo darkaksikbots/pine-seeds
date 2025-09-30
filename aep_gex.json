@@ -1,0 +1,25 @@
+{
+  "symbol": "AEP",
+  "timestamp": "2025-10-01T02:44:06Z",
+  "data": {
+    "spot": 109.78,
+    "zero_gamma": 107.5,
+    "net_gex": 4577179,
+    "call_gex": 5574646,
+    "put_gex": -997466,
+    "call_walls": [
+      110,
+      115,
+      120
+    ],
+    "put_walls": [
+      105,
+      100
+    ],
+    "hvl": 110,
+    "contracts": 6,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "ADBE",
+  "timestamp": "2025-10-01T02:22:14Z",
+  "data": {
+    "spot": 359.42,
+    "zero_gamma": 359.42,
+    "net_gex": -6643809,
+    "call_gex": 28673502,
+    "put_gex": -35317312,
+    "call_walls": [
+      360,
+      370,
+      380,
+      365,
+      375
+    ],
+    "put_walls": [
+      350,
+      330,
+      340,
+      355,
+      335
+    ],
+    "hvl": 360,
+    "contracts": 59,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "QCOM",
+  "timestamp": "2025-10-01T02:21:19Z",
+  "data": {
+    "spot": 165.3,
+    "zero_gamma": 168.75,
+    "net_gex": 14604178,
+    "call_gex": 27369429,
+    "put_gex": -12765251,
+    "call_walls": [
+      170,
+      180,
+      175,
+      172.5,
+      167.5
+    ],
+    "put_walls": [
+      160,
+      155,
+      165,
+      150,
+      162.5
+    ],
+    "hvl": 170,
+    "contracts": 47,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

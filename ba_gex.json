@@ -1,0 +1,30 @@
+{
+  "symbol": "BA",
+  "timestamp": "2025-10-01T02:28:17Z",
+  "data": {
+    "spot": 217.08,
+    "zero_gamma": 218.75,
+    "net_gex": 22267344,
+    "call_gex": 63195344,
+    "put_gex": -40927999,
+    "call_walls": [
+      220,
+      230,
+      225,
+      235,
+      217.5
+    ],
+    "put_walls": [
+      210,
+      205,
+      215,
+      195,
+      200
+    ],
+    "hvl": 210,
+    "contracts": 79,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

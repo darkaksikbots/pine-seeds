@@ -1,0 +1,30 @@
+{
+  "symbol": "INTC",
+  "timestamp": "2025-10-01T02:21:02Z",
+  "data": {
+    "spot": 34.48,
+    "zero_gamma": 31,
+    "net_gex": 13927515,
+    "call_gex": 20215622,
+    "put_gex": -6288106,
+    "call_walls": [
+      35,
+      36,
+      37,
+      35.5,
+      34.5
+    ],
+    "put_walls": [
+      33,
+      32,
+      31,
+      33.5,
+      34
+    ],
+    "hvl": 35,
+    "contracts": 96,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

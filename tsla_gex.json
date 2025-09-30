@@ -1,0 +1,30 @@
+{
+  "symbol": "TSLA",
+  "timestamp": "2025-10-01T02:25:56Z",
+  "data": {
+    "spot": 443.21,
+    "zero_gamma": 443.75,
+    "net_gex": 111097613,
+    "call_gex": 237809753,
+    "put_gex": -126712140,
+    "call_walls": [
+      450,
+      480,
+      460,
+      475,
+      445
+    ],
+    "put_walls": [
+      400,
+      420,
+      430,
+      425,
+      435
+    ],
+    "hvl": 400,
+    "contracts": 165,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

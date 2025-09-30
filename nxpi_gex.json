@@ -1,0 +1,25 @@
+{
+  "symbol": "NXPI",
+  "timestamp": "2025-10-01T02:25:08Z",
+  "data": {
+    "spot": 226.11,
+    "zero_gamma": 230.0,
+    "net_gex": 631437,
+    "call_gex": 1250455,
+    "put_gex": -619018,
+    "call_walls": [
+      240,
+      242.5,
+      245
+    ],
+    "put_walls": [
+      220,
+      217.5
+    ],
+    "hvl": 220,
+    "contracts": 6,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

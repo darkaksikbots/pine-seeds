@@ -1,0 +1,30 @@
+{
+  "symbol": "LLY",
+  "timestamp": "2025-10-01T02:45:39Z",
+  "data": {
+    "spot": 726.51,
+    "zero_gamma": 767.5,
+    "net_gex": 16532013,
+    "call_gex": 59834403,
+    "put_gex": -43302389,
+    "call_walls": [
+      770,
+      760,
+      750,
+      780,
+      790
+    ],
+    "put_walls": [
+      720,
+      700,
+      680,
+      715,
+      710
+    ],
+    "hvl": 750,
+    "contracts": 78,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "PANW",
+  "timestamp": "2025-10-01T02:23:58Z",
+  "data": {
+    "spot": 203.96,
+    "zero_gamma": 198.75,
+    "net_gex": 19382749,
+    "call_gex": 31527068,
+    "put_gex": -12144319,
+    "call_walls": [
+      210,
+      220,
+      205,
+      215,
+      207.5
+    ],
+    "put_walls": [
+      200,
+      195,
+      190,
+      185,
+      202.5
+    ],
+    "hvl": 200,
+    "contracts": 48,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}

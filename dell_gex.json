@@ -1,0 +1,30 @@
+{
+  "symbol": "DELL",
+  "timestamp": "2025-10-01T02:23:26Z",
+  "data": {
+    "spot": 133.9,
+    "zero_gamma": 120,
+    "net_gex": 10039852,
+    "call_gex": 15828676,
+    "put_gex": -5788824,
+    "call_walls": [
+      140,
+      135,
+      145,
+      138,
+      134
+    ],
+    "put_walls": [
+      130,
+      120,
+      125,
+      129,
+      133
+    ],
+    "hvl": 120,
+    "contracts": 63,
+    "oi_vintage": "2025-10-01",
+    "data_quality": "production",
+    "source": "polygon"
+  }
+}
