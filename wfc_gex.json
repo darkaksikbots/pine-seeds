@@ -1,12 +1,12 @@
 {
   "symbol": "WFC",
-  "timestamp": "2025-10-01T12:12:32Z",
+  "timestamp": "2025-10-01T13:12:36Z",
   "data": {
     "spot": 83.82,
     "zero_gamma": 79.5,
-    "net_gex": 20832566,
-    "call_gex": 34542338,
-    "put_gex": -13709771,
+    "net_gex": 18690097,
+    "call_gex": 33254058,
+    "put_gex": -14563960,
     "call_walls": [
       85,
       87.5,

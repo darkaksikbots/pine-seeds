@@ -1,12 +1,12 @@
 {
   "symbol": "TSLA",
-  "timestamp": "2025-10-01T12:08:57Z",
+  "timestamp": "2025-10-01T13:09:02Z",
   "data": {
     "spot": 444.72,
     "zero_gamma": 448.75,
-    "net_gex": 97652729,
-    "call_gex": 231644908,
-    "put_gex": -133992178,
+    "net_gex": 97548272,
+    "call_gex": 231589035,
+    "put_gex": -134040763,
     "call_walls": [
       450,
       480,

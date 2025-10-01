@@ -1,11 +1,11 @@
 {
   "symbol": "MSI",
-  "timestamp": "2025-10-01T12:08:38Z",
+  "timestamp": "2025-10-01T13:08:43Z",
   "data": {
     "spot": 457.29,
     "zero_gamma": 480,
-    "net_gex": 849351,
-    "call_gex": 849351,
+    "net_gex": 849292,
+    "call_gex": 849292,
     "put_gex": 0,
     "call_walls": [
       480

@@ -1,25 +1,26 @@
 {
   "symbol": "TMUS",
-  "timestamp": "2025-10-01T12:32:34Z",
+  "timestamp": "2025-10-01T13:32:36Z",
   "data": {
     "spot": 239.38,
-    "zero_gamma": 235.0,
-    "net_gex": 3613534,
-    "call_gex": 5008995,
-    "put_gex": -1395461,
+    "zero_gamma": 238.75,
+    "net_gex": 3741745,
+    "call_gex": 5429130,
+    "put_gex": -1687384,
     "call_walls": [
       240,
       250,
       245,
-      255,
-      242.5
+      242.5,
+      255
     ],
     "put_walls": [
       230,
+      237.5,
       215
     ],
     "hvl": 250,
-    "contracts": 11,
+    "contracts": 13,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

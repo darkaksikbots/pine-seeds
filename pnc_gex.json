@@ -1,12 +1,12 @@
 {
   "symbol": "PNC",
-  "timestamp": "2025-10-01T12:13:53Z",
+  "timestamp": "2025-10-01T13:13:58Z",
   "data": {
     "spot": 200.93,
     "zero_gamma": 200.93,
-    "net_gex": -880778,
-    "call_gex": 481845,
-    "put_gex": -1362623,
+    "net_gex": -880811,
+    "call_gex": 481838,
+    "put_gex": -1362650,
     "call_walls": [
       220,
       212.5

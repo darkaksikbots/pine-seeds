@@ -1,12 +1,12 @@
 {
   "symbol": "TLT",
-  "timestamp": "2025-10-01T12:01:17Z",
+  "timestamp": "2025-10-01T13:01:18Z",
   "data": {
     "spot": 89.37,
     "zero_gamma": 91.75,
-    "net_gex": 48804177,
-    "call_gex": 327514331,
-    "put_gex": -278710153,
+    "net_gex": 47693871,
+    "call_gex": 329920342,
+    "put_gex": -282226471,
     "call_walls": [
       90,
       91,
@@ -21,8 +21,8 @@
       87.5,
       88.5
     ],
-    "hvl": 90,
-    "contracts": 194,
+    "hvl": 92,
+    "contracts": 196,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
