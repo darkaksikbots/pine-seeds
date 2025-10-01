@@ -1,12 +1,12 @@
 {
   "symbol": "O",
-  "timestamp": "2025-10-01T15:31:56Z",
+  "timestamp": "2025-10-01T16:32:24Z",
   "data": {
     "spot": 60.79,
     "zero_gamma": 58.75,
-    "net_gex": 4539421,
-    "call_gex": 6732915,
-    "put_gex": -2193494,
+    "net_gex": 4539739,
+    "call_gex": 6733124,
+    "put_gex": -2193385,
     "call_walls": [
       62.5,
       65

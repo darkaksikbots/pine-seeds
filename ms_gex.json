@@ -1,12 +1,12 @@
 {
   "symbol": "MS",
-  "timestamp": "2025-10-01T15:13:22Z",
+  "timestamp": "2025-10-01T16:13:32Z",
   "data": {
     "spot": 158.96,
     "zero_gamma": 158.96,
-    "net_gex": -12960477,
-    "call_gex": 17948905,
-    "put_gex": -30909383,
+    "net_gex": -13983240,
+    "call_gex": 17638888,
+    "put_gex": -31622128,
     "call_walls": [
       160,
       170,
@@ -22,7 +22,7 @@
       157.5
     ],
     "hvl": 152.5,
-    "contracts": 38,
+    "contracts": 37,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "CVX",
-  "timestamp": "2025-10-01T15:24:23Z",
+  "timestamp": "2025-10-01T16:24:38Z",
   "data": {
     "spot": 155.29,
     "zero_gamma": 158.75,
-    "net_gex": 19498704,
-    "call_gex": 34282199,
-    "put_gex": -14783495,
+    "net_gex": 18989328,
+    "call_gex": 33935371,
+    "put_gex": -14946042,
     "call_walls": [
       160,
       165,

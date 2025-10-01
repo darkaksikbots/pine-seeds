@@ -1,12 +1,12 @@
 {
   "symbol": "WMT",
-  "timestamp": "2025-10-01T15:18:06Z",
+  "timestamp": "2025-10-01T16:18:18Z",
   "data": {
     "spot": 103.06,
     "zero_gamma": 104.5,
-    "net_gex": 22684927,
-    "call_gex": 44153008,
-    "put_gex": -21468080,
+    "net_gex": 20501939,
+    "call_gex": 42792601,
+    "put_gex": -22290661,
     "call_walls": [
       105,
       104,
@@ -22,7 +22,7 @@
       103
     ],
     "hvl": 113,
-    "contracts": 83,
+    "contracts": 82,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

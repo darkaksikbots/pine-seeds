@@ -1,12 +1,12 @@
 {
   "symbol": "FDX",
-  "timestamp": "2025-10-01T15:10:17Z",
+  "timestamp": "2025-10-01T16:10:25Z",
   "data": {
     "spot": 235.81,
     "zero_gamma": 238.75,
-    "net_gex": 3648907,
-    "call_gex": 7554234,
-    "put_gex": -3905327,
+    "net_gex": 3656181,
+    "call_gex": 7559425,
+    "put_gex": -3903243,
     "call_walls": [
       240,
       250,

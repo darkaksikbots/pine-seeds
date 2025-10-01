@@ -1,11 +1,11 @@
 {
   "symbol": "BLK",
-  "timestamp": "2025-10-01T15:15:29Z",
+  "timestamp": "2025-10-01T16:15:39Z",
   "data": {
     "spot": 1165.87,
     "zero_gamma": 1200,
-    "net_gex": 928977,
-    "call_gex": 928977,
+    "net_gex": 1011292,
+    "call_gex": 1011292,
     "put_gex": 0,
     "call_walls": [
       1200

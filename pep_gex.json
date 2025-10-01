@@ -1,12 +1,12 @@
 {
   "symbol": "PEP",
-  "timestamp": "2025-10-01T15:20:23Z",
+  "timestamp": "2025-10-01T16:20:31Z",
   "data": {
     "spot": 140.44,
     "zero_gamma": 140.44,
-    "net_gex": -43861868,
-    "call_gex": 14480282,
-    "put_gex": -58342151,
+    "net_gex": -43632558,
+    "call_gex": 14532966,
+    "put_gex": -58165525,
     "call_walls": [
       150,
       145,

@@ -1,12 +1,12 @@
 {
   "symbol": "CRM",
-  "timestamp": "2025-10-01T15:04:59Z",
+  "timestamp": "2025-10-01T16:05:08Z",
   "data": {
     "spot": 237,
     "zero_gamma": 237,
-    "net_gex": -14048087,
-    "call_gex": 21395087,
-    "put_gex": -35443175,
+    "net_gex": -15467987,
+    "call_gex": 20940113,
+    "put_gex": -36408101,
     "call_walls": [
       250,
       260,

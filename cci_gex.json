@@ -1,16 +1,16 @@
 {
   "symbol": "CCI",
-  "timestamp": "2025-10-01T15:31:28Z",
+  "timestamp": "2025-10-01T16:31:55Z",
   "data": {
     "spot": 96.49,
     "zero_gamma": 92.5,
-    "net_gex": 1105942,
-    "call_gex": 1599724,
-    "put_gex": -493781,
+    "net_gex": 1064490,
+    "call_gex": 1566375,
+    "put_gex": -501885,
     "call_walls": [
       100,
-      97.5,
-      105
+      105,
+      97.5
     ],
     "put_walls": [
       90

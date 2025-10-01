@@ -1,23 +1,23 @@
 {
   "symbol": "CSX",
-  "timestamp": "2025-10-01T15:10:48Z",
+  "timestamp": "2025-10-01T16:10:57Z",
   "data": {
     "spot": 35.51,
-    "zero_gamma": 34.75,
-    "net_gex": 3193604,
-    "call_gex": 4964761,
-    "put_gex": -1771157,
+    "zero_gamma": 37.25,
+    "net_gex": 2384898,
+    "call_gex": 4408579,
+    "put_gex": -2023680,
     "call_walls": [
       37.5,
       37,
       36
     ],
     "put_walls": [
-      34,
-      35
+      35,
+      34
     ],
     "hvl": 37.5,
-    "contracts": 13,
+    "contracts": 12,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
