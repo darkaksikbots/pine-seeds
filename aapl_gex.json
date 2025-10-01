@@ -1,12 +1,12 @@
 {
   "symbol": "AAPL",
-  "timestamp": "2025-10-01T18:01:57Z",
+  "timestamp": "2025-10-01T19:01:45Z",
   "data": {
     "spot": 254.63,
-    "zero_gamma": 238.75,
-    "net_gex": 496515801,
-    "call_gex": 634463306,
-    "put_gex": -137947504,
+    "zero_gamma": 230,
+    "net_gex": 490077546,
+    "call_gex": 629831463,
+    "put_gex": -139753917,
     "call_walls": [
       260,
       255,
@@ -22,7 +22,7 @@
       252.5
     ],
     "hvl": 250,
-    "contracts": 103,
+    "contracts": 105,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

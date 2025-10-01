@@ -1,28 +1,28 @@
 {
   "symbol": "HAL",
-  "timestamp": "2025-10-01T18:27:53Z",
+  "timestamp": "2025-10-01T19:27:19Z",
   "data": {
     "spot": 24.6,
-    "zero_gamma": 23.75,
-    "net_gex": 2236139,
-    "call_gex": 4273015,
-    "put_gex": -2036875,
+    "zero_gamma": 24.25,
+    "net_gex": 3200965,
+    "call_gex": 4699233,
+    "put_gex": -1498267,
     "call_walls": [
       25,
       26,
       27,
-      26.5,
-      25.5
+      25.5,
+      26.5
     ],
     "put_walls": [
+      24,
       22,
       23,
       23.5,
-      24.5,
-      22.5
+      24.5
     ],
     "hvl": 25,
-    "contracts": 26,
+    "contracts": 30,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

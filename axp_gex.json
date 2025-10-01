@@ -1,12 +1,12 @@
 {
   "symbol": "AXP",
-  "timestamp": "2025-10-01T18:16:42Z",
+  "timestamp": "2025-10-01T19:16:18Z",
   "data": {
     "spot": 332.16,
     "zero_gamma": 335.0,
-    "net_gex": 11960379,
-    "call_gex": 19252967,
-    "put_gex": -7292588,
+    "net_gex": 10549297,
+    "call_gex": 19369805,
+    "put_gex": -8820507,
     "call_walls": [
       350,
       340,
@@ -17,12 +17,12 @@
     "put_walls": [
       330,
       320,
+      325,
       300,
-      310,
-      317.5
+      310
     ],
     "hvl": 350,
-    "contracts": 21,
+    "contracts": 23,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

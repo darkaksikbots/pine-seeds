@@ -1,12 +1,12 @@
 {
   "symbol": "BA",
-  "timestamp": "2025-10-01T18:12:45Z",
+  "timestamp": "2025-10-01T19:12:21Z",
   "data": {
     "spot": 215.83,
     "zero_gamma": 223.75,
-    "net_gex": 20063576,
-    "call_gex": 66201788,
-    "put_gex": -46138211,
+    "net_gex": 18970821,
+    "call_gex": 67634926,
+    "put_gex": -48664104,
     "call_walls": [
       220,
       230,

@@ -1,18 +1,18 @@
 {
   "symbol": "SPY",
-  "timestamp": "2025-10-01T18:00:27Z",
+  "timestamp": "2025-10-01T19:00:22Z",
   "data": {
     "spot": 666.18,
     "zero_gamma": 666.5,
-    "net_gex": 823575806,
-    "call_gex": 1921459135,
-    "put_gex": -1097883328,
+    "net_gex": 1002725521,
+    "call_gex": 2041606895,
+    "put_gex": -1038881373,
     "call_walls": [
       667,
       670,
       675,
       672,
-      668
+      677
     ],
     "put_walls": [
       663,
@@ -22,7 +22,7 @@
       664
     ],
     "hvl": 667,
-    "contracts": 346,
+    "contracts": 356,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

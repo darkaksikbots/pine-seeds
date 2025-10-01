@@ -1,12 +1,12 @@
 {
   "symbol": "EOG",
-  "timestamp": "2025-10-01T18:26:55Z",
+  "timestamp": "2025-10-01T19:26:22Z",
   "data": {
     "spot": 112.12,
     "zero_gamma": 112.12,
-    "net_gex": -2090051,
-    "call_gex": 1313126,
-    "put_gex": -3403178,
+    "net_gex": -649115,
+    "call_gex": 1440731,
+    "put_gex": -2089847,
     "call_walls": [
       120,
       115,
@@ -16,9 +16,10 @@
     ],
     "put_walls": [
       110,
+      105,
       100
     ],
-    "hvl": 115,
+    "hvl": 110,
     "contracts": 14,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",

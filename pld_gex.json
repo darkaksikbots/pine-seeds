@@ -1,20 +1,21 @@
 {
   "symbol": "PLD",
-  "timestamp": "2025-10-01T18:33:21Z",
+  "timestamp": "2025-10-01T19:32:44Z",
   "data": {
     "spot": 114.52,
     "zero_gamma": 112.5,
-    "net_gex": 528835,
-    "call_gex": 1388091,
-    "put_gex": -859256,
+    "net_gex": 2367979,
+    "call_gex": 3399406,
+    "put_gex": -1031426,
     "call_walls": [
+      120,
       115
     ],
     "put_walls": [
       110
     ],
-    "hvl": 115,
-    "contracts": 2,
+    "hvl": 120,
+    "contracts": 4,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "IWM",
-  "timestamp": "2025-10-01T18:01:13Z",
+  "timestamp": "2025-10-01T19:01:06Z",
   "data": {
     "spot": 241.96,
     "zero_gamma": 241.96,
-    "net_gex": -946263272,
-    "call_gex": 725789637,
-    "put_gex": -1672052909,
+    "net_gex": -838277574,
+    "call_gex": 767438324,
+    "put_gex": -1605715898,
     "call_walls": [
       250,
       245,

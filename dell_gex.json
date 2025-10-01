@@ -1,12 +1,12 @@
 {
   "symbol": "DELL",
-  "timestamp": "2025-10-01T18:07:33Z",
+  "timestamp": "2025-10-01T19:07:15Z",
   "data": {
     "spot": 141.77,
     "zero_gamma": 129.5,
-    "net_gex": 13700865,
-    "call_gex": 17962157,
-    "put_gex": -4261291,
+    "net_gex": 13896419,
+    "call_gex": 17934571,
+    "put_gex": -4038152,
     "call_walls": [
       150,
       145,
@@ -16,13 +16,13 @@
     ],
     "put_walls": [
       135,
-      130,
       140,
-      137,
-      134
+      130,
+      134,
+      137
     ],
     "hvl": 135,
-    "contracts": 53,
+    "contracts": 52,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

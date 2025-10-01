@@ -1,12 +1,12 @@
 {
   "symbol": "PFE",
-  "timestamp": "2025-10-01T18:30:08Z",
+  "timestamp": "2025-10-01T19:29:32Z",
   "data": {
     "spot": 25.48,
     "zero_gamma": 24.75,
-    "net_gex": 20270918,
-    "call_gex": 25696828,
-    "put_gex": -5425910,
+    "net_gex": 20615620,
+    "call_gex": 25811763,
+    "put_gex": -5196142,
     "call_walls": [
       26,
       27,
@@ -22,7 +22,7 @@
       24.5
     ],
     "hvl": 25,
-    "contracts": 76,
+    "contracts": 79,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

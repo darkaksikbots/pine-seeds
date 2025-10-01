@@ -1,28 +1,28 @@
 {
   "symbol": "ADBE",
-  "timestamp": "2025-10-01T18:06:11Z",
+  "timestamp": "2025-10-01T19:05:59Z",
   "data": {
     "spot": 352.75,
     "zero_gamma": 352.75,
-    "net_gex": -19506818,
-    "call_gex": 22109174,
-    "put_gex": -41615992,
+    "net_gex": -21065808,
+    "call_gex": 22961866,
+    "put_gex": -44027675,
     "call_walls": [
       360,
       370,
       380,
-      355,
-      375
+      365,
+      355
     ],
     "put_walls": [
       330,
       340,
       350,
       320,
-      345
+      335
     ],
     "hvl": 360,
-    "contracts": 65,
+    "contracts": 70,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
