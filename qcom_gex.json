@@ -1,12 +1,12 @@
 {
   "symbol": "QCOM",
-  "timestamp": "2025-10-01T02:21:19Z",
+  "timestamp": "2025-10-01T11:04:25Z",
   "data": {
-    "spot": 165.3,
+    "spot": 166.36,
     "zero_gamma": 168.75,
-    "net_gex": 14604178,
-    "call_gex": 27369429,
-    "put_gex": -12765251,
+    "net_gex": 13631572,
+    "call_gex": 27032691,
+    "put_gex": -13401119,
     "call_walls": [
       170,
       180,

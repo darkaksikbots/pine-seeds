@@ -1,12 +1,12 @@
 {
   "symbol": "TFC",
-  "timestamp": "2025-10-01T02:31:01Z",
+  "timestamp": "2025-10-01T11:14:13Z",
   "data": {
-    "spot": 45.92,
+    "spot": 45.72,
     "zero_gamma": 42,
-    "net_gex": 3591363,
-    "call_gex": 4299725,
-    "put_gex": -708362,
+    "net_gex": 3408173,
+    "call_gex": 4135811,
+    "put_gex": -727637,
     "call_walls": [
       48,
       47.5,

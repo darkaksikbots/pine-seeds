@@ -1,22 +1,22 @@
 {
   "symbol": "COF",
-  "timestamp": "2025-10-01T02:31:47Z",
+  "timestamp": "2025-10-01T11:15:00Z",
   "data": {
-    "spot": 223.6,
-    "zero_gamma": 236.25,
-    "net_gex": 153119,
-    "call_gex": 3240509,
-    "put_gex": -3087390,
+    "spot": 212.58,
+    "zero_gamma": 212.58,
+    "net_gex": -1370300,
+    "call_gex": 2339822,
+    "put_gex": -3710123,
     "call_walls": [
       230,
-      240,
+      220,
       232.5,
       225
     ],
     "put_walls": [
       210,
-      220,
-      215,
+      200,
+      195,
       212.5
     ],
     "hvl": 230,

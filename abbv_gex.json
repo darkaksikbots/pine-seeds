@@ -1,28 +1,24 @@
 {
   "symbol": "ABBV",
-  "timestamp": "2025-10-01T02:45:20Z",
+  "timestamp": "2025-10-01T11:28:36Z",
   "data": {
-    "spot": 223.16,
-    "zero_gamma": 200,
-    "net_gex": 35530172,
-    "call_gex": 37899200,
-    "put_gex": -2369027,
+    "spot": 231.54,
+    "zero_gamma": 210,
+    "net_gex": 45530564,
+    "call_gex": 47406133,
+    "put_gex": -1875569,
     "call_walls": [
-      230,
-      225,
-      227.5,
       235,
-      232.5
+      232.5,
+      240
     ],
     "put_walls": [
       210,
       220,
-      207.5,
-      215,
-      205
+      215
     ],
     "hvl": 230,
-    "contracts": 28,
+    "contracts": 25,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

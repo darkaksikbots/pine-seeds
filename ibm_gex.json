@@ -1,28 +1,28 @@
 {
   "symbol": "IBM",
-  "timestamp": "2025-10-01T02:23:09Z",
+  "timestamp": "2025-10-01T11:06:15Z",
   "data": {
-    "spot": 279.8,
+    "spot": 282.16,
     "zero_gamma": 262.5,
-    "net_gex": 34801158,
-    "call_gex": 45206194,
-    "put_gex": -10405035,
+    "net_gex": 37166992,
+    "call_gex": 47497487,
+    "put_gex": -10330494,
     "call_walls": [
-      280,
       300,
       285,
       295,
-      290
+      290,
+      282.5
     ],
     "put_walls": [
       270,
       260,
+      280,
       265,
-      277.5,
-      255
+      277.5
     ],
     "hvl": 275,
-    "contracts": 59,
+    "contracts": 61,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

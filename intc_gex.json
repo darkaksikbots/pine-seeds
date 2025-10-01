@@ -1,28 +1,28 @@
 {
   "symbol": "INTC",
-  "timestamp": "2025-10-01T02:21:02Z",
+  "timestamp": "2025-10-01T11:04:09Z",
   "data": {
-    "spot": 34.48,
-    "zero_gamma": 31,
-    "net_gex": 13927515,
-    "call_gex": 20215622,
-    "put_gex": -6288106,
+    "spot": 33.55,
+    "zero_gamma": 30,
+    "net_gex": 13048983,
+    "call_gex": 21253757,
+    "put_gex": -8204773,
     "call_walls": [
       35,
       36,
-      37,
+      34,
       35.5,
       34.5
     ],
     "put_walls": [
+      30,
       33,
       32,
       31,
-      33.5,
-      34
+      33.5
     ],
-    "hvl": 35,
-    "contracts": 96,
+    "hvl": 30,
+    "contracts": 102,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "WFC",
-  "timestamp": "2025-10-01T02:29:25Z",
+  "timestamp": "2025-10-01T11:12:32Z",
   "data": {
-    "spot": 84.65,
+    "spot": 83.82,
     "zero_gamma": 79.5,
-    "net_gex": 24152630,
-    "call_gex": 36401271,
-    "put_gex": -12248641,
+    "net_gex": 20834080,
+    "call_gex": 34543387,
+    "put_gex": -13709307,
     "call_walls": [
       85,
       87.5,
@@ -16,13 +16,13 @@
     ],
     "put_walls": [
       80,
-      84,
+      75,
       82.5,
       77.5,
       83
     ],
     "hvl": 80,
-    "contracts": 44,
+    "contracts": 45,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

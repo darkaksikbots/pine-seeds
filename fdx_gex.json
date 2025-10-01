@@ -1,17 +1,16 @@
 {
   "symbol": "FDX",
-  "timestamp": "2025-10-01T02:27:12Z",
+  "timestamp": "2025-10-01T11:10:19Z",
   "data": {
-    "spot": 236.58,
+    "spot": 235.81,
     "zero_gamma": 227.5,
-    "net_gex": 5127662,
-    "call_gex": 8272923,
-    "put_gex": -3145260,
+    "net_gex": 4324046,
+    "call_gex": 7579040,
+    "put_gex": -3254994,
     "call_walls": [
       240,
       250,
-      245,
-      260
+      245
     ],
     "put_walls": [
       220,
@@ -20,7 +19,7 @@
       230
     ],
     "hvl": 240,
-    "contracts": 21,
+    "contracts": 20,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "MA",
-  "timestamp": "2025-10-01T02:34:16Z",
+  "timestamp": "2025-10-01T11:17:29Z",
   "data": {
-    "spot": 568.14,
-    "zero_gamma": 568.14,
-    "net_gex": -2973512,
-    "call_gex": 12504275,
-    "put_gex": -15477787,
+    "spot": 568.81,
+    "zero_gamma": 568.81,
+    "net_gex": -7802577,
+    "call_gex": 10911932,
+    "put_gex": -18714509,
     "call_walls": [
       595,
       590,

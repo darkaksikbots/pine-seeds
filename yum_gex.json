@@ -1,12 +1,12 @@
 {
   "symbol": "YUM",
-  "timestamp": "2025-10-01T02:39:14Z",
+  "timestamp": "2025-10-01T11:22:28Z",
   "data": {
-    "spot": 153.94,
+    "spot": 152,
     "zero_gamma": 150.0,
-    "net_gex": 897376,
-    "call_gex": 1174123,
-    "put_gex": -276746,
+    "net_gex": 874178,
+    "call_gex": 1144103,
+    "put_gex": -269924,
     "call_walls": [
       155,
       160

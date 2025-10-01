@@ -1,28 +1,28 @@
 {
   "symbol": "SLB",
-  "timestamp": "2025-10-01T02:42:25Z",
+  "timestamp": "2025-10-01T11:25:40Z",
   "data": {
-    "spot": 35.11,
+    "spot": 34.37,
     "zero_gamma": 34.75,
-    "net_gex": 2188353,
-    "call_gex": 4303162,
-    "put_gex": -2114808,
+    "net_gex": 1566064,
+    "call_gex": 3523302,
+    "put_gex": -1957238,
     "call_walls": [
-      37.5,
+      35,
       36,
       35.5,
       37,
       36.5
     ],
     "put_walls": [
-      35,
       32.5,
       33,
       32,
-      34
+      34,
+      33.5
     ],
     "hvl": 35,
-    "contracts": 45,
+    "contracts": 41,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

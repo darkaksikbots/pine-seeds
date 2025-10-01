@@ -1,28 +1,28 @@
 {
   "symbol": "QQQ",
-  "timestamp": "2025-10-01T02:17:38Z",
+  "timestamp": "2025-10-01T11:00:40Z",
   "data": {
-    "spot": 598.73,
-    "zero_gamma": 569.5,
-    "net_gex": 1341014115,
-    "call_gex": 2541833528,
-    "put_gex": -1200819413,
+    "spot": 600.37,
+    "zero_gamma": 600.37,
+    "net_gex": -606713298,
+    "call_gex": 2672652986,
+    "put_gex": -3279366285,
     "call_walls": [
-      600,
       610,
       605,
       615,
-      620
+      620,
+      603
     ],
     "put_walls": [
       590,
-      594,
-      589,
-      595,
-      585
+      580,
+      585,
+      560,
+      575
     ],
-    "hvl": 600,
-    "contracts": 327,
+    "hvl": 590,
+    "contracts": 478,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,18 +1,17 @@
 {
   "symbol": "SO",
-  "timestamp": "2025-10-01T02:43:52Z",
+  "timestamp": "2025-10-01T11:27:08Z",
   "data": {
-    "spot": 93.91,
+    "spot": 94.77,
     "zero_gamma": 94,
-    "net_gex": 9593210,
-    "call_gex": 9593210,
+    "net_gex": 10847599,
+    "call_gex": 10847599,
     "put_gex": 0,
     "call_walls": [
       95,
       97.5,
       96,
-      98,
-      94
+      98
     ],
     "put_walls": [],
     "hvl": 95,
