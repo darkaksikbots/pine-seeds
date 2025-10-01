@@ -1,12 +1,12 @@
 {
   "symbol": "XOM",
-  "timestamp": "2025-10-01T14:24:02Z",
+  "timestamp": "2025-10-01T15:24:06Z",
   "data": {
     "spot": 112.75,
     "zero_gamma": 118.5,
-    "net_gex": 16122024,
-    "call_gex": 54625770,
-    "put_gex": -38503746,
+    "net_gex": 15301065,
+    "call_gex": 54071638,
+    "put_gex": -38770573,
     "call_walls": [
       115,
       120,

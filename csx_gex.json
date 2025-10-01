@@ -1,12 +1,12 @@
 {
   "symbol": "CSX",
-  "timestamp": "2025-10-01T14:10:48Z",
+  "timestamp": "2025-10-01T15:10:48Z",
   "data": {
     "spot": 35.51,
     "zero_gamma": 34.75,
-    "net_gex": 3526973,
-    "call_gex": 5207281,
-    "put_gex": -1680308,
+    "net_gex": 3193604,
+    "call_gex": 4964761,
+    "put_gex": -1771157,
     "call_walls": [
       37.5,
       37,

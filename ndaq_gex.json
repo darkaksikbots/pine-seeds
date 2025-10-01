@@ -1,12 +1,12 @@
 {
   "symbol": "NDAQ",
-  "timestamp": "2025-10-01T14:16:45Z",
+  "timestamp": "2025-10-01T15:16:44Z",
   "data": {
     "spot": 88.45,
-    "zero_gamma": 91.25,
-    "net_gex": 977621,
-    "call_gex": 1282135,
-    "put_gex": -304513,
+    "zero_gamma": 88.75,
+    "net_gex": 1056487,
+    "call_gex": 1340538,
+    "put_gex": -284051,
     "call_walls": [
       92.5,
       90,

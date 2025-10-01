@@ -1,12 +1,12 @@
 {
   "symbol": "ROKU",
-  "timestamp": "2025-10-01T14:23:30Z",
+  "timestamp": "2025-10-01T15:23:34Z",
   "data": {
     "spot": 100.13,
-    "zero_gamma": 99.5,
-    "net_gex": 2929951,
-    "call_gex": 5339067,
-    "put_gex": -2409116,
+    "zero_gamma": 104.0,
+    "net_gex": 2267758,
+    "call_gex": 4977766,
+    "put_gex": -2710008,
     "call_walls": [
       105,
       110,

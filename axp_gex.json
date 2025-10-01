@@ -1,12 +1,12 @@
 {
   "symbol": "AXP",
-  "timestamp": "2025-10-01T14:15:10Z",
+  "timestamp": "2025-10-01T15:15:10Z",
   "data": {
     "spot": 332.16,
     "zero_gamma": 347.5,
-    "net_gex": 7060739,
-    "call_gex": 19170494,
-    "put_gex": -12109754,
+    "net_gex": 4959911,
+    "call_gex": 17931911,
+    "put_gex": -12971999,
     "call_walls": [
       350,
       340,

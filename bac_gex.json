@@ -1,12 +1,12 @@
 {
   "symbol": "BAC",
-  "timestamp": "2025-10-01T14:12:14Z",
+  "timestamp": "2025-10-01T15:12:14Z",
   "data": {
     "spot": 51.59,
     "zero_gamma": 46,
-    "net_gex": 14570806,
-    "call_gex": 29753854,
-    "put_gex": -15183047,
+    "net_gex": 16570552,
+    "call_gex": 31001410,
+    "put_gex": -14430857,
     "call_walls": [
       52.5,
       55,
@@ -22,7 +22,7 @@
       51
     ],
     "hvl": 52.5,
-    "contracts": 78,
+    "contracts": 79,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

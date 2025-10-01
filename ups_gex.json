@@ -1,12 +1,12 @@
 {
   "symbol": "UPS",
-  "timestamp": "2025-10-01T14:10:00Z",
+  "timestamp": "2025-10-01T15:10:01Z",
   "data": {
     "spot": 83.53,
     "zero_gamma": 75,
-    "net_gex": -451304,
-    "call_gex": 18085967,
-    "put_gex": -18537272,
+    "net_gex": -86957,
+    "call_gex": 18266861,
+    "put_gex": -18353818,
     "call_walls": [
       90,
       85,

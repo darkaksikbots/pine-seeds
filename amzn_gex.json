@@ -1,12 +1,12 @@
 {
   "symbol": "AMZN",
-  "timestamp": "2025-10-01T14:02:33Z",
+  "timestamp": "2025-10-01T15:02:33Z",
   "data": {
     "spot": 219.57,
     "zero_gamma": 233.75,
-    "net_gex": 53282973,
-    "call_gex": 281331538,
-    "put_gex": -228048565,
+    "net_gex": 49442074,
+    "call_gex": 283509222,
+    "put_gex": -234067147,
     "call_walls": [
       230,
       225,
@@ -21,8 +21,8 @@
       205,
       217.5
     ],
-    "hvl": 240,
-    "contracts": 90,
+    "hvl": 230,
+    "contracts": 91,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "TGT",
-  "timestamp": "2025-10-01T14:18:42Z",
+  "timestamp": "2025-10-01T15:18:41Z",
   "data": {
     "spot": 89.7,
-    "zero_gamma": 93.5,
-    "net_gex": 5567153,
-    "call_gex": 24901849,
-    "put_gex": -19334695,
+    "zero_gamma": 92.5,
+    "net_gex": 7978359,
+    "call_gex": 26171060,
+    "put_gex": -18192701,
     "call_walls": [
       90,
       95,
@@ -19,7 +19,7 @@
       88,
       83,
       86,
-      87
+      80
     ],
     "hvl": 90,
     "contracts": 94,
