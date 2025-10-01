@@ -1,12 +1,12 @@
 {
   "symbol": "TTD",
-  "timestamp": "2025-10-01T21:24:52Z",
+  "timestamp": "2025-10-01T22:25:10Z",
   "data": {
     "spot": 49.01,
     "zero_gamma": 49.75,
-    "net_gex": 2988662,
-    "call_gex": 7540034,
-    "put_gex": -4551371,
+    "net_gex": 3075843,
+    "call_gex": 7570459,
+    "put_gex": -4494615,
     "call_walls": [
       50,
       52.5,
@@ -22,7 +22,7 @@
       47
     ],
     "hvl": 50,
-    "contracts": 62,
+    "contracts": 65,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

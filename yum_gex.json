@@ -1,18 +1,19 @@
 {
   "symbol": "YUM",
-  "timestamp": "2025-10-01T21:23:22Z",
+  "timestamp": "2025-10-01T22:23:40Z",
   "data": {
     "spot": 152,
-    "zero_gamma": 160,
-    "net_gex": 299174,
-    "call_gex": 299174,
+    "zero_gamma": 155,
+    "net_gex": 1253049,
+    "call_gex": 1253049,
     "put_gex": 0,
     "call_walls": [
+      155,
       160
     ],
     "put_walls": [],
-    "hvl": 160,
-    "contracts": 1,
+    "hvl": 155,
+    "contracts": 2,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "JNJ",
-  "timestamp": "2025-10-01T21:28:54Z",
+  "timestamp": "2025-10-01T22:29:10Z",
   "data": {
     "spot": 185.42,
     "zero_gamma": 170,
-    "net_gex": 45743096,
-    "call_gex": 57549732,
-    "put_gex": -11806635,
+    "net_gex": 45660489,
+    "call_gex": 57238889,
+    "put_gex": -11578400,
     "call_walls": [
       190,
       187.5,

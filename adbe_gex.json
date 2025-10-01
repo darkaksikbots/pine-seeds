@@ -1,12 +1,12 @@
 {
   "symbol": "ADBE",
-  "timestamp": "2025-10-01T21:05:39Z",
+  "timestamp": "2025-10-01T22:05:53Z",
   "data": {
     "spot": 352.75,
     "zero_gamma": 352.75,
-    "net_gex": -20413636,
-    "call_gex": 23245433,
-    "put_gex": -43659070,
+    "net_gex": -19338269,
+    "call_gex": 24305348,
+    "put_gex": -43643617,
     "call_walls": [
       360,
       370,

@@ -1,12 +1,12 @@
 {
   "symbol": "AAPL",
-  "timestamp": "2025-10-01T21:01:45Z",
+  "timestamp": "2025-10-01T22:01:52Z",
   "data": {
     "spot": 254.63,
     "zero_gamma": 230,
-    "net_gex": 491265029,
-    "call_gex": 627775853,
-    "put_gex": -136510824,
+    "net_gex": 494215419,
+    "call_gex": 632046815,
+    "put_gex": -137831396,
     "call_walls": [
       260,
       255,

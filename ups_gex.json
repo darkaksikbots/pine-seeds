@@ -1,18 +1,18 @@
 {
   "symbol": "UPS",
-  "timestamp": "2025-10-01T21:10:37Z",
+  "timestamp": "2025-10-01T22:10:47Z",
   "data": {
     "spot": 83.53,
     "zero_gamma": 75,
-    "net_gex": 2298436,
-    "call_gex": 18862054,
-    "put_gex": -16563618,
+    "net_gex": 2874295,
+    "call_gex": 19776015,
+    "put_gex": -16901720,
     "call_walls": [
       90,
       85,
       88,
       87,
-      84
+      86
     ],
     "put_walls": [
       80,
@@ -22,7 +22,7 @@
       77
     ],
     "hvl": 90,
-    "contracts": 62,
+    "contracts": 69,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

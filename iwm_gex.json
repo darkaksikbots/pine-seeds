@@ -1,12 +1,12 @@
 {
   "symbol": "IWM",
-  "timestamp": "2025-10-01T21:01:06Z",
+  "timestamp": "2025-10-01T22:01:06Z",
   "data": {
     "spot": 241.96,
     "zero_gamma": 241.96,
-    "net_gex": -959250470,
-    "call_gex": 755346684,
-    "put_gex": -1714597154,
+    "net_gex": -774765586,
+    "call_gex": 807972174,
+    "put_gex": -1582737761,
     "call_walls": [
       250,
       245,
@@ -22,7 +22,7 @@
       235
     ],
     "hvl": 230,
-    "contracts": 247,
+    "contracts": 256,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

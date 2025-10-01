@@ -1,12 +1,12 @@
 {
   "symbol": "PEP",
-  "timestamp": "2025-10-01T21:21:16Z",
+  "timestamp": "2025-10-01T22:21:36Z",
   "data": {
     "spot": 140.44,
     "zero_gamma": 140.44,
-    "net_gex": -36442099,
-    "call_gex": 15197510,
-    "put_gex": -51639610,
+    "net_gex": -35055278,
+    "call_gex": 15474513,
+    "put_gex": -50529791,
     "call_walls": [
       150,
       145,
@@ -22,7 +22,7 @@
       134
     ],
     "hvl": 140,
-    "contracts": 47,
+    "contracts": 49,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

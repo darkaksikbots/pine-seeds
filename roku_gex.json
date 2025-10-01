@@ -1,15 +1,15 @@
 {
   "symbol": "ROKU",
-  "timestamp": "2025-10-01T21:24:36Z",
+  "timestamp": "2025-10-01T22:24:53Z",
   "data": {
     "spot": 100.13,
     "zero_gamma": 99.5,
-    "net_gex": 4331030,
-    "call_gex": 5785996,
-    "put_gex": -1454966,
+    "net_gex": 4404022,
+    "call_gex": 5769065,
+    "put_gex": -1365043,
     "call_walls": [
-      105,
       110,
+      105,
       102,
       109,
       101
@@ -22,7 +22,7 @@
       96
     ],
     "hvl": 100,
-    "contracts": 21,
+    "contracts": 23,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
