@@ -1,12 +1,12 @@
 {
   "symbol": "BMY",
-  "timestamp": "2025-10-01T11:29:10Z",
+  "timestamp": "2025-10-01T12:29:03Z",
   "data": {
     "spot": 45.1,
     "zero_gamma": 44.75,
-    "net_gex": 7562950,
-    "call_gex": 15045890,
-    "put_gex": -7482939,
+    "net_gex": 8764742,
+    "call_gex": 15953847,
+    "put_gex": -7189105,
     "call_walls": [
       46,
       47,

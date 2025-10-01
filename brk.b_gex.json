@@ -1,12 +1,12 @@
 {
   "symbol": "BRK.B",
-  "timestamp": "2025-10-01T11:11:41Z",
+  "timestamp": "2025-10-01T12:11:41Z",
   "data": {
     "spot": 502.74,
-    "zero_gamma": 506.25,
-    "net_gex": 44286684,
-    "call_gex": 101870785,
-    "put_gex": -57584101,
+    "zero_gamma": 508.75,
+    "net_gex": 34692678,
+    "call_gex": 96407470,
+    "put_gex": -61714792,
     "call_walls": [
       510,
       507.5,

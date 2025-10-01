@@ -1,12 +1,12 @@
 {
   "symbol": "INTC",
-  "timestamp": "2025-10-01T11:04:09Z",
+  "timestamp": "2025-10-01T12:04:04Z",
   "data": {
     "spot": 33.55,
     "zero_gamma": 30,
-    "net_gex": 13048983,
-    "call_gex": 21253757,
-    "put_gex": -8204773,
+    "net_gex": 11420109,
+    "call_gex": 20310382,
+    "put_gex": -8890273,
     "call_walls": [
       35,
       36,

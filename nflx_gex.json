@@ -1,12 +1,12 @@
 {
   "symbol": "NFLX",
-  "timestamp": "2025-10-01T11:23:06Z",
+  "timestamp": "2025-10-01T12:23:00Z",
   "data": {
     "spot": 1198.92,
     "zero_gamma": 1198.92,
-    "net_gex": -110710453,
-    "call_gex": 133921800,
-    "put_gex": -244632253,
+    "net_gex": -109525055,
+    "call_gex": 134210063,
+    "put_gex": -243735118,
     "call_walls": [
       1220,
       1200,

@@ -1,12 +1,12 @@
 {
   "symbol": "COP",
-  "timestamp": "2025-10-01T11:24:42Z",
+  "timestamp": "2025-10-01T12:24:36Z",
   "data": {
     "spot": 94.59,
     "zero_gamma": 85,
-    "net_gex": -503210,
-    "call_gex": 7532106,
-    "put_gex": -8035316,
+    "net_gex": -1256958,
+    "call_gex": 7101162,
+    "put_gex": -8358121,
     "call_walls": [
       100,
       95,
@@ -22,7 +22,7 @@
       91
     ],
     "hvl": 97.5,
-    "contracts": 34,
+    "contracts": 33,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

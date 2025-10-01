@@ -1,12 +1,12 @@
 {
   "symbol": "DELL",
-  "timestamp": "2025-10-01T11:06:32Z",
+  "timestamp": "2025-10-01T12:06:27Z",
   "data": {
     "spot": 141.77,
     "zero_gamma": 129.5,
-    "net_gex": 14421420,
-    "call_gex": 19508310,
-    "put_gex": -5086890,
+    "net_gex": 11872308,
+    "call_gex": 17772143,
+    "put_gex": -5899835,
     "call_walls": [
       150,
       145,

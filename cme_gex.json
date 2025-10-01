@@ -1,12 +1,12 @@
 {
   "symbol": "CME",
-  "timestamp": "2025-10-01T11:16:23Z",
+  "timestamp": "2025-10-01T12:16:18Z",
   "data": {
     "spot": 270.19,
-    "zero_gamma": 275.0,
-    "net_gex": 597830,
-    "call_gex": 7028943,
-    "put_gex": -6431112,
+    "zero_gamma": 270.19,
+    "net_gex": -1027451,
+    "call_gex": 6333426,
+    "put_gex": -7360877,
     "call_walls": [
       280,
       290

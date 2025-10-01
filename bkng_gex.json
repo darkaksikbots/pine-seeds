@@ -1,11 +1,11 @@
 {
   "symbol": "BKNG",
-  "timestamp": "2025-10-01T11:22:47Z",
+  "timestamp": "2025-10-01T12:22:41Z",
   "data": {
     "spot": 5399.27,
     "zero_gamma": 5800,
-    "net_gex": 1904713,
-    "call_gex": 1904713,
+    "net_gex": 1784191,
+    "call_gex": 1784191,
     "put_gex": 0,
     "call_walls": [
       5800

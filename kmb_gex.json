@@ -1,12 +1,12 @@
 {
   "symbol": "KMB",
-  "timestamp": "2025-10-01T11:21:42Z",
+  "timestamp": "2025-10-01T12:21:36Z",
   "data": {
     "spot": 124.34,
-    "zero_gamma": 122.5,
-    "net_gex": 939816,
-    "call_gex": 2303520,
-    "put_gex": -1363703,
+    "zero_gamma": 127.5,
+    "net_gex": 670502,
+    "call_gex": 2158778,
+    "put_gex": -1488276,
     "call_walls": [
       125,
       130,

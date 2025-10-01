@@ -1,12 +1,12 @@
 {
   "symbol": "GM",
-  "timestamp": "2025-10-01T11:09:16Z",
+  "timestamp": "2025-10-01T12:09:12Z",
   "data": {
     "spot": 60.97,
     "zero_gamma": 62.25,
-    "net_gex": 2240038,
-    "call_gex": 8898103,
-    "put_gex": -6658065,
+    "net_gex": 2194151,
+    "call_gex": 8874026,
+    "put_gex": -6679874,
     "call_walls": [
       63,
       62.5,

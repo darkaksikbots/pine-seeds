@@ -1,12 +1,12 @@
 {
   "symbol": "BX",
-  "timestamp": "2025-10-01T11:15:52Z",
+  "timestamp": "2025-10-01T12:15:47Z",
   "data": {
     "spot": 170.85,
     "zero_gamma": 170.85,
-    "net_gex": -513206,
-    "call_gex": 4343932,
-    "put_gex": -4857139,
+    "net_gex": -1083769,
+    "call_gex": 4133987,
+    "put_gex": -5217756,
     "call_walls": [
       175,
       185,
