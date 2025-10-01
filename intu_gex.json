@@ -1,15 +1,16 @@
 {
   "symbol": "INTU",
-  "timestamp": "2025-10-01T22:06:37Z",
+  "timestamp": "2025-10-01T23:06:11Z",
   "data": {
     "spot": 682.91,
-    "zero_gamma": 690.0,
-    "net_gex": 6771704,
-    "call_gex": 9948376,
-    "put_gex": -3176672,
+    "zero_gamma": 695.0,
+    "net_gex": 6931574,
+    "call_gex": 10518915,
+    "put_gex": -3587340,
     "call_walls": [
       700,
       710,
+      690,
       720
     ],
     "put_walls": [
@@ -17,7 +18,7 @@
       660
     ],
     "hvl": 700,
-    "contracts": 7,
+    "contracts": 8,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

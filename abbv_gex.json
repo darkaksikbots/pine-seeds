@@ -1,12 +1,12 @@
 {
   "symbol": "ABBV",
-  "timestamp": "2025-10-01T22:29:57Z",
+  "timestamp": "2025-10-01T23:28:51Z",
   "data": {
     "spot": 231.54,
     "zero_gamma": 210,
-    "net_gex": 13230074,
-    "call_gex": 14333452,
-    "put_gex": -1103377,
+    "net_gex": 13653303,
+    "call_gex": 14762832,
+    "put_gex": -1109529,
     "call_walls": [
       235,
       232.5,
@@ -22,7 +22,7 @@
       225
     ],
     "hvl": 230,
-    "contracts": 34,
+    "contracts": 36,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

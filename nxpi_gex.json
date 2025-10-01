@@ -1,12 +1,12 @@
 {
   "symbol": "NXPI",
-  "timestamp": "2025-10-01T22:08:56Z",
+  "timestamp": "2025-10-01T23:08:28Z",
   "data": {
     "spot": 227.73,
     "zero_gamma": 225.0,
-    "net_gex": 1624074,
-    "call_gex": 2321173,
-    "put_gex": -697099,
+    "net_gex": 1774585,
+    "call_gex": 2429474,
+    "put_gex": -654888,
     "call_walls": [
       240,
       250,

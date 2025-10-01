@@ -1,12 +1,12 @@
 {
   "symbol": "SLB",
-  "timestamp": "2025-10-01T22:26:58Z",
+  "timestamp": "2025-10-01T23:25:54Z",
   "data": {
     "spot": 34.37,
     "zero_gamma": 34.75,
-    "net_gex": 1933224,
-    "call_gex": 3707648,
-    "put_gex": -1774423,
+    "net_gex": 2093004,
+    "call_gex": 3780272,
+    "put_gex": -1687268,
     "call_walls": [
       35,
       36,
@@ -18,8 +18,8 @@
       32.5,
       34,
       33,
-      32,
-      33.5
+      33.5,
+      30
     ],
     "hvl": 35,
     "contracts": 35,

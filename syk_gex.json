@@ -1,13 +1,14 @@
 {
   "symbol": "SYK",
-  "timestamp": "2025-10-01T22:32:14Z",
+  "timestamp": "2025-10-01T23:31:03Z",
   "data": {
     "spot": 369.67,
     "zero_gamma": 369.67,
-    "net_gex": -1228771,
-    "call_gex": 797263,
-    "put_gex": -2026035,
+    "net_gex": -209624,
+    "call_gex": 1837256,
+    "put_gex": -2046881,
     "call_walls": [
+      390,
       380,
       400
     ],
@@ -16,8 +17,8 @@
       350,
       340
     ],
-    "hvl": 400,
-    "contracts": 6,
+    "hvl": 390,
+    "contracts": 7,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

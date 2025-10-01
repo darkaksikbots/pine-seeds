@@ -1,12 +1,12 @@
 {
   "symbol": "COST",
-  "timestamp": "2025-10-01T22:19:39Z",
+  "timestamp": "2025-10-01T23:18:46Z",
   "data": {
     "spot": 925.63,
     "zero_gamma": 925.63,
-    "net_gex": -47999796,
-    "call_gex": 97756954,
-    "put_gex": -145756751,
+    "net_gex": -46912935,
+    "call_gex": 99628990,
+    "put_gex": -146541925,
     "call_walls": [
       940,
       950,
@@ -22,7 +22,7 @@
       905
     ],
     "hvl": 1000,
-    "contracts": 116,
+    "contracts": 119,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

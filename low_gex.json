@@ -1,17 +1,16 @@
 {
   "symbol": "LOW",
-  "timestamp": "2025-10-01T22:20:30Z",
+  "timestamp": "2025-10-01T23:19:36Z",
   "data": {
     "spot": 251.31,
     "zero_gamma": 251.31,
-    "net_gex": -10827763,
-    "call_gex": 5157881,
-    "put_gex": -15985644,
+    "net_gex": -11227410,
+    "call_gex": 5009256,
+    "put_gex": -16236667,
     "call_walls": [
       260,
       257.5,
-      262.5,
-      270
+      262.5
     ],
     "put_walls": [
       240,

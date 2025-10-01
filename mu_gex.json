@@ -1,12 +1,12 @@
 {
   "symbol": "MU",
-  "timestamp": "2025-10-01T22:08:40Z",
+  "timestamp": "2025-10-01T23:08:12Z",
   "data": {
     "spot": 167.32,
-    "zero_gamma": 150,
-    "net_gex": 26740493,
-    "call_gex": 37833837,
-    "put_gex": -11093344,
+    "zero_gamma": 161.25,
+    "net_gex": 24456413,
+    "call_gex": 34704126,
+    "put_gex": -10247712,
     "call_walls": [
       170,
       175,
@@ -22,7 +22,7 @@
       157.5
     ],
     "hvl": 150,
-    "contracts": 90,
+    "contracts": 91,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

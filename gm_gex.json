@@ -1,12 +1,12 @@
 {
   "symbol": "GM",
-  "timestamp": "2025-10-01T22:09:59Z",
+  "timestamp": "2025-10-01T23:09:31Z",
   "data": {
     "spot": 60.97,
     "zero_gamma": 61.5,
-    "net_gex": 4251939,
-    "call_gex": 10002013,
-    "put_gex": -5750074,
+    "net_gex": 4067342,
+    "call_gex": 10100110,
+    "put_gex": -6032767,
     "call_walls": [
       63,
       62.5,
@@ -22,7 +22,7 @@
       55
     ],
     "hvl": 60,
-    "contracts": 35,
+    "contracts": 36,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
