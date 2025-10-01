@@ -1,28 +1,28 @@
 {
   "symbol": "ORCL",
-  "timestamp": "2025-10-01T17:05:27Z",
+  "timestamp": "2025-10-01T18:05:30Z",
   "data": {
     "spot": 281.24,
-    "zero_gamma": 255,
-    "net_gex": -10155016,
-    "call_gex": 46940587,
-    "put_gex": -57095603,
+    "zero_gamma": 281.24,
+    "net_gex": -23847517,
+    "call_gex": 57458630,
+    "put_gex": -81306147,
     "call_walls": [
       300,
       290,
-      305,
       295,
+      305,
       285
     ],
     "put_walls": [
       280,
       260,
-      275,
       270,
+      275,
       265
     ],
     "hvl": 300,
-    "contracts": 51,
+    "contracts": 92,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

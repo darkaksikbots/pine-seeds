@@ -1,28 +1,26 @@
 {
   "symbol": "COP",
-  "timestamp": "2025-10-01T17:27:07Z",
+  "timestamp": "2025-10-01T18:26:39Z",
   "data": {
     "spot": 94.59,
     "zero_gamma": 85,
-    "net_gex": -2331239,
-    "call_gex": 4666824,
-    "put_gex": -6998063,
+    "net_gex": -295407,
+    "call_gex": 5947597,
+    "put_gex": -6243005,
     "call_walls": [
-      95,
-      97.5,
-      97,
       100,
-      99
+      95,
+      97,
+      99,
+      96
     ],
     "put_walls": [
       93,
-      92.5,
       94,
-      90,
       91
     ],
     "hvl": 97.5,
-    "contracts": 29,
+    "contracts": 21,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
