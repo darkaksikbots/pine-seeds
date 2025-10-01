@@ -1,12 +1,12 @@
 {
   "symbol": "AMD",
-  "timestamp": "2025-10-01T20:04:06Z",
+  "timestamp": "2025-10-01T21:04:04Z",
   "data": {
     "spot": 161.79,
     "zero_gamma": 168.75,
-    "net_gex": 30712431,
-    "call_gex": 100241616,
-    "put_gex": -69529184,
+    "net_gex": 30563468,
+    "call_gex": 100562488,
+    "put_gex": -69999020,
     "call_walls": [
       170,
       165,
@@ -22,7 +22,7 @@
       152.5
     ],
     "hvl": 150,
-    "contracts": 99,
+    "contracts": 97,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

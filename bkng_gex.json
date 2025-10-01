@@ -1,21 +1,22 @@
 {
   "symbol": "BKNG",
-  "timestamp": "2025-10-01T20:23:45Z",
+  "timestamp": "2025-10-01T21:23:42Z",
   "data": {
     "spot": 5399.27,
     "zero_gamma": 5350.0,
-    "net_gex": 20380157,
-    "call_gex": 25138660,
-    "put_gex": -4758502,
+    "net_gex": 24410691,
+    "call_gex": 28987984,
+    "put_gex": -4577292,
     "call_walls": [
       5500,
-      5600
+      5600,
+      5700
     ],
     "put_walls": [
       5200
     ],
     "hvl": 5600,
-    "contracts": 3,
+    "contracts": 4,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

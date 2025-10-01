@@ -1,21 +1,24 @@
 {
   "symbol": "NXPI",
-  "timestamp": "2025-10-01T20:08:46Z",
+  "timestamp": "2025-10-01T21:08:45Z",
   "data": {
     "spot": 227.73,
-    "zero_gamma": 230,
-    "net_gex": 1812846,
-    "call_gex": 1812846,
-    "put_gex": 0,
+    "zero_gamma": 218.75,
+    "net_gex": 2087188,
+    "call_gex": 2206197,
+    "put_gex": -119008,
     "call_walls": [
       240,
       250,
       230,
-      242.5
+      242.5,
+      235
     ],
-    "put_walls": [],
+    "put_walls": [
+      217.5
+    ],
     "hvl": 250,
-    "contracts": 4,
+    "contracts": 7,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

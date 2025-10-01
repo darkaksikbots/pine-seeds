@@ -1,12 +1,12 @@
 {
   "symbol": "TXN",
-  "timestamp": "2025-10-01T20:08:11Z",
+  "timestamp": "2025-10-01T21:08:09Z",
   "data": {
     "spot": 183.73,
     "zero_gamma": 165,
-    "net_gex": 1745744,
-    "call_gex": 19251341,
-    "put_gex": -17505596,
+    "net_gex": -796462,
+    "call_gex": 19575255,
+    "put_gex": -20371718,
     "call_walls": [
       185,
       190,
@@ -20,7 +20,7 @@
       170
     ],
     "hvl": 180,
-    "contracts": 28,
+    "contracts": 30,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
