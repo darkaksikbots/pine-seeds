@@ -1,12 +1,12 @@
 {
   "symbol": "QCOM",
-  "timestamp": "2025-10-01T13:04:22Z",
+  "timestamp": "2025-10-01T14:04:22Z",
   "data": {
     "spot": 166.36,
     "zero_gamma": 163.75,
-    "net_gex": 17333744,
-    "call_gex": 29263518,
-    "put_gex": -11929774,
+    "net_gex": 18251145,
+    "call_gex": 30423988,
+    "put_gex": -12172842,
     "call_walls": [
       170,
       180,
@@ -22,7 +22,7 @@
       162.5
     ],
     "hvl": 170,
-    "contracts": 46,
+    "contracts": 47,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

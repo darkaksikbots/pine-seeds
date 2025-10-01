@@ -1,12 +1,12 @@
 {
   "symbol": "VZ",
-  "timestamp": "2025-10-01T13:32:20Z",
+  "timestamp": "2025-10-01T14:32:16Z",
   "data": {
     "spot": 43.95,
     "zero_gamma": 43.75,
-    "net_gex": 34236081,
-    "call_gex": 46769133,
-    "put_gex": -12533051,
+    "net_gex": 32972897,
+    "call_gex": 45712068,
+    "put_gex": -12739171,
     "call_walls": [
       44,
       45,

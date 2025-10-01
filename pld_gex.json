@@ -1,12 +1,12 @@
 {
   "symbol": "PLD",
-  "timestamp": "2025-10-01T13:30:55Z",
+  "timestamp": "2025-10-01T14:30:51Z",
   "data": {
     "spot": 114.52,
     "zero_gamma": 112.5,
-    "net_gex": 1987953,
-    "call_gex": 3160343,
-    "put_gex": -1172390,
+    "net_gex": 1788879,
+    "call_gex": 3026991,
+    "put_gex": -1238111,
     "call_walls": [
       120,
       115

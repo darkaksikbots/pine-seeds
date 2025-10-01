@@ -1,28 +1,28 @@
 {
   "symbol": "LLY",
-  "timestamp": "2025-10-01T13:28:51Z",
+  "timestamp": "2025-10-01T14:28:47Z",
   "data": {
     "spot": 763,
-    "zero_gamma": 767.5,
-    "net_gex": 38981121,
-    "call_gex": 82707572,
-    "put_gex": -43726450,
+    "zero_gamma": 768.75,
+    "net_gex": 44977530,
+    "call_gex": 90456582,
+    "put_gex": -45479051,
     "call_walls": [
       770,
       800,
       780,
-      790,
-      820
+      765,
+      790
     ],
     "put_walls": [
       720,
       750,
       740,
-      700,
-      730
+      730,
+      700
     ],
     "hvl": 750,
-    "contracts": 79,
+    "contracts": 87,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

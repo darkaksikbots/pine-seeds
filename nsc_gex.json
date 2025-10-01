@@ -1,12 +1,12 @@
 {
   "symbol": "NSC",
-  "timestamp": "2025-10-01T13:11:06Z",
+  "timestamp": "2025-10-01T14:11:04Z",
   "data": {
     "spot": 300.41,
     "zero_gamma": 300.41,
-    "net_gex": -302442,
-    "call_gex": 342255,
-    "put_gex": -644698,
+    "net_gex": -302480,
+    "call_gex": 342235,
+    "put_gex": -644716,
     "call_walls": [
       310
     ],
