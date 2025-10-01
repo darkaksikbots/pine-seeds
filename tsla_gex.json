@@ -1,12 +1,12 @@
 {
   "symbol": "TSLA",
-  "timestamp": "2025-10-01T16:09:09Z",
+  "timestamp": "2025-10-01T17:10:16Z",
   "data": {
     "spot": 444.72,
-    "zero_gamma": 448.75,
-    "net_gex": 108197519,
-    "call_gex": 250226096,
-    "put_gex": -142028577,
+    "zero_gamma": 443.75,
+    "net_gex": 125913072,
+    "call_gex": 252192264,
+    "put_gex": -126279191,
     "call_walls": [
       450,
       480,
@@ -19,10 +19,10 @@
       420,
       430,
       425,
-      435
+      415
     ],
     "hvl": 400,
-    "contracts": 172,
+    "contracts": 157,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

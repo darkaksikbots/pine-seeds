@@ -1,28 +1,26 @@
 {
   "symbol": "PG",
-  "timestamp": "2025-10-01T16:20:47Z",
+  "timestamp": "2025-10-01T17:22:52Z",
   "data": {
     "spot": 153.65,
-    "zero_gamma": 158.75,
-    "net_gex": 5164118,
-    "call_gex": 25002546,
-    "put_gex": -19838428,
+    "zero_gamma": 162.5,
+    "net_gex": 2880416,
+    "call_gex": 18150710,
+    "put_gex": -15270294,
     "call_walls": [
       155,
       160,
       165,
-      157.5,
-      162.5
+      157.5
     ],
     "put_walls": [
-      150,
       145,
-      152.5,
       140,
-      148
+      150,
+      146
     ],
     "hvl": 165,
-    "contracts": 32,
+    "contracts": 21,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

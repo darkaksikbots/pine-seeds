@@ -1,23 +1,18 @@
 {
   "symbol": "KMB",
-  "timestamp": "2025-10-01T16:21:48Z",
+  "timestamp": "2025-10-01T17:23:55Z",
   "data": {
     "spot": 124.34,
-    "zero_gamma": 122.5,
-    "net_gex": 840287,
-    "call_gex": 2240740,
-    "put_gex": -1400453,
-    "call_walls": [
-      125,
-      130,
-      135
-    ],
+    "zero_gamma": 124.34,
+    "net_gex": -1554065,
+    "call_gex": 0,
+    "put_gex": -1554065,
+    "call_walls": [],
     "put_walls": [
-      120,
-      115
+      120
     ],
     "hvl": 125,
-    "contracts": 6,
+    "contracts": 3,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

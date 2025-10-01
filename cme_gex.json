@@ -1,23 +1,22 @@
 {
   "symbol": "CME",
-  "timestamp": "2025-10-01T16:16:26Z",
+  "timestamp": "2025-10-01T17:18:14Z",
   "data": {
     "spot": 270.19,
     "zero_gamma": 275.0,
-    "net_gex": 475685,
-    "call_gex": 6995124,
-    "put_gex": -6519438,
+    "net_gex": 751611,
+    "call_gex": 5679557,
+    "put_gex": -4927946,
     "call_walls": [
       280,
       290
     ],
     "put_walls": [
-      270,
       260,
       250
     ],
-    "hvl": 270,
-    "contracts": 7,
+    "hvl": 250,
+    "contracts": 5,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
