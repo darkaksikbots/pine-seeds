@@ -1,12 +1,12 @@
 {
   "symbol": "DIS",
-  "timestamp": "2025-10-01T19:24:42Z",
+  "timestamp": "2025-10-01T20:24:22Z",
   "data": {
     "spot": 114.5,
-    "zero_gamma": 119.5,
-    "net_gex": 3577818,
-    "call_gex": 28071510,
-    "put_gex": -24493691,
+    "zero_gamma": 124.0,
+    "net_gex": 2066915,
+    "call_gex": 28282008,
+    "put_gex": -26215092,
     "call_walls": [
       115,
       120,
@@ -22,7 +22,7 @@
       112
     ],
     "hvl": 115,
-    "contracts": 62,
+    "contracts": 65,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

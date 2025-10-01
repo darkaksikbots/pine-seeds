@@ -1,12 +1,12 @@
 {
   "symbol": "SYK",
-  "timestamp": "2025-10-01T19:32:25Z",
+  "timestamp": "2025-10-01T20:31:59Z",
   "data": {
     "spot": 369.67,
     "zero_gamma": 369.67,
-    "net_gex": -1289161,
-    "call_gex": 594644,
-    "put_gex": -1883805,
+    "net_gex": -1393778,
+    "call_gex": 596185,
+    "put_gex": -1989963,
     "call_walls": [
       400,
       380

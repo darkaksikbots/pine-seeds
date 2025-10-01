@@ -1,12 +1,12 @@
 {
   "symbol": "ICE",
-  "timestamp": "2025-10-01T19:17:40Z",
+  "timestamp": "2025-10-01T20:17:21Z",
   "data": {
     "spot": 168.48,
-    "zero_gamma": 168.48,
-    "net_gex": -539724,
-    "call_gex": 1248912,
-    "put_gex": -1788636,
+    "zero_gamma": 167.5,
+    "net_gex": 548861,
+    "call_gex": 1332938,
+    "put_gex": -784077,
     "call_walls": [
       170,
       180,
@@ -16,8 +16,8 @@
     "put_walls": [
       165
     ],
-    "hvl": 170,
-    "contracts": 6,
+    "hvl": 180,
+    "contracts": 5,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

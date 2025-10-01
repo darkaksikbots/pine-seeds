@@ -1,12 +1,12 @@
 {
   "symbol": "AMGN",
-  "timestamp": "2025-10-01T19:31:21Z",
+  "timestamp": "2025-10-01T20:30:56Z",
   "data": {
     "spot": 282.2,
     "zero_gamma": 282.5,
-    "net_gex": 16072724,
-    "call_gex": 21937875,
-    "put_gex": -5865151,
+    "net_gex": 16568522,
+    "call_gex": 24025481,
+    "put_gex": -7456959,
     "call_walls": [
       287.5,
       295,
@@ -22,7 +22,7 @@
       260
     ],
     "hvl": 285,
-    "contracts": 30,
+    "contracts": 31,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "CVX",
-  "timestamp": "2025-10-01T19:25:47Z",
+  "timestamp": "2025-10-01T20:25:27Z",
   "data": {
     "spot": 155.29,
     "zero_gamma": 158.75,
-    "net_gex": 18158107,
-    "call_gex": 32593722,
-    "put_gex": -14435615,
+    "net_gex": 17286141,
+    "call_gex": 32133988,
+    "put_gex": -14847847,
     "call_walls": [
       160,
       165,
@@ -22,7 +22,7 @@
       149
     ],
     "hvl": 160,
-    "contracts": 41,
+    "contracts": 43,
     "oi_vintage": "2025-10-01",
     "data_quality": "production",
     "source": "polygon"
