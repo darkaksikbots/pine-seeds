@@ -1,12 +1,12 @@
 {
   "symbol": "COST",
-  "timestamp": "2025-10-02T15:18:36Z",
+  "timestamp": "2025-10-02T16:18:44Z",
   "data": {
     "spot": 917.34,
     "zero_gamma": 917.34,
-    "net_gex": -58032134,
-    "call_gex": 102305461,
-    "put_gex": -160337595,
+    "net_gex": -63052020,
+    "call_gex": 100823718,
+    "put_gex": -163875739,
     "call_walls": [
       940,
       950,

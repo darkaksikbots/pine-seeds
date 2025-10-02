@@ -1,12 +1,12 @@
 {
   "symbol": "UBER",
-  "timestamp": "2025-10-02T15:09:54Z",
+  "timestamp": "2025-10-02T16:09:57Z",
   "data": {
     "spot": 96.61,
     "zero_gamma": 99.5,
-    "net_gex": 19503624,
-    "call_gex": 37607905,
-    "put_gex": -18104280,
+    "net_gex": 19718126,
+    "call_gex": 37730596,
+    "put_gex": -18012469,
     "call_walls": [
       100,
       105,

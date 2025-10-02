@@ -1,12 +1,12 @@
 {
   "symbol": "KO",
-  "timestamp": "2025-10-02T15:20:23Z",
+  "timestamp": "2025-10-02T16:20:21Z",
   "data": {
     "spot": 66.78,
     "zero_gamma": 69.5,
-    "net_gex": 5941083,
-    "call_gex": 27219929,
-    "put_gex": -21278845,
+    "net_gex": 5571458,
+    "call_gex": 27110224,
+    "put_gex": -21538766,
     "call_walls": [
       67.5,
       68,

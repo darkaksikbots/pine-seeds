@@ -1,17 +1,17 @@
 {
   "symbol": "TLT",
-  "timestamp": "2025-10-02T15:01:17Z",
+  "timestamp": "2025-10-02T16:01:19Z",
   "data": {
     "spot": 89.29,
-    "zero_gamma": 89.75,
-    "net_gex": 184506474,
-    "call_gex": 509430304,
-    "put_gex": -324923829,
+    "zero_gamma": 90.75,
+    "net_gex": 143199556,
+    "call_gex": 472748540,
+    "put_gex": -329548983,
     "call_walls": [
       90,
       91,
-      89.5,
       92,
+      89.5,
       90.5
     ],
     "put_walls": [

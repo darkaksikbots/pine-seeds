@@ -1,12 +1,12 @@
 {
   "symbol": "MO",
-  "timestamp": "2025-10-02T15:21:25Z",
+  "timestamp": "2025-10-02T16:21:23Z",
   "data": {
     "spot": 66.29,
     "zero_gamma": 67.25,
-    "net_gex": 3078181,
-    "call_gex": 11020189,
-    "put_gex": -7942008,
+    "net_gex": 2826380,
+    "call_gex": 10890892,
+    "put_gex": -8064511,
     "call_walls": [
       67.5,
       67,

@@ -1,12 +1,12 @@
 {
   "symbol": "PG",
-  "timestamp": "2025-10-02T15:20:55Z",
+  "timestamp": "2025-10-02T16:20:52Z",
   "data": {
     "spot": 153.18,
     "zero_gamma": 153.18,
-    "net_gex": -4147405,
-    "call_gex": 21356291,
-    "put_gex": -25503696,
+    "net_gex": -1043631,
+    "call_gex": 22578986,
+    "put_gex": -23622617,
     "call_walls": [
       155,
       160,

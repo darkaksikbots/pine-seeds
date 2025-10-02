@@ -1,12 +1,12 @@
 {
   "symbol": "PM",
-  "timestamp": "2025-10-02T15:21:10Z",
+  "timestamp": "2025-10-02T16:21:08Z",
   "data": {
     "spot": 160.86,
     "zero_gamma": 160.86,
-    "net_gex": -1118850,
-    "call_gex": 7787738,
-    "put_gex": -8906589,
+    "net_gex": -1099494,
+    "call_gex": 7795672,
+    "put_gex": -8895167,
     "call_walls": [
       170,
       165,

@@ -1,12 +1,12 @@
 {
   "symbol": "PANW",
-  "timestamp": "2025-10-02T15:07:09Z",
+  "timestamp": "2025-10-02T16:07:07Z",
   "data": {
     "spot": 206.8,
     "zero_gamma": 198.75,
-    "net_gex": 25689071,
-    "call_gex": 37101167,
-    "put_gex": -11412096,
+    "net_gex": 25199510,
+    "call_gex": 36754165,
+    "put_gex": -11554654,
     "call_walls": [
       210,
       220,

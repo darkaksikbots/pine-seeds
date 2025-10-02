@@ -1,12 +1,12 @@
 {
   "symbol": "PYPL",
-  "timestamp": "2025-10-02T15:17:49Z",
+  "timestamp": "2025-10-02T16:17:56Z",
   "data": {
     "spot": 66.66,
-    "zero_gamma": 72.75,
-    "net_gex": 194088,
-    "call_gex": 19425074,
-    "put_gex": -19230986,
+    "zero_gamma": 66.66,
+    "net_gex": -1102334,
+    "call_gex": 18819662,
+    "put_gex": -19921996,
     "call_walls": [
       70,
       68,

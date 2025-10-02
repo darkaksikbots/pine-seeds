@@ -1,12 +1,12 @@
 {
   "symbol": "BAC",
-  "timestamp": "2025-10-02T15:12:24Z",
+  "timestamp": "2025-10-02T16:12:28Z",
   "data": {
     "spot": 50.68,
     "zero_gamma": 52.25,
-    "net_gex": 15358508,
-    "call_gex": 34985914,
-    "put_gex": -19627405,
+    "net_gex": 16062247,
+    "call_gex": 35371790,
+    "put_gex": -19309542,
     "call_walls": [
       52.5,
       55,

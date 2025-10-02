@@ -1,12 +1,12 @@
 {
   "symbol": "AEP",
-  "timestamp": "2025-10-02T15:27:36Z",
+  "timestamp": "2025-10-02T16:27:34Z",
   "data": {
     "spot": 112.75,
     "zero_gamma": 107.5,
-    "net_gex": 4962877,
-    "call_gex": 6059794,
-    "put_gex": -1096917,
+    "net_gex": 4457325,
+    "call_gex": 5655747,
+    "put_gex": -1198422,
     "call_walls": [
       115,
       120
