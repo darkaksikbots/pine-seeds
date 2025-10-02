@@ -1,12 +1,12 @@
 {
   "symbol": "DIS",
-  "timestamp": "2025-10-02T14:23:29Z",
+  "timestamp": "2025-10-02T15:23:36Z",
   "data": {
     "spot": 112.95,
     "zero_gamma": 112.95,
-    "net_gex": -3973963,
-    "call_gex": 28050193,
-    "put_gex": -32024157,
+    "net_gex": -4101271,
+    "call_gex": 27991950,
+    "put_gex": -32093221,
     "call_walls": [
       115,
       120,

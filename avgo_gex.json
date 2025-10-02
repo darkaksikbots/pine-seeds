@@ -1,12 +1,12 @@
 {
   "symbol": "AVGO",
-  "timestamp": "2025-10-02T14:03:30Z",
+  "timestamp": "2025-10-02T15:03:34Z",
   "data": {
     "spot": 333.39,
     "zero_gamma": 343.75,
-    "net_gex": 55765123,
-    "call_gex": 126640351,
-    "put_gex": -70875228,
+    "net_gex": 56543141,
+    "call_gex": 126071121,
+    "put_gex": -69527980,
     "call_walls": [
       350,
       340,
@@ -22,7 +22,7 @@
       325
     ],
     "hvl": 330,
-    "contracts": 126,
+    "contracts": 125,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

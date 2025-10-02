@@ -1,12 +1,12 @@
 {
   "symbol": "AMGN",
-  "timestamp": "2025-10-02T14:29:53Z",
+  "timestamp": "2025-10-02T15:29:57Z",
   "data": {
     "spot": 298.5,
-    "zero_gamma": 282.5,
-    "net_gex": 13118486,
-    "call_gex": 34215689,
-    "put_gex": -21097202,
+    "zero_gamma": 298.75,
+    "net_gex": 8698259,
+    "call_gex": 32017687,
+    "put_gex": -23319428,
     "call_walls": [
       300,
       315,

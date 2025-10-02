@@ -1,12 +1,12 @@
 {
   "symbol": "MRK",
-  "timestamp": "2025-10-02T14:28:30Z",
+  "timestamp": "2025-10-02T15:28:34Z",
   "data": {
     "spot": 90.13,
     "zero_gamma": 81,
-    "net_gex": 16557913,
-    "call_gex": 21413766,
-    "put_gex": -4855852,
+    "net_gex": 16112756,
+    "call_gex": 21096119,
+    "put_gex": -4983363,
     "call_walls": [
       95,
       91,

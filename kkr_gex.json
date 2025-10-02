@@ -1,12 +1,12 @@
 {
   "symbol": "KKR",
-  "timestamp": "2025-10-02T14:16:10Z",
+  "timestamp": "2025-10-02T15:16:12Z",
   "data": {
     "spot": 127.47,
-    "zero_gamma": 131.0,
-    "net_gex": 659770,
-    "call_gex": 2637658,
-    "put_gex": -1977888,
+    "zero_gamma": 135.5,
+    "net_gex": 31819,
+    "call_gex": 2227644,
+    "put_gex": -2195824,
     "call_walls": [
       132,
       139,

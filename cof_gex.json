@@ -1,12 +1,12 @@
 {
   "symbol": "COF",
-  "timestamp": "2025-10-02T14:15:02Z",
+  "timestamp": "2025-10-02T15:15:03Z",
   "data": {
     "spot": 213.48,
     "zero_gamma": 223.75,
-    "net_gex": 8455129,
-    "call_gex": 16197507,
-    "put_gex": -7742377,
+    "net_gex": 6858036,
+    "call_gex": 15273475,
+    "put_gex": -8415439,
     "call_walls": [
       225,
       230,

@@ -1,12 +1,12 @@
 {
   "symbol": "HD",
-  "timestamp": "2025-10-02T14:19:08Z",
+  "timestamp": "2025-10-02T15:19:10Z",
   "data": {
     "spot": 397.02,
     "zero_gamma": 397.02,
-    "net_gex": -20005459,
-    "call_gex": 42544823,
-    "put_gex": -62550282,
+    "net_gex": -19251513,
+    "call_gex": 42899780,
+    "put_gex": -62151293,
     "call_walls": [
       415,
       410,

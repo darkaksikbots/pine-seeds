@@ -1,12 +1,12 @@
 {
   "symbol": "INTU",
-  "timestamp": "2025-10-02T14:05:58Z",
+  "timestamp": "2025-10-02T15:05:59Z",
   "data": {
     "spot": 679.5,
     "zero_gamma": 695.0,
-    "net_gex": 5949176,
-    "call_gex": 9861292,
-    "put_gex": -3912116,
+    "net_gex": 6321929,
+    "call_gex": 10118819,
+    "put_gex": -3796890,
     "call_walls": [
       700,
       710,

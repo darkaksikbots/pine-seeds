@@ -1,12 +1,12 @@
 {
   "symbol": "SCHW",
-  "timestamp": "2025-10-02T14:14:30Z",
+  "timestamp": "2025-10-02T15:14:32Z",
   "data": {
     "spot": 92.25,
     "zero_gamma": 97.25,
-    "net_gex": 2271664,
-    "call_gex": 7290710,
-    "put_gex": -5019046,
+    "net_gex": 2477730,
+    "call_gex": 7408764,
+    "put_gex": -4931034,
     "call_walls": [
       95,
       100,

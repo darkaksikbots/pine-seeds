@@ -1,12 +1,12 @@
 {
   "symbol": "ICE",
-  "timestamp": "2025-10-02T14:16:39Z",
+  "timestamp": "2025-10-02T15:16:40Z",
   "data": {
     "spot": 162.64,
     "zero_gamma": 167.5,
-    "net_gex": 1401242,
-    "call_gex": 2351028,
-    "put_gex": -949786,
+    "net_gex": 2054237,
+    "call_gex": 2790784,
+    "put_gex": -736547,
     "call_walls": [
       170,
       175

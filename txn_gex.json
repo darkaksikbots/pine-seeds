@@ -1,12 +1,12 @@
 {
   "symbol": "TXN",
-  "timestamp": "2025-10-02T14:07:40Z",
+  "timestamp": "2025-10-02T15:07:44Z",
   "data": {
     "spot": 180.39,
     "zero_gamma": 180.39,
-    "net_gex": -4507444,
-    "call_gex": 17419457,
-    "put_gex": -21926901,
+    "net_gex": -4320013,
+    "call_gex": 17498693,
+    "put_gex": -21818706,
     "call_walls": [
       185,
       190,

@@ -1,12 +1,12 @@
 {
   "symbol": "DHR",
-  "timestamp": "2025-10-02T14:30:26Z",
+  "timestamp": "2025-10-02T15:30:31Z",
   "data": {
     "spot": 212.88,
     "zero_gamma": 195,
-    "net_gex": 3768774,
-    "call_gex": 5024650,
-    "put_gex": -1255876,
+    "net_gex": 3943133,
+    "call_gex": 5127679,
+    "put_gex": -1184546,
     "call_walls": [
       220,
       230,
