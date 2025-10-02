@@ -1,12 +1,12 @@
 {
   "symbol": "TMO",
-  "timestamp": "2025-10-02T11:29:58Z",
+  "timestamp": "2025-10-02T12:30:08Z",
   "data": {
     "spot": 530.73,
     "zero_gamma": 480,
-    "net_gex": 46368187,
-    "call_gex": 47044910,
-    "put_gex": -676723,
+    "net_gex": 45967034,
+    "call_gex": 46651025,
+    "put_gex": -683990,
     "call_walls": [
       550,
       540

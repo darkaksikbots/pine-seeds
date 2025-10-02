@@ -1,12 +1,12 @@
 {
   "symbol": "CL",
-  "timestamp": "2025-10-02T11:21:23Z",
+  "timestamp": "2025-10-02T12:21:28Z",
   "data": {
     "spot": 79.01,
     "zero_gamma": 84.0,
-    "net_gex": 511948,
-    "call_gex": 942609,
-    "put_gex": -430660,
+    "net_gex": 313878,
+    "call_gex": 814233,
+    "put_gex": -500355,
     "call_walls": [
       85,
       82,

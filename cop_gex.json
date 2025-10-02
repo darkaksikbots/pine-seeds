@@ -1,12 +1,12 @@
 {
   "symbol": "COP",
-  "timestamp": "2025-10-02T11:24:39Z",
+  "timestamp": "2025-10-02T12:24:49Z",
   "data": {
     "spot": 95.46,
     "zero_gamma": 99.5,
-    "net_gex": 1480761,
-    "call_gex": 9054122,
-    "put_gex": -7573361,
+    "net_gex": 1573906,
+    "call_gex": 9098136,
+    "put_gex": -7524229,
     "call_walls": [
       100,
       105,

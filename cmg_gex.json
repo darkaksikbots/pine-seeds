@@ -1,12 +1,12 @@
 {
   "symbol": "CMG",
-  "timestamp": "2025-10-02T11:22:11Z",
+  "timestamp": "2025-10-02T12:22:15Z",
   "data": {
     "spot": 38.97,
     "zero_gamma": 38.97,
-    "net_gex": -6786274,
-    "call_gex": 7305118,
-    "put_gex": -14091393,
+    "net_gex": -6958763,
+    "call_gex": 7255153,
+    "put_gex": -14213916,
     "call_walls": [
       40,
       42,

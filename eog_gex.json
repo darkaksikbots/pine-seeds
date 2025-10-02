@@ -1,12 +1,12 @@
 {
   "symbol": "EOG",
-  "timestamp": "2025-10-02T11:24:56Z",
+  "timestamp": "2025-10-02T12:25:05Z",
   "data": {
     "spot": 111.27,
     "zero_gamma": 111.27,
-    "net_gex": -579429,
-    "call_gex": 1251384,
-    "put_gex": -1830813,
+    "net_gex": -625676,
+    "call_gex": 1233695,
+    "put_gex": -1859372,
     "call_walls": [
       120,
       115,

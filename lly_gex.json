@@ -1,12 +1,12 @@
 {
   "symbol": "LLY",
-  "timestamp": "2025-10-02T11:28:53Z",
+  "timestamp": "2025-10-02T12:29:02Z",
   "data": {
     "spot": 825.42,
     "zero_gamma": 748.75,
-    "net_gex": 68582421,
-    "call_gex": 82601251,
-    "put_gex": -14018830,
+    "net_gex": 68268839,
+    "call_gex": 82358301,
+    "put_gex": -14089462,
     "call_walls": [
       850,
       860,

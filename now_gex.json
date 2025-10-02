@@ -1,18 +1,18 @@
 {
   "symbol": "NOW",
-  "timestamp": "2025-10-02T11:05:41Z",
+  "timestamp": "2025-10-02T12:05:36Z",
   "data": {
     "spot": 912.43,
     "zero_gamma": 955.0,
-    "net_gex": 4749855,
-    "call_gex": 19811570,
-    "put_gex": -15061714,
+    "net_gex": 7603536,
+    "call_gex": 21344426,
+    "put_gex": -13740890,
     "call_walls": [
       940,
       960,
       920,
       1000,
-      980
+      930
     ],
     "put_walls": [
       900,

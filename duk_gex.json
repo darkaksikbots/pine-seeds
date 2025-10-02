@@ -1,12 +1,12 @@
 {
   "symbol": "DUK",
-  "timestamp": "2025-10-02T11:26:50Z",
+  "timestamp": "2025-10-02T12:27:00Z",
   "data": {
     "spot": 122.39,
     "zero_gamma": 122.5,
-    "net_gex": 12623960,
-    "call_gex": 16449884,
-    "put_gex": -3825923,
+    "net_gex": 10852663,
+    "call_gex": 15083769,
+    "put_gex": -4231106,
     "call_walls": [
       125,
       130

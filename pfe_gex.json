@@ -1,12 +1,12 @@
 {
   "symbol": "PFE",
-  "timestamp": "2025-10-02T11:28:02Z",
+  "timestamp": "2025-10-02T12:28:11Z",
   "data": {
     "spot": 27.21,
     "zero_gamma": 24.25,
-    "net_gex": 23538834,
-    "call_gex": 27972397,
-    "put_gex": -4433563,
+    "net_gex": 23433521,
+    "call_gex": 27946506,
+    "put_gex": -4512984,
     "call_walls": [
       28,
       29,

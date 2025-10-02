@@ -1,12 +1,12 @@
 {
   "symbol": "CRWD",
-  "timestamp": "2025-10-02T11:07:26Z",
+  "timestamp": "2025-10-02T12:07:23Z",
   "data": {
     "spot": 499.96,
     "zero_gamma": 477.5,
-    "net_gex": 26267235,
-    "call_gex": 42315364,
-    "put_gex": -16048128,
+    "net_gex": 27726186,
+    "call_gex": 43206171,
+    "put_gex": -15479984,
     "call_walls": [
       500,
       520,
