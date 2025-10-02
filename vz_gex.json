@@ -1,12 +1,12 @@
 {
   "symbol": "VZ",
-  "timestamp": "2025-10-02T23:32:37Z",
+  "timestamp": "2025-10-03T00:54:38Z",
   "data": {
     "spot": 43.83,
     "zero_gamma": 43.75,
-    "net_gex": 27053011,
-    "call_gex": 43510096,
-    "put_gex": -16457084,
+    "net_gex": 27063972,
+    "call_gex": 43518238,
+    "put_gex": -16454265,
     "call_walls": [
       44,
       45,
@@ -21,9 +21,27 @@
       39,
       40
     ],
+    "call_walls_pct": [
+      100.0,
+      52.3,
+      21.2,
+      19.1,
+      6.4
+    ],
+    "put_walls_pct": [
+      100.0,
+      82.0,
+      26.0,
+      16.0,
+      13.4
+    ],
+    "total_call_oi": 129219,
+    "total_put_oi": 71121,
+    "total_oi": 200340,
+    "put_call_oi_ratio": 0.55,
     "hvl": 44,
     "contracts": 63,
-    "oi_vintage": "2025-10-02",
+    "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
   }

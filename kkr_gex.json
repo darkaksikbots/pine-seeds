@@ -1,12 +1,12 @@
 {
   "symbol": "KKR",
-  "timestamp": "2025-10-02T23:16:14Z",
+  "timestamp": "2025-10-03T00:37:21Z",
   "data": {
     "spot": 127.47,
     "zero_gamma": 127.47,
-    "net_gex": -1082804,
-    "call_gex": 997594,
-    "put_gex": -2080399,
+    "net_gex": -1082839,
+    "call_gex": 997535,
+    "put_gex": -2080374,
     "call_walls": [
       139,
       140,
@@ -18,9 +18,24 @@
       120,
       125
     ],
+    "call_walls_pct": [
+      100.0,
+      50.0,
+      43.5,
+      19.3,
+      13.0
+    ],
+    "put_walls_pct": [
+      100.0,
+      98.2
+    ],
+    "total_call_oi": 3147,
+    "total_put_oi": 3576,
+    "total_oi": 6723,
+    "put_call_oi_ratio": 1.14,
     "hvl": 130,
     "contracts": 10,
-    "oi_vintage": "2025-10-02",
+    "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
   }

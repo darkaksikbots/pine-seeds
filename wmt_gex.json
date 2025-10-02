@@ -1,12 +1,12 @@
 {
   "symbol": "WMT",
-  "timestamp": "2025-10-02T23:18:19Z",
+  "timestamp": "2025-10-03T00:39:34Z",
   "data": {
     "spot": 101.96,
     "zero_gamma": 102.5,
-    "net_gex": 26262856,
-    "call_gex": 52604842,
-    "put_gex": -26341986,
+    "net_gex": 26051396,
+    "call_gex": 52466241,
+    "put_gex": -26414844,
     "call_walls": [
       103,
       105,
@@ -21,9 +21,27 @@
       101,
       99
     ],
+    "call_walls_pct": [
+      100.0,
+      82.9,
+      31.8,
+      20.6,
+      18.8
+    ],
+    "put_walls_pct": [
+      100.0,
+      45.5,
+      31.6,
+      24.1,
+      19.0
+    ],
+    "total_call_oi": 74123,
+    "total_put_oi": 39861,
+    "total_oi": 113984,
+    "put_call_oi_ratio": 0.54,
     "hvl": 100,
     "contracts": 89,
-    "oi_vintage": "2025-10-02",
+    "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
   }

@@ -1,12 +1,12 @@
 {
   "symbol": "JPM",
-  "timestamp": "2025-10-02T23:12:08Z",
+  "timestamp": "2025-10-03T00:33:03Z",
   "data": {
     "spot": 310.71,
     "zero_gamma": 318.75,
-    "net_gex": 35168060,
-    "call_gex": 106733816,
-    "put_gex": -71565756,
+    "net_gex": 35736060,
+    "call_gex": 107001851,
+    "put_gex": -71265791,
     "call_walls": [
       315,
       320,
@@ -21,9 +21,27 @@
       305,
       295
     ],
+    "call_walls_pct": [
+      100.0,
+      55.7,
+      44.8,
+      41.8,
+      26.7
+    ],
+    "put_walls_pct": [
+      100.0,
+      19.6,
+      13.8,
+      11.2,
+      9.0
+    ],
+    "total_call_oi": 68790,
+    "total_put_oi": 43821,
+    "total_oi": 112611,
+    "put_call_oi_ratio": 0.64,
     "hvl": 300,
     "contracts": 85,
-    "oi_vintage": "2025-10-02",
+    "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
   }

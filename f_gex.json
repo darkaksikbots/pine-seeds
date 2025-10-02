@@ -1,12 +1,12 @@
 {
   "symbol": "F",
-  "timestamp": "2025-10-02T23:09:34Z",
+  "timestamp": "2025-10-03T00:30:24Z",
   "data": {
     "spot": 12.27,
     "zero_gamma": 11.75,
-    "net_gex": 4700671,
-    "call_gex": 7527240,
-    "put_gex": -2826568,
+    "net_gex": 4454818,
+    "call_gex": 7347337,
+    "put_gex": -2892518,
     "call_walls": [
       12.5,
       13
@@ -16,9 +16,22 @@
       11.5,
       11
     ],
+    "call_walls_pct": [
+      100.0,
+      42.5
+    ],
+    "put_walls_pct": [
+      100.0,
+      58.8,
+      37.1
+    ],
+    "total_call_oi": 121567,
+    "total_put_oi": 58146,
+    "total_oi": 179713,
+    "put_call_oi_ratio": 0.48,
     "hvl": 12,
-    "contracts": 44,
-    "oi_vintage": "2025-10-02",
+    "contracts": 43,
+    "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
   }
