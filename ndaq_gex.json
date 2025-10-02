@@ -1,18 +1,19 @@
 {
   "symbol": "NDAQ",
-  "timestamp": "2025-10-02T17:18:58Z",
+  "timestamp": "2025-10-02T18:18:42Z",
   "data": {
     "spot": 86.91,
-    "zero_gamma": 90,
-    "net_gex": 821177,
-    "call_gex": 821177,
-    "put_gex": 0,
+    "zero_gamma": 88.75,
+    "net_gex": 610980,
+    "call_gex": 865483,
+    "put_gex": -254502,
     "call_walls": [
-      90
+      90,
+      87.5
     ],
     "put_walls": [],
     "hvl": 90,
-    "contracts": 1,
+    "contracts": 3,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

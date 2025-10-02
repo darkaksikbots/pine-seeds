@@ -1,28 +1,28 @@
 {
   "symbol": "META",
-  "timestamp": "2025-10-02T17:03:25Z",
+  "timestamp": "2025-10-02T18:03:25Z",
   "data": {
     "spot": 717.34,
-    "zero_gamma": 645,
-    "net_gex": 34221753,
-    "call_gex": 357244486,
-    "put_gex": -323022733,
+    "zero_gamma": 717.34,
+    "net_gex": -51766575,
+    "call_gex": 368217359,
+    "put_gex": -419983935,
     "call_walls": [
       750,
       730,
-      770,
       720,
-      760
+      740,
+      770
     ],
     "put_walls": [
       700,
+      715,
       710,
       690,
-      715,
-      680
+      695
     ],
     "hvl": 750,
-    "contracts": 177,
+    "contracts": 226,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

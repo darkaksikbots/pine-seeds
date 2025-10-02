@@ -1,15 +1,15 @@
 {
   "symbol": "NVDA",
-  "timestamp": "2025-10-02T17:02:41Z",
+  "timestamp": "2025-10-02T18:02:43Z",
   "data": {
     "spot": 187.24,
     "zero_gamma": 183.75,
-    "net_gex": 519039399,
-    "call_gex": 785146718,
-    "put_gex": -266107318,
+    "net_gex": 484856534,
+    "call_gex": 759569006,
+    "put_gex": -274712471,
     "call_walls": [
-      190,
       200,
+      190,
       195,
       192.5,
       187.5
@@ -22,7 +22,7 @@
       182.5
     ],
     "hvl": 170,
-    "contracts": 101,
+    "contracts": 104,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

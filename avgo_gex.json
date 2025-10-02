@@ -1,18 +1,18 @@
 {
   "symbol": "AVGO",
-  "timestamp": "2025-10-02T17:04:14Z",
+  "timestamp": "2025-10-02T18:04:14Z",
   "data": {
     "spot": 333.39,
     "zero_gamma": 348.75,
-    "net_gex": 30877529,
-    "call_gex": 104491871,
-    "put_gex": -73614342,
+    "net_gex": 35722849,
+    "call_gex": 112527782,
+    "put_gex": -76804933,
     "call_walls": [
       350,
       340,
       360,
-      345,
-      355
+      355,
+      345
     ],
     "put_walls": [
       330,
@@ -21,8 +21,8 @@
       300,
       325
     ],
-    "hvl": 350,
-    "contracts": 104,
+    "hvl": 330,
+    "contracts": 123,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

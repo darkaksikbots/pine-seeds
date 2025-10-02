@@ -1,19 +1,22 @@
 {
   "symbol": "AEP",
-  "timestamp": "2025-10-02T17:30:39Z",
+  "timestamp": "2025-10-02T18:30:11Z",
   "data": {
     "spot": 112.75,
-    "zero_gamma": 115,
-    "net_gex": 1787490,
-    "call_gex": 1787490,
-    "put_gex": 0,
+    "zero_gamma": 107.5,
+    "net_gex": 4922058,
+    "call_gex": 5871695,
+    "put_gex": -949636,
     "call_walls": [
       115,
       120
     ],
-    "put_walls": [],
-    "hvl": 120,
-    "contracts": 2,
+    "put_walls": [
+      110,
+      105
+    ],
+    "hvl": 110,
+    "contracts": 5,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
