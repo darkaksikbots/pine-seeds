@@ -1,12 +1,12 @@
 {
   "symbol": "XOM",
-  "timestamp": "2025-10-01T23:24:23Z",
+  "timestamp": "2025-10-02T11:24:07Z",
   "data": {
-    "spot": 112.75,
-    "zero_gamma": 116.5,
-    "net_gex": 20232825,
-    "call_gex": 57144311,
-    "put_gex": -36911485,
+    "spot": 111.99,
+    "zero_gamma": 118.5,
+    "net_gex": 15721592,
+    "call_gex": 55003969,
+    "put_gex": -39282376,
     "call_walls": [
       115,
       120,
@@ -17,13 +17,13 @@
     "put_walls": [
       105,
       110,
-      112,
       111,
-      109
+      109,
+      100
     ],
     "hvl": 105,
-    "contracts": 92,
-    "oi_vintage": "2025-10-01",
+    "contracts": 93,
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }

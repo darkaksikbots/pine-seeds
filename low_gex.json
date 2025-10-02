@@ -1,25 +1,25 @@
 {
   "symbol": "LOW",
-  "timestamp": "2025-10-01T23:19:36Z",
+  "timestamp": "2025-10-02T11:19:19Z",
   "data": {
-    "spot": 251.31,
-    "zero_gamma": 251.31,
-    "net_gex": -11227410,
-    "call_gex": 5009256,
-    "put_gex": -16236667,
+    "spot": 247.99,
+    "zero_gamma": 247.99,
+    "net_gex": -10147642,
+    "call_gex": 5151609,
+    "put_gex": -15299252,
     "call_walls": [
+      250,
       260,
       257.5,
       262.5
     ],
     "put_walls": [
       240,
-      250,
       230
     ],
     "hvl": 240,
     "contracts": 13,
-    "oi_vintage": "2025-10-01",
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }

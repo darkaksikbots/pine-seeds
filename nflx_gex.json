@@ -1,12 +1,12 @@
 {
   "symbol": "NFLX",
-  "timestamp": "2025-10-01T23:23:20Z",
+  "timestamp": "2025-10-02T11:23:04Z",
   "data": {
-    "spot": 1198.92,
-    "zero_gamma": 1198.92,
-    "net_gex": -65338421,
-    "call_gex": 167796076,
-    "put_gex": -233134497,
+    "spot": 1170.9,
+    "zero_gamma": 1170.9,
+    "net_gex": -85375718,
+    "call_gex": 148286450,
+    "put_gex": -233662169,
     "call_walls": [
       1200,
       1220,
@@ -16,14 +16,14 @@
     ],
     "put_walls": [
       1150,
-      1100,
       1140,
+      1100,
       1160,
       1130
     ],
     "hvl": 1200,
-    "contracts": 154,
-    "oi_vintage": "2025-10-01",
+    "contracts": 149,
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }

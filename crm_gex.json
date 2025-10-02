@@ -1,18 +1,18 @@
 {
   "symbol": "CRM",
-  "timestamp": "2025-10-01T23:05:07Z",
+  "timestamp": "2025-10-02T11:05:03Z",
   "data": {
-    "spot": 237,
-    "zero_gamma": 237,
-    "net_gex": -15862571,
-    "call_gex": 20390371,
-    "put_gex": -36252942,
+    "spot": 235.69,
+    "zero_gamma": 235.69,
+    "net_gex": -18200497,
+    "call_gex": 16536017,
+    "put_gex": -34736514,
     "call_walls": [
       250,
-      260,
       240,
       245,
-      255
+      255,
+      252.5
     ],
     "put_walls": [
       230,
@@ -22,8 +22,8 @@
       215
     ],
     "hvl": 250,
-    "contracts": 73,
-    "oi_vintage": "2025-10-01",
+    "contracts": 70,
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }

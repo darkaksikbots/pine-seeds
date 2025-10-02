@@ -1,22 +1,23 @@
 {
   "symbol": "BK",
-  "timestamp": "2025-10-01T23:14:55Z",
+  "timestamp": "2025-10-02T11:14:40Z",
   "data": {
-    "spot": 108.96,
+    "spot": 106.83,
     "zero_gamma": 110.0,
-    "net_gex": 175908,
-    "call_gex": 777102,
-    "put_gex": -601193,
+    "net_gex": 48843,
+    "call_gex": 786075,
+    "put_gex": -737232,
     "call_walls": [
       115
     ],
     "put_walls": [
       105,
+      97.5,
       100
     ],
     "hvl": 115,
-    "contracts": 4,
-    "oi_vintage": "2025-10-01",
+    "contracts": 5,
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }

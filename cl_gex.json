@@ -1,12 +1,12 @@
 {
   "symbol": "CL",
-  "timestamp": "2025-10-01T23:21:40Z",
+  "timestamp": "2025-10-02T11:21:23Z",
   "data": {
-    "spot": 79.94,
+    "spot": 79.01,
     "zero_gamma": 84.0,
-    "net_gex": 381730,
-    "call_gex": 869911,
-    "put_gex": -488181,
+    "net_gex": 511948,
+    "call_gex": 942609,
+    "put_gex": -430660,
     "call_walls": [
       85,
       82,
@@ -19,7 +19,7 @@
     ],
     "hvl": 85,
     "contracts": 9,
-    "oi_vintage": "2025-10-01",
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }
