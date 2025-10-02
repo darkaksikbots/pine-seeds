@@ -1,22 +1,24 @@
 {
   "symbol": "DHR",
-  "timestamp": "2025-10-02T12:30:24Z",
+  "timestamp": "2025-10-02T13:30:16Z",
   "data": {
     "spot": 212.88,
     "zero_gamma": 195,
-    "net_gex": 3670562,
-    "call_gex": 4182128,
-    "put_gex": -511565,
+    "net_gex": 3197378,
+    "call_gex": 4447152,
+    "put_gex": -1249773,
     "call_walls": [
       220,
       230
     ],
     "put_walls": [
+      207.5,
+      200,
       195,
-      200
+      210
     ],
     "hvl": 200,
-    "contracts": 12,
+    "contracts": 15,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

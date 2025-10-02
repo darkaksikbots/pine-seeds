@@ -1,12 +1,12 @@
 {
   "symbol": "MS",
-  "timestamp": "2025-10-02T12:13:30Z",
+  "timestamp": "2025-10-02T13:13:27Z",
   "data": {
     "spot": 156.89,
     "zero_gamma": 145,
-    "net_gex": -4318248,
-    "call_gex": 20932790,
-    "put_gex": -25251039,
+    "net_gex": -7085711,
+    "call_gex": 20041767,
+    "put_gex": -27127478,
     "call_walls": [
       160,
       165,

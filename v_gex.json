@@ -1,12 +1,12 @@
 {
   "symbol": "V",
-  "timestamp": "2025-10-02T12:17:10Z",
+  "timestamp": "2025-10-02T13:17:08Z",
   "data": {
     "spot": 347.83,
     "zero_gamma": 353.75,
-    "net_gex": 19645504,
-    "call_gex": 50072910,
-    "put_gex": -30427405,
+    "net_gex": 21651345,
+    "call_gex": 51308368,
+    "put_gex": -29657023,
     "call_walls": [
       350,
       355,

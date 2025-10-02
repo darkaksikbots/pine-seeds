@@ -1,12 +1,12 @@
 {
   "symbol": "JPM",
-  "timestamp": "2025-10-02T12:12:01Z",
+  "timestamp": "2025-10-02T13:12:03Z",
   "data": {
     "spot": 310.71,
     "zero_gamma": 328.75,
-    "net_gex": 25951437,
-    "call_gex": 104920413,
-    "put_gex": -78968976,
+    "net_gex": 20177057,
+    "call_gex": 102044357,
+    "put_gex": -81867300,
     "call_walls": [
       315,
       320,

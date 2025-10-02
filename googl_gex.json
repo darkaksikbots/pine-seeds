@@ -1,12 +1,12 @@
 {
   "symbol": "GOOGL",
-  "timestamp": "2025-10-02T12:03:11Z",
+  "timestamp": "2025-10-02T13:03:11Z",
   "data": {
     "spot": 244.9,
     "zero_gamma": 220,
-    "net_gex": 80717616,
-    "call_gex": 188520695,
-    "put_gex": -107803079,
+    "net_gex": 71079088,
+    "call_gex": 183533205,
+    "put_gex": -112454116,
     "call_walls": [
       250,
       260,
@@ -19,7 +19,7 @@
       235,
       230,
       225,
-      220
+      242.5
     ],
     "hvl": 250,
     "contracts": 110,

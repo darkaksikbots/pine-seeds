@@ -1,12 +1,12 @@
 {
   "symbol": "IBM",
-  "timestamp": "2025-10-02T12:06:12Z",
+  "timestamp": "2025-10-02T13:06:12Z",
   "data": {
     "spot": 286.49,
     "zero_gamma": 260,
-    "net_gex": 44545171,
-    "call_gex": 52229312,
-    "put_gex": -7684141,
+    "net_gex": 44640933,
+    "call_gex": 52293335,
+    "put_gex": -7652402,
     "call_walls": [
       300,
       295,

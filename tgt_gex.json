@@ -1,12 +1,12 @@
 {
   "symbol": "TGT",
-  "timestamp": "2025-10-02T12:18:50Z",
+  "timestamp": "2025-10-02T13:18:46Z",
   "data": {
     "spot": 89.14,
-    "zero_gamma": 92.5,
-    "net_gex": 8900171,
-    "call_gex": 28132241,
-    "put_gex": -19232069,
+    "zero_gamma": 91.5,
+    "net_gex": 9612095,
+    "call_gex": 28548827,
+    "put_gex": -18936732,
     "call_walls": [
       90,
       95,

@@ -1,12 +1,12 @@
 {
   "symbol": "MSFT",
-  "timestamp": "2025-10-02T12:01:56Z",
+  "timestamp": "2025-10-02T13:01:55Z",
   "data": {
     "spot": 519.71,
-    "zero_gamma": 523.75,
-    "net_gex": 346050739,
-    "call_gex": 651540696,
-    "put_gex": -305489957,
+    "zero_gamma": 527.5,
+    "net_gex": 293360437,
+    "call_gex": 618551506,
+    "put_gex": -325191068,
     "call_walls": [
       535,
       520,
