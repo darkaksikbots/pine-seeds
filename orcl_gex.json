@@ -1,12 +1,12 @@
 {
   "symbol": "ORCL",
-  "timestamp": "2025-10-02T20:04:56Z",
+  "timestamp": "2025-10-02T21:04:50Z",
   "data": {
     "spot": 289.01,
     "zero_gamma": 313.75,
-    "net_gex": 3650236,
-    "call_gex": 101108803,
-    "put_gex": -97458567,
+    "net_gex": 3937324,
+    "call_gex": 101777848,
+    "put_gex": -97840523,
     "call_walls": [
       300,
       315,

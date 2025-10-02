@@ -1,12 +1,12 @@
 {
   "symbol": "MDLZ",
-  "timestamp": "2025-10-02T20:22:35Z",
+  "timestamp": "2025-10-02T21:22:23Z",
   "data": {
     "spot": 63.17,
     "zero_gamma": 59.75,
-    "net_gex": 600390,
-    "call_gex": 634467,
-    "put_gex": -34076,
+    "net_gex": 1279065,
+    "call_gex": 1310245,
+    "put_gex": -31179,
     "call_walls": [
       65,
       67.5,
@@ -17,8 +17,8 @@
     "put_walls": [
       57.5
     ],
-    "hvl": 65,
-    "contracts": 7,
+    "hvl": 62.5,
+    "contracts": 8,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

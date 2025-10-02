@@ -1,18 +1,18 @@
 {
   "symbol": "MA",
-  "timestamp": "2025-10-02T20:18:03Z",
+  "timestamp": "2025-10-02T21:17:53Z",
   "data": {
     "spot": 573.77,
-    "zero_gamma": 573.77,
-    "net_gex": -397863,
-    "call_gex": 9658048,
-    "put_gex": -10055912,
+    "zero_gamma": 597.5,
+    "net_gex": 6097890,
+    "call_gex": 15346374,
+    "put_gex": -9248484,
     "call_walls": [
       600,
+      595,
       590,
-      620,
-      615,
-      630
+      610,
+      620
     ],
     "put_walls": [
       565,
@@ -22,7 +22,7 @@
       545
     ],
     "hvl": 600,
-    "contracts": 18,
+    "contracts": 19,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

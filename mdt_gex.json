@@ -1,12 +1,12 @@
 {
   "symbol": "MDT",
-  "timestamp": "2025-10-02T20:31:19Z",
+  "timestamp": "2025-10-02T21:31:04Z",
   "data": {
     "spot": 94.81,
     "zero_gamma": 93.25,
-    "net_gex": 15853808,
-    "call_gex": 17705378,
-    "put_gex": -1851570,
+    "net_gex": 15837837,
+    "call_gex": 17722860,
+    "put_gex": -1885023,
     "call_walls": [
       95,
       97.5,

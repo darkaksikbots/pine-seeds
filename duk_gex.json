@@ -1,20 +1,21 @@
 {
   "symbol": "DUK",
-  "timestamp": "2025-10-02T20:27:33Z",
+  "timestamp": "2025-10-02T21:27:22Z",
   "data": {
     "spot": 122.39,
     "zero_gamma": 122.5,
-    "net_gex": 10202556,
-    "call_gex": 13624172,
-    "put_gex": -3421616,
+    "net_gex": 11389690,
+    "call_gex": 14868894,
+    "put_gex": -3479204,
     "call_walls": [
-      125
+      125,
+      130
     ],
     "put_walls": [
       120
     ],
     "hvl": 125,
-    "contracts": 3,
+    "contracts": 4,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "ABBV",
-  "timestamp": "2025-10-02T20:29:19Z",
+  "timestamp": "2025-10-02T21:29:06Z",
   "data": {
     "spot": 244.38,
     "zero_gamma": 220,
-    "net_gex": 25503867,
-    "call_gex": 29858455,
-    "put_gex": -4354587,
+    "net_gex": 25856373,
+    "call_gex": 30172277,
+    "put_gex": -4315904,
     "call_walls": [
       250,
       245,
