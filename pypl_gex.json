@@ -1,28 +1,28 @@
 {
   "symbol": "PYPL",
-  "timestamp": "2025-10-02T13:17:43Z",
+  "timestamp": "2025-10-02T14:17:47Z",
   "data": {
     "spot": 66.66,
     "zero_gamma": 66.66,
-    "net_gex": -684270,
-    "call_gex": 17569833,
-    "put_gex": -18254103,
+    "net_gex": -481945,
+    "call_gex": 19111423,
+    "put_gex": -19593368,
     "call_walls": [
       70,
-      72.5,
       68,
-      72,
-      71
+      72.5,
+      71,
+      72
     ],
     "put_walls": [
       65,
-      60,
       66,
-      62.5,
-      64
+      60,
+      64,
+      62.5
     ],
     "hvl": 70,
-    "contracts": 91,
+    "contracts": 96,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

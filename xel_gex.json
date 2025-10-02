@@ -1,12 +1,12 @@
 {
   "symbol": "XEL",
-  "timestamp": "2025-10-02T13:27:33Z",
+  "timestamp": "2025-10-02T14:27:44Z",
   "data": {
     "spot": 80.31,
     "zero_gamma": 75,
-    "net_gex": 557083,
-    "call_gex": 969429,
-    "put_gex": -412345,
+    "net_gex": 596029,
+    "call_gex": 987633,
+    "put_gex": -391603,
     "call_walls": [
       85
     ],

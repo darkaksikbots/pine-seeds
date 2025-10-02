@@ -1,28 +1,28 @@
 {
   "symbol": "UBER",
-  "timestamp": "2025-10-02T13:09:50Z",
+  "timestamp": "2025-10-02T14:09:53Z",
   "data": {
     "spot": 96.61,
     "zero_gamma": 99.5,
-    "net_gex": 20759249,
-    "call_gex": 36051126,
-    "put_gex": -15291877,
+    "net_gex": 19952257,
+    "call_gex": 37866048,
+    "put_gex": -17913790,
     "call_walls": [
       100,
       105,
       97.5,
       99,
-      106
+      98
     ],
     "put_walls": [
       95,
       90,
+      91,
       96,
-      92.5,
-      94
+      92.5
     ],
     "hvl": 105,
-    "contracts": 87,
+    "contracts": 97,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

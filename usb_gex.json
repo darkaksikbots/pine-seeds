@@ -1,12 +1,12 @@
 {
   "symbol": "USB",
-  "timestamp": "2025-10-02T13:13:41Z",
+  "timestamp": "2025-10-02T14:13:44Z",
   "data": {
     "spot": 47.88,
     "zero_gamma": 49.75,
-    "net_gex": 1929081,
-    "call_gex": 3207521,
-    "put_gex": -1278439,
+    "net_gex": 1232084,
+    "call_gex": 2829934,
+    "put_gex": -1597849,
     "call_walls": [
       50,
       49,
@@ -21,7 +21,7 @@
       46.5
     ],
     "hvl": 50,
-    "contracts": 15,
+    "contracts": 17,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

@@ -1,28 +1,28 @@
 {
   "symbol": "GILD",
-  "timestamp": "2025-10-02T13:29:25Z",
+  "timestamp": "2025-10-02T14:29:36Z",
   "data": {
     "spot": 111.15,
-    "zero_gamma": 117.0,
-    "net_gex": 3957850,
-    "call_gex": 9985712,
-    "put_gex": -6027862,
+    "zero_gamma": 117.5,
+    "net_gex": 5206712,
+    "call_gex": 13552434,
+    "put_gex": -8345722,
     "call_walls": [
       118,
-      120,
       115,
-      114,
-      113
+      120,
+      112,
+      116
     ],
     "put_walls": [
       110,
       105,
       108,
       100,
-      111
+      107
     ],
     "hvl": 118,
-    "contracts": 24,
+    "contracts": 31,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
