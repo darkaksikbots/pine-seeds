@@ -1,18 +1,18 @@
 {
   "symbol": "WMT",
-  "timestamp": "2025-10-02T22:18:44Z",
+  "timestamp": "2025-10-02T23:18:19Z",
   "data": {
     "spot": 101.96,
     "zero_gamma": 102.5,
-    "net_gex": 28827489,
-    "call_gex": 53736027,
-    "put_gex": -24908538,
+    "net_gex": 26262856,
+    "call_gex": 52604842,
+    "put_gex": -26341986,
     "call_walls": [
       103,
       105,
       104,
-      106,
-      102
+      102,
+      106
     ],
     "put_walls": [
       100,

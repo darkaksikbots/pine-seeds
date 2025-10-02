@@ -1,12 +1,12 @@
 {
   "symbol": "JNJ",
-  "timestamp": "2025-10-02T22:28:34Z",
+  "timestamp": "2025-10-02T23:28:02Z",
   "data": {
     "spot": 186.05,
     "zero_gamma": 170,
-    "net_gex": 45780179,
-    "call_gex": 60396270,
-    "put_gex": -14616090,
+    "net_gex": 43564806,
+    "call_gex": 58472238,
+    "put_gex": -14907431,
     "call_walls": [
       190,
       187.5,
@@ -16,13 +16,13 @@
     ],
     "put_walls": [
       175,
-      182.5,
       180,
+      182.5,
       185,
       170
     ],
     "hvl": 175,
-    "contracts": 44,
+    "contracts": 48,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

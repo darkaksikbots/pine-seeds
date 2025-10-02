@@ -1,18 +1,19 @@
 {
   "symbol": "XEL",
-  "timestamp": "2025-10-02T22:28:18Z",
+  "timestamp": "2025-10-02T23:27:46Z",
   "data": {
     "spot": 80.31,
     "zero_gamma": 75,
-    "net_gex": 987200,
-    "call_gex": 1034983,
-    "put_gex": -47783,
+    "net_gex": 610843,
+    "call_gex": 1021910,
+    "put_gex": -411066,
     "call_walls": [],
     "put_walls": [
+      80,
       75
     ],
     "hvl": 75,
-    "contracts": 3,
+    "contracts": 4,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

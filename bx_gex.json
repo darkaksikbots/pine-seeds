@@ -1,26 +1,27 @@
 {
   "symbol": "BX",
-  "timestamp": "2025-10-02T22:16:20Z",
+  "timestamp": "2025-10-02T23:15:58Z",
   "data": {
     "spot": 168.1,
     "zero_gamma": 168.1,
-    "net_gex": -4977098,
-    "call_gex": 4214355,
-    "put_gex": -9191454,
+    "net_gex": -4629181,
+    "call_gex": 4096169,
+    "put_gex": -8725350,
     "call_walls": [
       175,
       170,
       172.5,
-      180
+      180,
+      182.5
     ],
     "put_walls": [
       162.5,
+      165,
       167.5,
       160,
-      165,
       155
     ],
-    "hvl": 170,
+    "hvl": 162.5,
     "contracts": 24,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",

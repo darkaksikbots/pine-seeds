@@ -1,12 +1,12 @@
 {
   "symbol": "MDLZ",
-  "timestamp": "2025-10-02T22:22:33Z",
+  "timestamp": "2025-10-02T23:22:03Z",
   "data": {
     "spot": 63.17,
     "zero_gamma": 62.25,
-    "net_gex": 578728,
-    "call_gex": 1305349,
-    "put_gex": -726621,
+    "net_gex": 547961,
+    "call_gex": 1271144,
+    "put_gex": -723183,
     "call_walls": [
       65,
       67.5,

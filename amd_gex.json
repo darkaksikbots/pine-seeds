@@ -1,12 +1,12 @@
 {
   "symbol": "AMD",
-  "timestamp": "2025-10-02T22:03:57Z",
+  "timestamp": "2025-10-02T23:03:51Z",
   "data": {
     "spot": 164.01,
     "zero_gamma": 163.75,
-    "net_gex": 78866667,
-    "call_gex": 127847878,
-    "put_gex": -48981211,
+    "net_gex": 78818565,
+    "call_gex": 127077220,
+    "put_gex": -48258655,
     "call_walls": [
       170,
       175,

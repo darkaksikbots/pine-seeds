@@ -1,15 +1,16 @@
 {
   "symbol": "EPD",
-  "timestamp": "2025-10-02T22:27:06Z",
+  "timestamp": "2025-10-02T23:26:32Z",
   "data": {
     "spot": 31.15,
     "zero_gamma": 30,
-    "net_gex": 1657789,
-    "call_gex": 2723109,
-    "put_gex": -1065319,
+    "net_gex": 3116367,
+    "call_gex": 4183534,
+    "put_gex": -1067166,
     "call_walls": [
       32,
       33,
+      32.5,
       31.5,
       34
     ],
@@ -19,7 +20,7 @@
       30.5
     ],
     "hvl": 32,
-    "contracts": 19,
+    "contracts": 23,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

@@ -1,11 +1,11 @@
 {
   "symbol": "MSI",
-  "timestamp": "2025-10-01T20:09:15Z",
+  "timestamp": "2025-10-02T23:08:46Z",
   "data": {
-    "spot": 457.29,
+    "spot": 456.93,
     "zero_gamma": 480,
-    "net_gex": 540706,
-    "call_gex": 540706,
+    "net_gex": 414737,
+    "call_gex": 414737,
     "put_gex": 0,
     "call_walls": [
       480
@@ -13,7 +13,7 @@
     "put_walls": [],
     "hvl": 480,
     "contracts": 1,
-    "oi_vintage": "2025-10-01",
+    "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
   }
