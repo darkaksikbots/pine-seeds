@@ -1,28 +1,28 @@
 {
   "symbol": "MRK",
-  "timestamp": "2025-10-02T18:31:18Z",
+  "timestamp": "2025-10-02T19:29:58Z",
   "data": {
     "spot": 90.13,
     "zero_gamma": 81,
-    "net_gex": 19103391,
-    "call_gex": 24564162,
-    "put_gex": -5460771,
+    "net_gex": 19968232,
+    "call_gex": 25469825,
+    "put_gex": -5501593,
     "call_walls": [
       95,
       91,
       92,
-      96,
-      93
+      93,
+      96
     ],
     "put_walls": [
       85,
       88,
       86,
       90,
-      83
+      84
     ],
     "hvl": 85,
-    "contracts": 55,
+    "contracts": 60,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

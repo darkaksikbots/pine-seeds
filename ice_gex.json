@@ -1,19 +1,19 @@
 {
   "symbol": "ICE",
-  "timestamp": "2025-10-02T18:18:27Z",
+  "timestamp": "2025-10-02T19:17:48Z",
   "data": {
     "spot": 162.64,
-    "zero_gamma": 167.5,
-    "net_gex": 1248011,
-    "call_gex": 2071731,
-    "put_gex": -823719,
+    "zero_gamma": 170,
+    "net_gex": 1840063,
+    "call_gex": 1840063,
+    "put_gex": 0,
     "call_walls": [
       170,
       175
     ],
     "put_walls": [],
     "hvl": 170,
-    "contracts": 3,
+    "contracts": 2,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

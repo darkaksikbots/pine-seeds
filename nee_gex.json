@@ -1,12 +1,12 @@
 {
   "symbol": "NEE",
-  "timestamp": "2025-10-02T18:29:24Z",
+  "timestamp": "2025-10-02T19:28:16Z",
   "data": {
     "spot": 78.67,
-    "zero_gamma": 70,
-    "net_gex": 26928022,
-    "call_gex": 29099478,
-    "put_gex": -2171455,
+    "zero_gamma": 74.5,
+    "net_gex": 26532604,
+    "call_gex": 29485903,
+    "put_gex": -2953298,
     "call_walls": [
       80,
       81,
@@ -15,14 +15,14 @@
       79
     ],
     "put_walls": [
+      70,
       75,
       72.5,
       74,
-      72,
       77.5
     ],
     "hvl": 80,
-    "contracts": 35,
+    "contracts": 36,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

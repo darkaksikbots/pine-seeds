@@ -1,18 +1,19 @@
 {
   "symbol": "CCI",
-  "timestamp": "2025-10-02T18:34:38Z",
+  "timestamp": "2025-10-02T19:33:11Z",
   "data": {
     "spot": 95.71,
-    "zero_gamma": 95.71,
-    "net_gex": -59195,
-    "call_gex": 158759,
-    "put_gex": -217955,
+    "zero_gamma": 97.5,
+    "net_gex": 143840,
+    "call_gex": 339995,
+    "put_gex": -196154,
     "call_walls": [
+      97.5,
       105
     ],
     "put_walls": [],
     "hvl": 105,
-    "contracts": 2,
+    "contracts": 3,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

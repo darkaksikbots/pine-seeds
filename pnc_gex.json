@@ -1,18 +1,20 @@
 {
   "symbol": "PNC",
-  "timestamp": "2025-10-02T18:15:35Z",
+  "timestamp": "2025-10-02T19:14:59Z",
   "data": {
     "spot": 198.44,
     "zero_gamma": 198.44,
-    "net_gex": -546963,
-    "call_gex": 0,
-    "put_gex": -546963,
-    "call_walls": [],
+    "net_gex": -66696,
+    "call_gex": 484988,
+    "put_gex": -551685,
+    "call_walls": [
+      210
+    ],
     "put_walls": [
       190
     ],
-    "hvl": 190,
-    "contracts": 2,
+    "hvl": 210,
+    "contracts": 3,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

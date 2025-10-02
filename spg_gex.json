@@ -1,19 +1,19 @@
 {
   "symbol": "SPG",
-  "timestamp": "2025-10-02T18:34:53Z",
+  "timestamp": "2025-10-02T19:33:25Z",
   "data": {
     "spot": 185.76,
     "zero_gamma": 175.0,
-    "net_gex": 278868,
-    "call_gex": 770813,
-    "put_gex": -491944,
+    "net_gex": 2342390,
+    "call_gex": 2845230,
+    "put_gex": -502839,
     "call_walls": [],
     "put_walls": [
       185,
       170
     ],
-    "hvl": 180,
-    "contracts": 3,
+    "hvl": 185,
+    "contracts": 4,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

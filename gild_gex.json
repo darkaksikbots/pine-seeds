@@ -1,12 +1,12 @@
 {
   "symbol": "GILD",
-  "timestamp": "2025-10-02T18:32:28Z",
+  "timestamp": "2025-10-02T19:31:07Z",
   "data": {
     "spot": 111.15,
     "zero_gamma": 117.5,
-    "net_gex": 3257406,
-    "call_gex": 11156213,
-    "put_gex": -7898806,
+    "net_gex": 5802225,
+    "call_gex": 13559959,
+    "put_gex": -7757733,
     "call_walls": [
       118,
       115,
@@ -18,11 +18,11 @@
       110,
       105,
       108,
-      107,
+      111,
       109
     ],
     "hvl": 118,
-    "contracts": 24,
+    "contracts": 27,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

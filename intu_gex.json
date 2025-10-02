@@ -1,12 +1,12 @@
 {
   "symbol": "INTU",
-  "timestamp": "2025-10-02T18:06:57Z",
+  "timestamp": "2025-10-02T19:06:39Z",
   "data": {
     "spot": 679.5,
     "zero_gamma": 695.0,
-    "net_gex": 3644037,
-    "call_gex": 8745416,
-    "put_gex": -5101378,
+    "net_gex": 1647491,
+    "call_gex": 7285555,
+    "put_gex": -5638063,
     "call_walls": [
       700,
       710,
@@ -19,7 +19,7 @@
       630
     ],
     "hvl": 700,
-    "contracts": 8,
+    "contracts": 7,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

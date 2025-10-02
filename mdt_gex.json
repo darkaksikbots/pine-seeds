@@ -1,12 +1,12 @@
 {
   "symbol": "MDT",
-  "timestamp": "2025-10-02T18:33:39Z",
+  "timestamp": "2025-10-02T19:32:14Z",
   "data": {
     "spot": 94.81,
     "zero_gamma": 87.5,
-    "net_gex": 15046892,
-    "call_gex": 16897618,
-    "put_gex": -1850725,
+    "net_gex": 16191519,
+    "call_gex": 17962413,
+    "put_gex": -1770894,
     "call_walls": [
       95,
       97.5,
@@ -20,7 +20,7 @@
       85
     ],
     "hvl": 95,
-    "contracts": 19,
+    "contracts": 20,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
