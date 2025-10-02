@@ -1,28 +1,28 @@
 {
   "symbol": "BRK.B",
-  "timestamp": "2025-10-02T16:11:54Z",
+  "timestamp": "2025-10-02T17:13:24Z",
   "data": {
     "spot": 498.2,
-    "zero_gamma": 517.5,
-    "net_gex": 9875959,
-    "call_gex": 104975976,
-    "put_gex": -95100017,
+    "zero_gamma": 503.75,
+    "net_gex": 41889296,
+    "call_gex": 86993674,
+    "put_gex": -45104378,
     "call_walls": [
       500,
       510,
-      505,
       507.5,
+      505,
       515
     ],
     "put_walls": [
-      495,
-      485,
       497.5,
       480,
-      490
+      485,
+      482.5,
+      495
     ],
     "hvl": 500,
-    "contracts": 76,
+    "contracts": 50,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

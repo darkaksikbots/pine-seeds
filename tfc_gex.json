@@ -1,12 +1,12 @@
 {
   "symbol": "TFC",
-  "timestamp": "2025-10-02T16:14:23Z",
+  "timestamp": "2025-10-02T17:16:03Z",
   "data": {
     "spot": 45.57,
-    "zero_gamma": 43,
-    "net_gex": 3728589,
-    "call_gex": 4088451,
-    "put_gex": -359862,
+    "zero_gamma": 42,
+    "net_gex": 4126185,
+    "call_gex": 4394664,
+    "put_gex": -268478,
     "call_walls": [
       48,
       47.5,
@@ -16,10 +16,11 @@
     ],
     "put_walls": [
       45.5,
-      44.5
+      44,
+      43
     ],
     "hvl": 48,
-    "contracts": 13,
+    "contracts": 15,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

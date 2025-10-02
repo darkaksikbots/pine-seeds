@@ -1,28 +1,28 @@
 {
   "symbol": "CRWD",
-  "timestamp": "2025-10-02T16:07:31Z",
+  "timestamp": "2025-10-02T17:08:38Z",
   "data": {
     "spot": 499.96,
     "zero_gamma": 477.5,
-    "net_gex": 29195723,
-    "call_gex": 45266271,
-    "put_gex": -16070547,
+    "net_gex": 21780751,
+    "call_gex": 32891022,
+    "put_gex": -11110271,
     "call_walls": [
       500,
       520,
-      515,
       510,
-      540
+      540,
+      525
     ],
     "put_walls": [
       490,
+      495,
       450,
-      480,
-      485,
-      495
+      460,
+      485
     ],
     "hvl": 500,
-    "contracts": 62,
+    "contracts": 41,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

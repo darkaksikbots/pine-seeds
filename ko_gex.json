@@ -1,28 +1,28 @@
 {
   "symbol": "KO",
-  "timestamp": "2025-10-02T16:20:21Z",
+  "timestamp": "2025-10-02T17:22:36Z",
   "data": {
     "spot": 66.78,
-    "zero_gamma": 69.5,
-    "net_gex": 5571458,
-    "call_gex": 27110224,
-    "put_gex": -21538766,
+    "zero_gamma": 67.25,
+    "net_gex": 12775938,
+    "call_gex": 24515517,
+    "put_gex": -11739578,
     "call_walls": [
       67.5,
       68,
       70,
       67,
-      69
+      71
     ],
     "put_walls": [
       65,
       66,
       64,
-      62.5,
-      63
+      63,
+      62
     ],
-    "hvl": 67.5,
-    "contracts": 57,
+    "hvl": 70,
+    "contracts": 41,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

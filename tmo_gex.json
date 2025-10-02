@@ -1,12 +1,12 @@
 {
   "symbol": "TMO",
-  "timestamp": "2025-10-02T16:30:22Z",
+  "timestamp": "2025-10-02T17:33:36Z",
   "data": {
     "spot": 530.73,
     "zero_gamma": 480,
-    "net_gex": 18187705,
-    "call_gex": 19712501,
-    "put_gex": -1524796,
+    "net_gex": 15240950,
+    "call_gex": 16152717,
+    "put_gex": -911767,
     "call_walls": [
       550,
       540,
@@ -14,13 +14,11 @@
     ],
     "put_walls": [
       500,
-      490,
-      510,
       497.5,
       505
     ],
     "hvl": 500,
-    "contracts": 14,
+    "contracts": 10,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

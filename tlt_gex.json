@@ -1,28 +1,28 @@
 {
   "symbol": "TLT",
-  "timestamp": "2025-10-02T16:01:19Z",
+  "timestamp": "2025-10-02T17:01:35Z",
   "data": {
     "spot": 89.29,
-    "zero_gamma": 90.75,
-    "net_gex": 143199556,
-    "call_gex": 472748540,
-    "put_gex": -329548983,
+    "zero_gamma": 89.75,
+    "net_gex": 215181368,
+    "call_gex": 427258557,
+    "put_gex": -212077188,
     "call_walls": [
       90,
       91,
-      92,
       89.5,
-      90.5
+      90.5,
+      95
     ],
     "put_walls": [
       88,
       89,
       87,
-      88.5,
+      86,
       87.5
     ],
     "hvl": 90,
-    "contracts": 253,
+    "contracts": 200,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

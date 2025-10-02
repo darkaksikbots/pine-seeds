@@ -1,12 +1,12 @@
 {
   "symbol": "MO",
-  "timestamp": "2025-10-02T16:21:23Z",
+  "timestamp": "2025-10-02T17:24:09Z",
   "data": {
     "spot": 66.29,
     "zero_gamma": 67.25,
-    "net_gex": 2826380,
-    "call_gex": 10890892,
-    "put_gex": -8064511,
+    "net_gex": 3294176,
+    "call_gex": 10159158,
+    "put_gex": -6864981,
     "call_walls": [
       67.5,
       67,
@@ -16,13 +16,13 @@
     ],
     "put_walls": [
       65,
-      62.5,
       64,
+      60,
       66,
-      60
+      63
     ],
     "hvl": 65,
-    "contracts": 40,
+    "contracts": 31,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

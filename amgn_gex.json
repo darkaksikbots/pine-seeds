@@ -1,28 +1,28 @@
 {
   "symbol": "AMGN",
-  "timestamp": "2025-10-02T16:29:57Z",
+  "timestamp": "2025-10-02T17:33:15Z",
   "data": {
     "spot": 298.5,
-    "zero_gamma": 298.75,
-    "net_gex": 17950166,
-    "call_gex": 34433096,
-    "put_gex": -16482929,
+    "zero_gamma": 273.75,
+    "net_gex": 7055501,
+    "call_gex": 22314435,
+    "put_gex": -15258934,
     "call_walls": [
       300,
       315,
       310,
-      305,
-      320
+      320,
+      305
     ],
     "put_walls": [
       287.5,
       295,
-      290,
-      285,
-      270
+      280,
+      270,
+      290
     ],
     "hvl": 287.5,
-    "contracts": 35,
+    "contracts": 26,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

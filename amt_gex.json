@@ -1,22 +1,21 @@
 {
   "symbol": "AMT",
-  "timestamp": "2025-10-02T16:31:40Z",
+  "timestamp": "2025-10-02T17:34:56Z",
   "data": {
     "spot": 193.32,
     "zero_gamma": 193.32,
-    "net_gex": -1314834,
-    "call_gex": 1629155,
-    "put_gex": -2943990,
+    "net_gex": -2602621,
+    "call_gex": 632234,
+    "put_gex": -3234856,
     "call_walls": [
-      200,
-      195,
-      210
+      200
     ],
     "put_walls": [
+      190,
       185
     ],
     "hvl": 195,
-    "contracts": 5,
+    "contracts": 4,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

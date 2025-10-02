@@ -1,20 +1,18 @@
 {
   "symbol": "NSC",
-  "timestamp": "2025-10-02T16:11:17Z",
+  "timestamp": "2025-10-02T17:12:45Z",
   "data": {
     "spot": 298.68,
     "zero_gamma": 298.68,
-    "net_gex": -211908,
-    "call_gex": 326617,
-    "put_gex": -538526,
-    "call_walls": [
-      310
-    ],
+    "net_gex": -459998,
+    "call_gex": 0,
+    "put_gex": -459998,
+    "call_walls": [],
     "put_walls": [
       272.5
     ],
     "hvl": 272.5,
-    "contracts": 2,
+    "contracts": 1,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
