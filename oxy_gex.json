@@ -1,12 +1,12 @@
 {
   "symbol": "OXY",
-  "timestamp": "2025-10-02T19:27:03Z",
+  "timestamp": "2025-10-02T20:26:06Z",
   "data": {
     "spot": 47.72,
-    "zero_gamma": 51.5,
-    "net_gex": 14350,
-    "call_gex": 11259153,
-    "put_gex": -11244803,
+    "zero_gamma": 47.72,
+    "net_gex": -1423486,
+    "call_gex": 9532892,
+    "put_gex": -10956379,
     "call_walls": [
       50,
       48,
@@ -16,8 +16,8 @@
     ],
     "put_walls": [
       45,
-      43.5,
       42.5,
+      43.5,
       47.5,
       46
     ],

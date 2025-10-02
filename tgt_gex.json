@@ -1,12 +1,12 @@
 {
   "symbol": "TGT",
-  "timestamp": "2025-10-02T19:20:08Z",
+  "timestamp": "2025-10-02T20:19:23Z",
   "data": {
     "spot": 89.14,
     "zero_gamma": 91.5,
-    "net_gex": 13407196,
-    "call_gex": 31789735,
-    "put_gex": -18382539,
+    "net_gex": 13005519,
+    "call_gex": 31895374,
+    "put_gex": -18889854,
     "call_walls": [
       90,
       95,
@@ -22,7 +22,7 @@
       89
     ],
     "hvl": 90,
-    "contracts": 78,
+    "contracts": 82,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

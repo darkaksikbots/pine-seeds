@@ -1,12 +1,12 @@
 {
   "symbol": "CRM",
-  "timestamp": "2025-10-02T19:05:36Z",
+  "timestamp": "2025-10-02T20:05:14Z",
   "data": {
     "spot": 235.69,
     "zero_gamma": 235.69,
-    "net_gex": -8761014,
-    "call_gex": 22585388,
-    "put_gex": -31346402,
+    "net_gex": -11388677,
+    "call_gex": 23511225,
+    "put_gex": -34899902,
     "call_walls": [
       250,
       240,
@@ -21,8 +21,8 @@
       225,
       232.5
     ],
-    "hvl": 230,
-    "contracts": 63,
+    "hvl": 250,
+    "contracts": 68,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

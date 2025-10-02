@@ -1,12 +1,12 @@
 {
   "symbol": "BMY",
-  "timestamp": "2025-10-02T19:30:51Z",
+  "timestamp": "2025-10-02T20:29:54Z",
   "data": {
     "spot": 47.43,
     "zero_gamma": 44.75,
-    "net_gex": 10157482,
-    "call_gex": 16918630,
-    "put_gex": -6761147,
+    "net_gex": 9988902,
+    "call_gex": 17553126,
+    "put_gex": -7564224,
     "call_walls": [
       50,
       48,
@@ -22,7 +22,7 @@
       42
     ],
     "hvl": 45,
-    "contracts": 56,
+    "contracts": 67,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

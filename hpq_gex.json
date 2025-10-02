@@ -1,17 +1,17 @@
 {
   "symbol": "HPQ",
-  "timestamp": "2025-10-02T19:07:30Z",
+  "timestamp": "2025-10-02T20:07:09Z",
   "data": {
     "spot": 26.7,
-    "zero_gamma": 28.75,
-    "net_gex": 24613,
-    "call_gex": 1085123,
-    "put_gex": -1060509,
+    "zero_gamma": 26.7,
+    "net_gex": -9521,
+    "call_gex": 1084235,
+    "put_gex": -1093757,
     "call_walls": [
       28,
       28.5,
-      27,
       27.5,
+      27,
       29
     ],
     "put_walls": [
@@ -19,7 +19,7 @@
       25
     ],
     "hvl": 28,
-    "contracts": 11,
+    "contracts": 12,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "UBER",
-  "timestamp": "2025-10-02T19:10:42Z",
+  "timestamp": "2025-10-02T20:10:16Z",
   "data": {
     "spot": 96.61,
     "zero_gamma": 99.5,
-    "net_gex": 12226549,
-    "call_gex": 34153973,
-    "put_gex": -21927423,
+    "net_gex": 10824541,
+    "call_gex": 33826466,
+    "put_gex": -23001924,
     "call_walls": [
       100,
       105,
@@ -22,7 +22,7 @@
       92.5
     ],
     "hvl": 105,
-    "contracts": 97,
+    "contracts": 105,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

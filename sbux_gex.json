@@ -1,12 +1,12 @@
 {
   "symbol": "SBUX",
-  "timestamp": "2025-10-02T19:21:17Z",
+  "timestamp": "2025-10-02T20:20:31Z",
   "data": {
     "spot": 84.4,
     "zero_gamma": 89.5,
-    "net_gex": 1001579,
-    "call_gex": 15328180,
-    "put_gex": -14326601,
+    "net_gex": 1034664,
+    "call_gex": 15307622,
+    "put_gex": -14272958,
     "call_walls": [
       90,
       85,
@@ -22,7 +22,7 @@
       75
     ],
     "hvl": 90,
-    "contracts": 71,
+    "contracts": 72,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "AMT",
-  "timestamp": "2025-10-02T19:32:57Z",
+  "timestamp": "2025-10-02T20:32:03Z",
   "data": {
     "spot": 193.32,
     "zero_gamma": 205.0,
-    "net_gex": 193531,
-    "call_gex": 1576748,
-    "put_gex": -1383217,
+    "net_gex": 276902,
+    "call_gex": 1604200,
+    "put_gex": -1327297,
     "call_walls": [
       195,
       200,

@@ -1,12 +1,12 @@
 {
   "symbol": "COF",
-  "timestamp": "2025-10-02T19:16:01Z",
+  "timestamp": "2025-10-02T20:15:29Z",
   "data": {
     "spot": 213.48,
     "zero_gamma": 202.5,
-    "net_gex": 7897734,
-    "call_gex": 11092602,
-    "put_gex": -3194868,
+    "net_gex": 6219057,
+    "call_gex": 12062448,
+    "put_gex": -5843391,
     "call_walls": [
       225,
       230,
@@ -17,10 +17,11 @@
     "put_walls": [
       210,
       212.5,
+      207.5,
       200
     ],
     "hvl": 230,
-    "contracts": 19,
+    "contracts": 24,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
