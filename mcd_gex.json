@@ -1,12 +1,12 @@
 {
   "symbol": "MCD",
-  "timestamp": "2025-10-02T21:20:05Z",
+  "timestamp": "2025-10-02T22:20:13Z",
   "data": {
     "spot": 300.52,
-    "zero_gamma": 322.5,
-    "net_gex": 88393,
-    "call_gex": 28156304,
-    "put_gex": -28067910,
+    "zero_gamma": 300.52,
+    "net_gex": -2324755,
+    "call_gex": 28337878,
+    "put_gex": -30662634,
     "call_walls": [
       320,
       305,
@@ -22,7 +22,7 @@
       285
     ],
     "hvl": 320,
-    "contracts": 42,
+    "contracts": 46,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

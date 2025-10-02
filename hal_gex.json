@@ -1,12 +1,12 @@
 {
   "symbol": "HAL",
-  "timestamp": "2025-10-02T21:26:24Z",
+  "timestamp": "2025-10-02T22:26:37Z",
   "data": {
     "spot": 24.9,
-    "zero_gamma": 24.75,
-    "net_gex": 2407339,
-    "call_gex": 5603159,
-    "put_gex": -3195819,
+    "zero_gamma": 25.25,
+    "net_gex": 2056278,
+    "call_gex": 5411102,
+    "put_gex": -3354824,
     "call_walls": [
       25,
       25.5,

@@ -1,12 +1,12 @@
 {
   "symbol": "MSFT",
-  "timestamp": "2025-10-02T21:01:59Z",
+  "timestamp": "2025-10-02T22:02:02Z",
   "data": {
     "spot": 519.71,
     "zero_gamma": 523.75,
-    "net_gex": 303352482,
-    "call_gex": 659281940,
-    "put_gex": -355929458,
+    "net_gex": 324881599,
+    "call_gex": 673888575,
+    "put_gex": -349006975,
     "call_walls": [
       520,
       530,
@@ -22,7 +22,7 @@
       495
     ],
     "hvl": 510,
-    "contracts": 150,
+    "contracts": 152,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

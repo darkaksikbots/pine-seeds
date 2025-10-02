@@ -1,12 +1,12 @@
 {
   "symbol": "SCHW",
-  "timestamp": "2025-10-02T21:14:49Z",
+  "timestamp": "2025-10-02T22:14:54Z",
   "data": {
     "spot": 92.25,
-    "zero_gamma": 94.5,
-    "net_gex": 2763783,
-    "call_gex": 5880385,
-    "put_gex": -3116601,
+    "zero_gamma": 98.5,
+    "net_gex": 2287852,
+    "call_gex": 5908299,
+    "put_gex": -3620447,
     "call_walls": [
       95,
       100,
@@ -17,12 +17,12 @@
     "put_walls": [
       90,
       87.5,
+      91,
       89,
-      87,
-      88
+      85
     ],
     "hvl": 95,
-    "contracts": 28,
+    "contracts": 31,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

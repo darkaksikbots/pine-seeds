@@ -1,23 +1,24 @@
 {
   "symbol": "UNP",
-  "timestamp": "2025-10-02T21:10:56Z",
+  "timestamp": "2025-10-02T22:11:00Z",
   "data": {
     "spot": 234.74,
     "zero_gamma": 225,
-    "net_gex": 10055251,
-    "call_gex": 11026041,
-    "put_gex": -970790,
+    "net_gex": 14453654,
+    "call_gex": 15406698,
+    "put_gex": -953044,
     "call_walls": [
+      240,
       242.5,
+      235,
       245,
-      250,
-      255
+      250
     ],
     "put_walls": [
       230
     ],
     "hvl": 230,
-    "contracts": 8,
+    "contracts": 11,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"

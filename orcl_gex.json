@@ -1,12 +1,12 @@
 {
   "symbol": "ORCL",
-  "timestamp": "2025-10-02T21:04:50Z",
+  "timestamp": "2025-10-02T22:04:51Z",
   "data": {
     "spot": 289.01,
     "zero_gamma": 313.75,
-    "net_gex": 3937324,
-    "call_gex": 101777848,
-    "put_gex": -97840523,
+    "net_gex": 5599509,
+    "call_gex": 103350737,
+    "put_gex": -97751228,
     "call_walls": [
       300,
       315,
@@ -21,8 +21,8 @@
       275,
       270
     ],
-    "hvl": 300,
-    "contracts": 125,
+    "hvl": 260,
+    "contracts": 128,
     "oi_vintage": "2025-10-02",
     "data_quality": "production",
     "source": "polygon"
