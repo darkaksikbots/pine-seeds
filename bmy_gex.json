@@ -1,16 +1,16 @@
 {
   "symbol": "BMY",
-  "timestamp": "2025-10-03T12:31:26Z",
+  "timestamp": "2025-10-03T13:31:05Z",
   "data": {
     "spot": 45.73,
-    "zero_gamma": 44.75,
-    "net_gex": 4581844,
-    "call_gex": 14730964,
-    "put_gex": -10149119,
+    "zero_gamma": 45.25,
+    "net_gex": 5387021,
+    "call_gex": 16084498,
+    "put_gex": -10697477,
     "call_walls": [
       46,
-      50,
       47,
+      50,
       48,
       49
     ],
@@ -19,28 +19,28 @@
       44,
       43,
       42,
-      41
+      44.5
     ],
     "call_walls_pct": [
       100.0,
-      46.2,
-      43.8,
-      43.8,
-      25.4
+      53.7,
+      50.1,
+      36.5,
+      21.6
     ],
     "put_walls_pct": [
       100.0,
-      38.6,
-      29.9,
-      21.8,
-      9.9
+      39.6,
+      29.3,
+      21.6,
+      12.4
     ],
-    "total_call_oi": 65042,
-    "total_put_oi": 45263,
-    "total_oi": 110305,
-    "put_call_oi_ratio": 0.7,
+    "total_call_oi": 70380,
+    "total_put_oi": 48028,
+    "total_oi": 118408,
+    "put_call_oi_ratio": 0.68,
     "hvl": 45,
-    "contracts": 80,
+    "contracts": 77,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

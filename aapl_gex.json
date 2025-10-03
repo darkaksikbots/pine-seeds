@@ -1,12 +1,12 @@
 {
   "symbol": "AAPL",
-  "timestamp": "2025-10-03T12:01:45Z",
+  "timestamp": "2025-10-03T13:01:45Z",
   "data": {
     "spot": 257.13,
-    "zero_gamma": 238.75,
-    "net_gex": 570996132,
-    "call_gex": 712601344,
-    "put_gex": -141605211,
+    "zero_gamma": 233.75,
+    "net_gex": 565616656,
+    "call_gex": 711365557,
+    "put_gex": -145748901,
     "call_walls": [
       260,
       270,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      44.5,
-      38.9,
-      28.6,
-      22.4
+      44.9,
+      39.1,
+      28.5,
+      22.3
     ],
     "put_walls_pct": [
       100.0,
-      94.2,
-      51.3,
-      50.0,
+      94.6,
+      51.0,
+      49.5,
       44.4
     ],
-    "total_call_oi": 444449,
-    "total_put_oi": 109002,
-    "total_oi": 553451,
-    "put_call_oi_ratio": 0.25,
+    "total_call_oi": 446944,
+    "total_put_oi": 108901,
+    "total_oi": 555845,
+    "put_call_oi_ratio": 0.24,
     "hvl": 250,
-    "contracts": 113,
+    "contracts": 114,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

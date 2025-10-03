@@ -1,12 +1,12 @@
 {
   "symbol": "UNP",
-  "timestamp": "2025-10-03T12:11:24Z",
+  "timestamp": "2025-10-03T13:11:15Z",
   "data": {
     "spot": 234.52,
     "zero_gamma": 230,
-    "net_gex": 13189626,
-    "call_gex": 14841335,
-    "put_gex": -1651709,
+    "net_gex": 13188835,
+    "call_gex": 14840628,
+    "put_gex": -1651793,
     "call_walls": [
       240,
       242.5,

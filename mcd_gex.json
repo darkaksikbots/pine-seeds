@@ -1,12 +1,12 @@
 {
   "symbol": "MCD",
-  "timestamp": "2025-10-03T12:20:59Z",
+  "timestamp": "2025-10-03T13:20:54Z",
   "data": {
     "spot": 299.88,
     "zero_gamma": 299.88,
-    "net_gex": -2876961,
-    "call_gex": 27914649,
-    "put_gex": -30791610,
+    "net_gex": -2879799,
+    "call_gex": 27913090,
+    "put_gex": -30792889,
     "call_walls": [
       320,
       305,
