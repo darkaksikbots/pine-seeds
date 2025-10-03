@@ -1,12 +1,12 @@
 {
   "symbol": "PANW",
-  "timestamp": "2025-10-03T20:08:27Z",
+  "timestamp": "2025-10-03T21:08:29Z",
   "data": {
     "spot": 209.3,
-    "zero_gamma": 213.75,
-    "net_gex": 12303272,
-    "call_gex": 43007243,
-    "put_gex": -30703970,
+    "zero_gamma": 218.75,
+    "net_gex": 6825904,
+    "call_gex": 42138217,
+    "put_gex": -35312312,
     "call_walls": [
       210,
       220,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      65.0,
-      21.1,
-      13.5,
-      9.2
+      58.4,
+      19.2,
+      11.6,
+      8.7
     ],
     "put_walls_pct": [
       100.0,
-      76.5,
-      15.4,
-      9.6,
-      9.6
+      90.0,
+      16.4,
+      12.8,
+      10.5
     ],
-    "total_call_oi": 39452,
-    "total_put_oi": 24689,
-    "total_oi": 64141,
+    "total_call_oi": 39698,
+    "total_put_oi": 24927,
+    "total_oi": 64625,
     "put_call_oi_ratio": 0.63,
     "hvl": 200,
-    "contracts": 58,
+    "contracts": 60,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "GILD",
-  "timestamp": "2025-10-03T20:33:59Z",
+  "timestamp": "2025-10-03T21:34:08Z",
   "data": {
     "spot": 110.56,
     "zero_gamma": 114.5,
-    "net_gex": 11384361,
-    "call_gex": 18649453,
-    "put_gex": -7265092,
+    "net_gex": 12278542,
+    "call_gex": 19665148,
+    "put_gex": -7386606,
     "call_walls": [
       118,
       115,
@@ -18,27 +18,29 @@
       110,
       105,
       108,
+      100,
       109
     ],
     "call_walls_pct": [
       100.0,
-      67.2,
-      22.8,
-      20.5,
-      19.3
+      63.1,
+      23.0,
+      19.3,
+      18.5
     ],
     "put_walls_pct": [
       100.0,
-      12.3,
-      5.5,
-      4.5
+      15.4,
+      5.3,
+      5.0,
+      4.4
     ],
-    "total_call_oi": 35112,
-    "total_put_oi": 12356,
-    "total_oi": 47468,
-    "put_call_oi_ratio": 0.35,
+    "total_call_oi": 35492,
+    "total_put_oi": 14478,
+    "total_oi": 49970,
+    "put_call_oi_ratio": 0.41,
     "hvl": 118,
-    "contracts": 24,
+    "contracts": 28,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

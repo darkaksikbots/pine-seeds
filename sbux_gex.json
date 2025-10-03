@@ -1,12 +1,12 @@
 {
   "symbol": "SBUX",
-  "timestamp": "2025-10-03T20:23:11Z",
+  "timestamp": "2025-10-03T21:23:25Z",
   "data": {
     "spot": 86.72,
     "zero_gamma": 89.5,
-    "net_gex": 6140641,
-    "call_gex": 19258228,
-    "put_gex": -13117587,
+    "net_gex": 4471800,
+    "call_gex": 18831970,
+    "put_gex": -14360170,
     "call_walls": [
       90,
       89,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      30.3,
-      20.8,
-      16.7,
-      9.4
+      29.8,
+      20.0,
+      16.8,
+      9.8
     ],
     "put_walls_pct": [
       100.0,
-      45.7,
-      20.1,
-      11.4,
-      9.9
+      49.9,
+      21.2,
+      12.4,
+      10.4
     ],
-    "total_call_oi": 41027,
-    "total_put_oi": 32697,
-    "total_oi": 73724,
-    "put_call_oi_ratio": 0.8,
+    "total_call_oi": 41553,
+    "total_put_oi": 33884,
+    "total_oi": 75437,
+    "put_call_oi_ratio": 0.82,
     "hvl": 85,
-    "contracts": 60,
+    "contracts": 63,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

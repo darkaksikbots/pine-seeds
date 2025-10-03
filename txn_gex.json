@@ -1,12 +1,12 @@
 {
   "symbol": "TXN",
-  "timestamp": "2025-10-03T20:09:06Z",
+  "timestamp": "2025-10-03T21:09:13Z",
   "data": {
     "spot": 182.32,
-    "zero_gamma": 193.75,
-    "net_gex": 4319198,
-    "call_gex": 24381549,
-    "put_gex": -20062351,
+    "zero_gamma": 182.32,
+    "net_gex": -1468406,
+    "call_gex": 22472596,
+    "put_gex": -23941002,
     "call_walls": [
       185,
       190,
@@ -22,21 +22,21 @@
     ],
     "call_walls_pct": [
       100.0,
-      99.7,
-      81.1,
-      75.0,
-      27.8
+      95.6,
+      76.6,
+      71.4,
+      25.5
     ],
     "put_walls_pct": [
       100.0,
-      21.0,
-      5.8,
-      1.7
+      22.7,
+      6.0,
+      1.6
     ],
     "total_call_oi": 27874,
-    "total_put_oi": 19232,
-    "total_oi": 47106,
-    "put_call_oi_ratio": 0.69,
+    "total_put_oi": 21030,
+    "total_oi": 48904,
+    "put_call_oi_ratio": 0.75,
     "hvl": 180,
     "contracts": 35,
     "oi_vintage": "2025-10-03",
