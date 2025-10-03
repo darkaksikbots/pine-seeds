@@ -1,12 +1,12 @@
 {
   "symbol": "SLB",
-  "timestamp": "2025-10-03T13:27:19Z",
+  "timestamp": "2025-10-03T14:27:21Z",
   "data": {
     "spot": 34.11,
     "zero_gamma": 34.75,
-    "net_gex": 1998932,
-    "call_gex": 4119064,
-    "put_gex": -2120131,
+    "net_gex": 2207088,
+    "call_gex": 4430843,
+    "put_gex": -2223755,
     "call_walls": [
       35,
       36,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      13.5,
-      11.9,
-      10.5,
-      8.2
+      14.0,
+      11.8,
+      11.1,
+      9.0
     ],
     "put_walls_pct": [
       100.0,
-      87.7,
-      50.3,
-      46.4,
-      13.9
+      88.5,
+      68.6,
+      49.4,
+      17.1
     ],
-    "total_call_oi": 25589,
-    "total_put_oi": 14402,
-    "total_oi": 39991,
-    "put_call_oi_ratio": 0.56,
+    "total_call_oi": 26659,
+    "total_put_oi": 15410,
+    "total_oi": 42069,
+    "put_call_oi_ratio": 0.58,
     "hvl": 35,
-    "contracts": 39,
+    "contracts": 43,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

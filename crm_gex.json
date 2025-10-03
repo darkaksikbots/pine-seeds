@@ -1,16 +1,16 @@
 {
   "symbol": "CRM",
-  "timestamp": "2025-10-03T13:05:20Z",
+  "timestamp": "2025-10-03T14:05:24Z",
   "data": {
     "spot": 238.88,
     "zero_gamma": 238.88,
-    "net_gex": -698507,
-    "call_gex": 32824743,
-    "put_gex": -33523250,
+    "net_gex": -380093,
+    "call_gex": 36453897,
+    "put_gex": -36833990,
     "call_walls": [
       250,
-      260,
       240,
+      260,
       245,
       255
     ],
@@ -19,28 +19,28 @@
       220,
       235,
       225,
-      232.5
+      237.5
     ],
     "call_walls_pct": [
       100.0,
-      59.0,
-      55.4,
-      24.4,
-      21.6
+      80.1,
+      58.0,
+      27.0,
+      22.8
     ],
     "put_walls_pct": [
       100.0,
-      28.5,
-      23.8,
-      20.1,
-      11.4
+      28.9,
+      24.9,
+      22.8,
+      20.4
     ],
-    "total_call_oi": 28038,
-    "total_put_oi": 32303,
-    "total_oi": 60341,
-    "put_call_oi_ratio": 1.15,
+    "total_call_oi": 30504,
+    "total_put_oi": 34519,
+    "total_oi": 65023,
+    "put_call_oi_ratio": 1.13,
     "hvl": 250,
-    "contracts": 79,
+    "contracts": 77,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

@@ -1,12 +1,12 @@
 {
   "symbol": "TLT",
-  "timestamp": "2025-10-03T13:01:25Z",
+  "timestamp": "2025-10-03T14:01:29Z",
   "data": {
     "spot": 89.55,
     "zero_gamma": 89.75,
-    "net_gex": 221552668,
-    "call_gex": 527924407,
-    "put_gex": -306371738,
+    "net_gex": 254414956,
+    "call_gex": 566685176,
+    "put_gex": -312270220,
     "call_walls": [
       90,
       91,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      48.1,
-      40.1,
-      36.7,
-      12.9
+      46.2,
+      38.5,
+      38.0,
+      14.2
     ],
     "put_walls_pct": [
       100.0,
-      89.9,
-      43.0,
-      33.1,
-      27.0
+      97.6,
+      42.6,
+      32.6,
+      26.7
     ],
-    "total_call_oi": 487362,
-    "total_put_oi": 416745,
-    "total_oi": 904107,
-    "put_call_oi_ratio": 0.86,
-    "hvl": 92,
-    "contracts": 227,
+    "total_call_oi": 503937,
+    "total_put_oi": 426480,
+    "total_oi": 930417,
+    "put_call_oi_ratio": 0.85,
+    "hvl": 90,
+    "contracts": 234,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

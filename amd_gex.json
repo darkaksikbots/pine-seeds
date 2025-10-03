@@ -1,46 +1,46 @@
 {
   "symbol": "AMD",
-  "timestamp": "2025-10-03T13:04:05Z",
+  "timestamp": "2025-10-03T14:04:10Z",
   "data": {
     "spot": 169.73,
     "zero_gamma": 163.75,
-    "net_gex": 119261771,
-    "call_gex": 156258555,
-    "put_gex": -36996784,
+    "net_gex": 135611092,
+    "call_gex": 180318849,
+    "put_gex": -44707756,
     "call_walls": [
-      170,
       175,
+      170,
       180,
       185,
-      172.5
+      182.5
     ],
     "put_walls": [
       160,
       155,
       165,
       162.5,
-      157.5
+      152.5
     ],
     "call_walls_pct": [
       100.0,
-      53.3,
-      50.1,
-      34.9,
-      13.6
+      92.5,
+      60.3,
+      49.1,
+      20.6
     ],
     "put_walls_pct": [
       100.0,
-      62.5,
-      45.1,
-      25.1,
+      63.8,
+      57.5,
+      26.5,
       16.8
     ],
-    "total_call_oi": 228557,
-    "total_put_oi": 75037,
-    "total_oi": 303594,
-    "put_call_oi_ratio": 0.33,
-    "hvl": 170,
-    "contracts": 99,
+    "total_call_oi": 262517,
+    "total_put_oi": 88093,
+    "total_oi": 350610,
+    "put_call_oi_ratio": 0.34,
+    "hvl": 160,
+    "contracts": 107,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
