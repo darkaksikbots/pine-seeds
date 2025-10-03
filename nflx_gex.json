@@ -1,46 +1,46 @@
 {
   "symbol": "NFLX",
-  "timestamp": "2025-10-03T16:24:34Z",
+  "timestamp": "2025-10-03T17:27:37Z",
   "data": {
     "spot": 1162.53,
     "zero_gamma": 1162.53,
-    "net_gex": -116327372,
-    "call_gex": 233564141,
-    "put_gex": -349891513,
+    "net_gex": -104065986,
+    "call_gex": 181627962,
+    "put_gex": -285693948,
     "call_walls": [
       1200,
       1220,
+      1175,
       1250,
-      1190,
       1240
     ],
     "put_walls": [
       1150,
       1050,
-      1160,
+      1100,
       1140,
-      1100
+      1160
     ],
     "call_walls_pct": [
       100.0,
-      32.9,
-      28.6,
-      28.4,
-      26.6
+      26.6,
+      23.4,
+      21.5,
+      21.4
     ],
     "put_walls_pct": [
       100.0,
-      85.5,
-      70.5,
-      67.7,
-      66.6
+      80.7,
+      73.2,
+      72.8,
+      71.8
     ],
-    "total_call_oi": 41793,
-    "total_put_oi": 67832,
-    "total_oi": 109625,
+    "total_call_oi": 32847,
+    "total_put_oi": 53259,
+    "total_oi": 86106,
     "put_call_oi_ratio": 1.62,
     "hvl": 1050,
-    "contracts": 206,
+    "contracts": 139,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

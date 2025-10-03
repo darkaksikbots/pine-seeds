@@ -1,46 +1,42 @@
 {
   "symbol": "ROKU",
-  "timestamp": "2025-10-03T16:25:08Z",
+  "timestamp": "2025-10-03T17:28:12Z",
   "data": {
     "spot": 103.84,
-    "zero_gamma": 99.5,
-    "net_gex": 5667167,
-    "call_gex": 7022679,
-    "put_gex": -1355511,
+    "zero_gamma": 98.5,
+    "net_gex": 1938174,
+    "call_gex": 2901073,
+    "put_gex": -962898,
     "call_walls": [
-      105,
       110,
+      105,
       113,
-      104,
-      107
+      107,
+      108
     ],
     "put_walls": [
       100,
-      95,
-      101,
       98,
-      99
+      103
     ],
     "call_walls_pct": [
       100.0,
-      71.1,
-      19.3,
-      10.4,
-      5.9
+      31.5,
+      28.8,
+      5.8,
+      5.5
     ],
     "put_walls_pct": [
       100.0,
-      47.5,
-      16.7,
-      11.0,
-      7.4
+      13.2,
+      6.8
     ],
-    "total_call_oi": 16318,
-    "total_put_oi": 4006,
-    "total_oi": 20324,
-    "put_call_oi_ratio": 0.25,
-    "hvl": 100,
-    "contracts": 30,
+    "total_call_oi": 7409,
+    "total_put_oi": 2326,
+    "total_oi": 9735,
+    "put_call_oi_ratio": 0.31,
+    "hvl": 110,
+    "contracts": 16,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
