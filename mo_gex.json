@@ -1,12 +1,12 @@
 {
   "symbol": "MO",
-  "timestamp": "2025-10-03T21:24:50Z",
+  "timestamp": "2025-10-03T22:25:29Z",
   "data": {
     "spot": 65.75,
     "zero_gamma": 67.25,
-    "net_gex": 3620437,
-    "call_gex": 11606183,
-    "put_gex": -7985745,
+    "net_gex": 3342112,
+    "call_gex": 11657527,
+    "put_gex": -8315414,
     "call_walls": [
       67.5,
       66,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      26.7,
-      23.0,
-      14.5,
-      7.3
+      28.7,
+      23.2,
+      14.4,
+      7.0
     ],
     "put_walls_pct": [
       100.0,
       14.9,
-      14.4,
-      1.7,
-      1.7
+      14.5,
+      3.0,
+      2.1
     ],
-    "total_call_oi": 21679,
-    "total_put_oi": 13751,
-    "total_oi": 35430,
-    "put_call_oi_ratio": 0.63,
+    "total_call_oi": 21570,
+    "total_put_oi": 14043,
+    "total_oi": 35613,
+    "put_call_oi_ratio": 0.65,
     "hvl": 65,
-    "contracts": 35,
+    "contracts": 36,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

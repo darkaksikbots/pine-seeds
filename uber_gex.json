@@ -1,12 +1,12 @@
 {
   "symbol": "UBER",
-  "timestamp": "2025-10-03T21:11:49Z",
+  "timestamp": "2025-10-03T22:12:11Z",
   "data": {
     "spot": 96.61,
     "zero_gamma": 99.5,
-    "net_gex": 28147773,
-    "call_gex": 48357935,
-    "put_gex": -20210161,
+    "net_gex": 28083844,
+    "call_gex": 48421688,
+    "put_gex": -20337844,
     "call_walls": [
       100,
       105,
@@ -17,30 +17,30 @@
     "put_walls": [
       95,
       90,
-      91,
       96,
+      91,
       93
     ],
     "call_walls_pct": [
       100.0,
-      64.7,
-      60.1,
-      21.0,
-      17.8
+      65.6,
+      60.8,
+      21.2,
+      17.9
     ],
     "put_walls_pct": [
       100.0,
       79.3,
-      46.0,
-      42.1,
-      33.9
+      44.6,
+      44.3,
+      33.6
     ],
-    "total_call_oi": 113587,
-    "total_put_oi": 47034,
-    "total_oi": 160621,
-    "put_call_oi_ratio": 0.41,
+    "total_call_oi": 113126,
+    "total_put_oi": 47459,
+    "total_oi": 160585,
+    "put_call_oi_ratio": 0.42,
     "hvl": 105,
-    "contracts": 114,
+    "contracts": 115,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

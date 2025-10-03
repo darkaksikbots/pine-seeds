@@ -1,12 +1,12 @@
 {
   "symbol": "KMI",
-  "timestamp": "2025-10-03T21:30:23Z",
+  "timestamp": "2025-10-03T22:31:07Z",
   "data": {
     "spot": 28.22,
     "zero_gamma": 25,
-    "net_gex": 9881645,
-    "call_gex": 11109912,
-    "put_gex": -1228267,
+    "net_gex": 10202093,
+    "call_gex": 11466113,
+    "put_gex": -1264020,
     "call_walls": [
       29,
       28.5,
@@ -21,22 +21,22 @@
     ],
     "call_walls_pct": [
       100.0,
-      20.9,
-      3.3,
+      21.4,
+      12.2,
       1.2,
       0.2
     ],
     "put_walls_pct": [
       100.0,
-      96.3,
-      58.8
+      94.8,
+      57.7
     ],
-    "total_call_oi": 43819,
+    "total_call_oi": 48652,
     "total_put_oi": 11154,
-    "total_oi": 54973,
-    "put_call_oi_ratio": 0.25,
+    "total_oi": 59806,
+    "put_call_oi_ratio": 0.23,
     "hvl": 29,
-    "contracts": 25,
+    "contracts": 28,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

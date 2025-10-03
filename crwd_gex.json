@@ -1,12 +1,12 @@
 {
   "symbol": "CRWD",
-  "timestamp": "2025-10-03T21:08:51Z",
+  "timestamp": "2025-10-03T22:09:18Z",
   "data": {
     "spot": 496.8,
     "zero_gamma": 487.5,
-    "net_gex": 24032231,
-    "call_gex": 45875703,
-    "put_gex": -21843471,
+    "net_gex": 28547201,
+    "call_gex": 48740966,
+    "put_gex": -20193764,
     "call_walls": [
       500,
       520,
@@ -19,28 +19,28 @@
       480,
       490,
       485,
-      460
+      495
     ],
     "call_walls_pct": [
       100.0,
-      38.6,
-      22.5,
-      14.9,
-      13.8
+      39.8,
+      23.1,
+      15.3,
+      14.2
     ],
     "put_walls_pct": [
       100.0,
-      84.7,
-      79.4,
-      70.4,
-      65.4
+      88.8,
+      87.6,
+      77.6,
+      65.3
     ],
-    "total_call_oi": 20250,
+    "total_call_oi": 20354,
     "total_put_oi": 8970,
-    "total_oi": 29220,
+    "total_oi": 29324,
     "put_call_oi_ratio": 0.44,
     "hvl": 500,
-    "contracts": 64,
+    "contracts": 65,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

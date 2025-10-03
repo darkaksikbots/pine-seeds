@@ -1,12 +1,12 @@
 {
   "symbol": "SCHW",
-  "timestamp": "2025-10-03T21:17:05Z",
+  "timestamp": "2025-10-03T22:17:37Z",
   "data": {
     "spot": 92.7,
     "zero_gamma": 94.5,
-    "net_gex": 3523637,
-    "call_gex": 6983057,
-    "put_gex": -3459419,
+    "net_gex": 3166157,
+    "call_gex": 6994662,
+    "put_gex": -3828504,
     "call_walls": [
       95,
       100,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      65.0,
-      25.0,
-      10.2,
+      68.8,
+      24.3,
+      11.2,
       8.1
     ],
     "put_walls_pct": [
       100.0,
-      28.1,
-      26.0,
-      22.3,
-      14.4
+      27.8,
+      27.2,
+      21.2,
+      14.5
     ],
     "total_call_oi": 14102,
-    "total_put_oi": 8078,
-    "total_oi": 22180,
-    "put_call_oi_ratio": 0.57,
+    "total_put_oi": 9693,
+    "total_oi": 23795,
+    "put_call_oi_ratio": 0.69,
     "hvl": 95,
-    "contracts": 32,
+    "contracts": 34,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
