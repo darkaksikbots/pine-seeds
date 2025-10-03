@@ -1,12 +1,12 @@
 {
   "symbol": "KMI",
-  "timestamp": "2025-10-03T14:27:52Z",
+  "timestamp": "2025-10-03T15:27:40Z",
   "data": {
     "spot": 28.22,
     "zero_gamma": 25,
-    "net_gex": 8597745,
-    "call_gex": 10010652,
-    "put_gex": -1412906,
+    "net_gex": 8597761,
+    "call_gex": 10010677,
+    "put_gex": -1412916,
     "call_walls": [
       29,
       28.5,

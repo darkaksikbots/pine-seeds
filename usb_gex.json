@@ -1,12 +1,12 @@
 {
   "symbol": "USB",
-  "timestamp": "2025-10-03T14:14:36Z",
+  "timestamp": "2025-10-03T15:14:28Z",
   "data": {
     "spot": 47.91,
     "zero_gamma": 49.5,
-    "net_gex": 1863134,
-    "call_gex": 3746234,
-    "put_gex": -1883099,
+    "net_gex": 1839107,
+    "call_gex": 3730356,
+    "put_gex": -1891249,
     "call_walls": [
       50,
       49,
@@ -24,7 +24,7 @@
       100.0,
       14.5,
       11.5,
-      8.9,
+      8.8,
       4.7
     ],
     "put_walls_pct": [

@@ -1,12 +1,12 @@
 {
   "symbol": "EPD",
-  "timestamp": "2025-10-03T14:28:07Z",
+  "timestamp": "2025-10-03T15:27:55Z",
   "data": {
     "spot": 31.42,
     "zero_gamma": 30,
-    "net_gex": 3185353,
-    "call_gex": 4418367,
-    "put_gex": -1233014,
+    "net_gex": 3363081,
+    "call_gex": 4548883,
+    "put_gex": -1185802,
     "call_walls": [
       32,
       33,
@@ -22,13 +22,13 @@
     "call_walls_pct": [
       100.0,
       12.8,
-      10.8,
+      10.9,
       9.8,
       1.7
     ],
     "put_walls_pct": [
       100.0,
-      4.5,
+      4.6,
       3.9
     ],
     "total_call_oi": 18136,
