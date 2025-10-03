@@ -1,12 +1,12 @@
 {
   "symbol": "FDX",
-  "timestamp": "2025-10-03T16:10:57Z",
+  "timestamp": "2025-10-03T18:12:30Z",
   "data": {
     "spot": 242.32,
-    "zero_gamma": 238.75,
-    "net_gex": 8368531,
-    "call_gex": 13399011,
-    "put_gex": -5030480,
+    "zero_gamma": 225.0,
+    "net_gex": 8783083,
+    "call_gex": 10548946,
+    "put_gex": -1765863,
     "call_walls": [
       250,
       242.5,
@@ -15,32 +15,32 @@
       247.5
     ],
     "put_walls": [
-      230,
       240,
       220,
-      237.5,
-      235
+      235,
+      232.5,
+      230
     ],
     "call_walls_pct": [
       100.0,
-      55.6,
-      39.6,
-      24.2,
-      6.7
+      38.3,
+      36.3,
+      26.5,
+      6.3
     ],
     "put_walls_pct": [
       100.0,
-      64.7,
-      35.9,
-      31.5,
-      26.3
+      93.8,
+      68.9,
+      26.2,
+      22.8
     ],
-    "total_call_oi": 8138,
-    "total_put_oi": 5210,
-    "total_oi": 13348,
-    "put_call_oi_ratio": 0.64,
-    "hvl": 230,
-    "contracts": 28,
+    "total_call_oi": 6723,
+    "total_put_oi": 2534,
+    "total_oi": 9257,
+    "put_call_oi_ratio": 0.38,
+    "hvl": 250,
+    "contracts": 16,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

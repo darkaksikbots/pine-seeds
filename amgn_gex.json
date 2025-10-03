@@ -1,46 +1,46 @@
 {
   "symbol": "AMGN",
-  "timestamp": "2025-10-03T17:35:15Z",
+  "timestamp": "2025-10-03T18:35:10Z",
   "data": {
     "spot": 297.4,
     "zero_gamma": 282.5,
-    "net_gex": 11672464,
-    "call_gex": 23850322,
-    "put_gex": -12177858,
+    "net_gex": 14557955,
+    "call_gex": 25070241,
+    "put_gex": -10512285,
     "call_walls": [
       300,
       310,
-      320,
+      315,
       305,
-      297.5
+      320
     ],
     "put_walls": [
-      287.5,
+      295,
       290,
+      285,
       280,
-      270,
-      285
+      270
     ],
     "call_walls_pct": [
       100.0,
-      20.3,
-      12.2,
-      11.9,
-      6.7
+      21.4,
+      19.5,
+      19.1,
+      11.5
     ],
     "put_walls_pct": [
       100.0,
-      27.2,
-      13.0,
-      6.7,
-      2.3
+      60.1,
+      52.0,
+      28.9,
+      15.2
     ],
-    "total_call_oi": 11189,
-    "total_put_oi": 8390,
-    "total_oi": 19579,
-    "put_call_oi_ratio": 0.75,
-    "hvl": 287.5,
-    "contracts": 18,
+    "total_call_oi": 12629,
+    "total_put_oi": 6125,
+    "total_oi": 18754,
+    "put_call_oi_ratio": 0.48,
+    "hvl": 300,
+    "contracts": 22,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

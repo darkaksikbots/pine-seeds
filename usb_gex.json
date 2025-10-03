@@ -1,18 +1,18 @@
 {
   "symbol": "USB",
-  "timestamp": "2025-10-03T17:16:50Z",
+  "timestamp": "2025-10-03T18:16:22Z",
   "data": {
     "spot": 47.91,
     "zero_gamma": 49.75,
-    "net_gex": 1759350,
-    "call_gex": 3355836,
-    "put_gex": -1596486,
+    "net_gex": 1937362,
+    "call_gex": 3503697,
+    "put_gex": -1566334,
     "call_walls": [
       50,
+      49,
       52,
       48.5,
-      49.5,
-      48
+      49.5
     ],
     "put_walls": [
       47.5,
@@ -21,22 +21,22 @@
     ],
     "call_walls_pct": [
       100.0,
-      14.3,
-      10.3,
-      6.5,
-      1.6
+      15.0,
+      11.0,
+      5.9,
+      5.6
     ],
     "put_walls_pct": [
       100.0,
-      18.4,
-      4.0
+      19.1,
+      4.2
     ],
-    "total_call_oi": 12392,
-    "total_put_oi": 5638,
-    "total_oi": 18030,
-    "put_call_oi_ratio": 0.45,
+    "total_call_oi": 13034,
+    "total_put_oi": 5424,
+    "total_oi": 18458,
+    "put_call_oi_ratio": 0.42,
     "hvl": 50,
-    "contracts": 17,
+    "contracts": 18,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

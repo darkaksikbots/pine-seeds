@@ -1,46 +1,46 @@
 {
   "symbol": "BRK.B",
-  "timestamp": "2025-10-03T17:14:35Z",
+  "timestamp": "2025-10-03T18:14:08Z",
   "data": {
     "spot": 495.92,
-    "zero_gamma": 498.75,
-    "net_gex": 34943681,
-    "call_gex": 88423444,
-    "put_gex": -53479763,
+    "zero_gamma": 503.75,
+    "net_gex": 60799956,
+    "call_gex": 145127543,
+    "put_gex": -84327587,
     "call_walls": [
       500,
+      510,
       505,
-      497.5,
-      520,
+      507.5,
       502.5
     ],
     "put_walls": [
       495,
-      480,
       485,
-      482.5,
+      480,
+      490,
       470
     ],
     "call_walls_pct": [
       100.0,
-      50.6,
-      14.9,
-      14.6,
-      13.7
+      74.6,
+      57.3,
+      34.3,
+      22.2
     ],
     "put_walls_pct": [
       100.0,
-      90.3,
-      67.1,
-      47.4,
-      37.8
+      29.9,
+      27.7,
+      22.1,
+      9.2
     ],
-    "total_call_oi": 15084,
-    "total_put_oi": 16150,
-    "total_oi": 31234,
-    "put_call_oi_ratio": 1.07,
-    "hvl": 500,
-    "contracts": 49,
+    "total_call_oi": 23856,
+    "total_put_oi": 23300,
+    "total_oi": 47156,
+    "put_call_oi_ratio": 0.98,
+    "hvl": 495,
+    "contracts": 63,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

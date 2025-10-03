@@ -1,46 +1,46 @@
 {
   "symbol": "JPM",
-  "timestamp": "2025-10-03T17:14:56Z",
+  "timestamp": "2025-10-03T18:14:29Z",
   "data": {
     "spot": 307.55,
-    "zero_gamma": 280,
-    "net_gex": 62421509,
-    "call_gex": 118976636,
-    "put_gex": -56555127,
+    "zero_gamma": 313.75,
+    "net_gex": 69165872,
+    "call_gex": 133558278,
+    "put_gex": -64392405,
     "call_walls": [
       315,
       320,
       310,
-      335,
-      330
+      330,
+      335
     ],
     "put_walls": [
       300,
-      290,
       305,
+      290,
       307.5,
       295
     ],
     "call_walls_pct": [
       100.0,
-      59.8,
-      48.5,
-      41.9,
-      41.2
+      57.8,
+      50.9,
+      40.9,
+      40.0
     ],
     "put_walls_pct": [
       100.0,
-      13.7,
-      13.4,
-      8.3,
-      2.3
+      13.3,
+      12.7,
+      8.0,
+      7.6
     ],
-    "total_call_oi": 62911,
-    "total_put_oi": 34802,
-    "total_oi": 97713,
-    "put_call_oi_ratio": 0.55,
+    "total_call_oi": 71340,
+    "total_put_oi": 42755,
+    "total_oi": 114095,
+    "put_call_oi_ratio": 0.6,
     "hvl": 300,
-    "contracts": 54,
+    "contracts": 70,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

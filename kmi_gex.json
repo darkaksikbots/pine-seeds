@@ -1,40 +1,42 @@
 {
   "symbol": "KMI",
-  "timestamp": "2025-10-03T17:31:04Z",
+  "timestamp": "2025-10-03T18:30:55Z",
   "data": {
     "spot": 28.22,
     "zero_gamma": 25,
-    "net_gex": 8811457,
-    "call_gex": 10427647,
-    "put_gex": -1616189,
+    "net_gex": 9709989,
+    "call_gex": 10915966,
+    "put_gex": -1205976,
     "call_walls": [
       29,
       28.5,
       30,
+      29.5,
       30.5
     ],
     "put_walls": [
       27,
-      28,
       26,
+      28,
       27.5
     ],
     "call_walls_pct": [
       100.0,
-      28.4,
-      11.8,
+      22.4,
+      7.7,
+      1.2,
       0.1
     ],
     "put_walls_pct": [
       100.0,
-      91.6,
-      61.0,
-      33.3
+      61.6,
+      61.4,
+      35.3
     ],
-    "total_call_oi": 46217,
-    "total_put_oi": 11799,
-    "total_oi": 58016,
-    "put_call_oi_ratio": 0.26,
+    "total_call_oi": 45012,
+    "total_put_oi": 11172,
+    "total_oi": 56184,
+    "put_call_oi_ratio": 0.25,
     "hvl": 29,
     "contracts": 24,
     "oi_vintage": "2025-10-03",
