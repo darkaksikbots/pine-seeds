@@ -1,12 +1,12 @@
 {
   "symbol": "CSX",
-  "timestamp": "2025-10-03T19:12:56Z",
+  "timestamp": "2025-10-03T20:12:46Z",
   "data": {
     "spot": 35.57,
-    "zero_gamma": 36.5,
-    "net_gex": 3892356,
-    "call_gex": 5718674,
-    "put_gex": -1826318,
+    "zero_gamma": 33,
+    "net_gex": 3868544,
+    "call_gex": 5714712,
+    "put_gex": -1846167,
     "call_walls": [
       37.5,
       37,
@@ -21,22 +21,22 @@
     ],
     "call_walls_pct": [
       100.0,
-      8.9,
+      9.2,
       0.8
     ],
     "put_walls_pct": [
       100.0,
-      74.2,
+      82.6,
       16.0,
       4.2,
       3.3
     ],
-    "total_call_oi": 28465,
-    "total_put_oi": 10779,
-    "total_oi": 39244,
+    "total_call_oi": 29192,
+    "total_put_oi": 11200,
+    "total_oi": 40392,
     "put_call_oi_ratio": 0.38,
     "hvl": 37.5,
-    "contracts": 13,
+    "contracts": 16,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

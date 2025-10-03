@@ -1,12 +1,12 @@
 {
   "symbol": "IWM",
-  "timestamp": "2025-10-03T19:01:20Z",
+  "timestamp": "2025-10-03T20:01:13Z",
   "data": {
     "spot": 244.02,
-    "zero_gamma": 259.5,
-    "net_gex": 30061345,
-    "call_gex": 1150789086,
-    "put_gex": -1120727741,
+    "zero_gamma": 254.5,
+    "net_gex": 137747090,
+    "call_gex": 1177590714,
+    "put_gex": -1039843624,
     "call_walls": [
       250,
       245,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      50.2,
-      43.5,
-      21.9,
-      20.0
+      47.0,
+      45.0,
+      23.1,
+      19.9
     ],
     "put_walls_pct": [
       100.0,
+      80.9,
       79.2,
-      78.0,
-      74.1,
-      68.5
+      75.2,
+      70.1
     ],
-    "total_call_oi": 602159,
-    "total_put_oi": 1452186,
-    "total_oi": 2054345,
-    "put_call_oi_ratio": 2.41,
+    "total_call_oi": 608797,
+    "total_put_oi": 1463195,
+    "total_oi": 2071992,
+    "put_call_oi_ratio": 2.4,
     "hvl": 230,
-    "contracts": 343,
+    "contracts": 350,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

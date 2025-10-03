@@ -1,12 +1,12 @@
 {
   "symbol": "PFE",
-  "timestamp": "2025-10-03T19:31:56Z",
+  "timestamp": "2025-10-03T20:32:28Z",
   "data": {
     "spot": 27.08,
     "zero_gamma": 24.75,
-    "net_gex": 26977479,
-    "call_gex": 36298620,
-    "put_gex": -9321140,
+    "net_gex": 25569327,
+    "call_gex": 33116687,
+    "put_gex": -7547359,
     "call_walls": [
       28,
       27.5,
@@ -22,23 +22,23 @@
     ],
     "call_walls_pct": [
       100.0,
-      80.0,
-      22.6,
-      17.0
+      72.5,
+      24.1,
+      18.0
     ],
     "put_walls_pct": [
       100.0,
-      74.5,
-      50.8,
-      38.9,
-      36.0
+      77.9,
+      55.8,
+      44.1,
+      36.8
     ],
-    "total_call_oi": 280174,
+    "total_call_oi": 273191,
     "total_put_oi": 104798,
-    "total_oi": 384972,
-    "put_call_oi_ratio": 0.37,
+    "total_oi": 377989,
+    "put_call_oi_ratio": 0.38,
     "hvl": 25,
-    "contracts": 90,
+    "contracts": 88,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

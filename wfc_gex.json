@@ -1,12 +1,12 @@
 {
   "symbol": "WFC",
-  "timestamp": "2025-10-03T19:14:49Z",
+  "timestamp": "2025-10-03T20:14:45Z",
   "data": {
     "spot": 80.5,
     "zero_gamma": 79.5,
-    "net_gex": 17984387,
-    "call_gex": 33094045,
-    "put_gex": -15109658,
+    "net_gex": 19881180,
+    "call_gex": 36377004,
+    "put_gex": -16495824,
     "call_walls": [
       85,
       87.5,
@@ -16,31 +16,31 @@
     ],
     "put_walls": [
       80,
+      75,
       77.5,
       72.5,
-      79,
       76
     ],
     "call_walls_pct": [
       100.0,
-      39.4,
-      38.0,
-      31.3,
-      21.0
+      39.6,
+      36.4,
+      31.8,
+      22.1
     ],
     "put_walls_pct": [
       100.0,
+      30.2,
       26.0,
-      9.1,
-      5.1,
-      5.1
+      9.0,
+      6.9
     ],
-    "total_call_oi": 80233,
-    "total_put_oi": 32671,
-    "total_oi": 112904,
-    "put_call_oi_ratio": 0.41,
+    "total_call_oi": 86527,
+    "total_put_oi": 41296,
+    "total_oi": 127823,
+    "put_call_oi_ratio": 0.48,
     "hvl": 80,
-    "contracts": 46,
+    "contracts": 51,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

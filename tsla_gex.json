@@ -1,12 +1,12 @@
 {
   "symbol": "TSLA",
-  "timestamp": "2025-10-03T19:10:46Z",
+  "timestamp": "2025-10-03T20:10:43Z",
   "data": {
     "spot": 436,
     "zero_gamma": 458.75,
-    "net_gex": 70588050,
-    "call_gex": 363047479,
-    "put_gex": -292459429,
+    "net_gex": 62355706,
+    "call_gex": 358206601,
+    "put_gex": -295850894,
     "call_walls": [
       450,
       440,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      70.2,
-      55.8,
-      44.4,
-      39.7
+      71.5,
+      54.1,
+      42.5,
+      39.1
     ],
     "put_walls_pct": [
       100.0,
-      90.1,
-      80.6,
-      58.0,
-      44.3
+      83.7,
+      72.4,
+      53.2,
+      42.9
     ],
-    "total_call_oi": 240049,
+    "total_call_oi": 240959,
     "total_put_oi": 186507,
-    "total_oi": 426556,
-    "put_call_oi_ratio": 0.78,
+    "total_oi": 427466,
+    "put_call_oi_ratio": 0.77,
     "hvl": 400,
-    "contracts": 222,
+    "contracts": 224,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
