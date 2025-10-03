@@ -1,12 +1,12 @@
 {
   "symbol": "TMUS",
-  "timestamp": "2025-10-03T18:38:31Z",
+  "timestamp": "2025-10-03T19:37:07Z",
   "data": {
     "spot": 230.14,
     "zero_gamma": 230.14,
-    "net_gex": -2662400,
-    "call_gex": 2735874,
-    "put_gex": -5398274,
+    "net_gex": -2016227,
+    "call_gex": 3427087,
+    "put_gex": -5443315,
     "call_walls": [
       240,
       235,
@@ -20,21 +20,21 @@
     ],
     "call_walls_pct": [
       100.0,
-      84.5,
-      38.5,
-      21.7
+      67.4,
+      64.2,
+      16.1
     ],
     "put_walls_pct": [
       100.0,
-      50.2,
-      9.7
+      47.5,
+      9.4
     ],
-    "total_call_oi": 2168,
+    "total_call_oi": 3239,
     "total_put_oi": 3569,
-    "total_oi": 5737,
-    "put_call_oi_ratio": 1.65,
+    "total_oi": 6808,
+    "put_call_oi_ratio": 1.1,
     "hvl": 240,
-    "contracts": 12,
+    "contracts": 14,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

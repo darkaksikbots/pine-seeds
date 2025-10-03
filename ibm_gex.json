@@ -1,12 +1,12 @@
 {
   "symbol": "IBM",
-  "timestamp": "2025-10-03T18:07:42Z",
+  "timestamp": "2025-10-03T19:07:34Z",
   "data": {
     "spot": 286.72,
     "zero_gamma": 260,
-    "net_gex": 42731825,
-    "call_gex": 50296271,
-    "put_gex": -7564446,
+    "net_gex": 44903218,
+    "call_gex": 52129360,
+    "put_gex": -7226142,
     "call_walls": [
       300,
       295,
@@ -18,29 +18,29 @@
       270,
       285,
       280,
-      277.5,
-      265
+      265,
+      275
     ],
     "call_walls_pct": [
       100.0,
-      58.4,
-      54.3,
-      31.5,
-      19.6
+      66.6,
+      53.6,
+      30.8,
+      19.2
     ],
     "put_walls_pct": [
       100.0,
-      40.8,
-      39.5,
-      24.4,
-      20.2
+      42.3,
+      40.4,
+      20.3,
+      19.0
     ],
-    "total_call_oi": 36881,
-    "total_put_oi": 7345,
-    "total_oi": 44226,
-    "put_call_oi_ratio": 0.2,
+    "total_call_oi": 38392,
+    "total_put_oi": 7056,
+    "total_oi": 45448,
+    "put_call_oi_ratio": 0.18,
     "hvl": 270,
-    "contracts": 50,
+    "contracts": 53,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

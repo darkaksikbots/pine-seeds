@@ -1,46 +1,46 @@
 {
   "symbol": "LLY",
-  "timestamp": "2025-10-03T18:34:11Z",
+  "timestamp": "2025-10-03T19:32:54Z",
   "data": {
     "spot": 819.85,
-    "zero_gamma": 756.25,
-    "net_gex": 94070035,
-    "call_gex": 126442222,
-    "put_gex": -32372187,
+    "zero_gamma": 761.25,
+    "net_gex": 102041201,
+    "call_gex": 136654646,
+    "put_gex": -34613444,
     "call_walls": [
       850,
       900,
       820,
       830,
-      860
+      835
     ],
     "put_walls": [
       790,
-      750,
-      800,
       795,
+      800,
+      750,
       805
     ],
     "call_walls_pct": [
       100.0,
-      83.0,
-      31.4,
-      29.4,
-      26.5
+      72.5,
+      31.8,
+      30.7,
+      27.0
     ],
     "put_walls_pct": [
       100.0,
-      60.5,
-      58.1,
-      57.1,
-      43.0
+      66.4,
+      58.4,
+      57.8,
+      43.2
     ],
-    "total_call_oi": 35419,
-    "total_put_oi": 12352,
-    "total_oi": 47771,
-    "put_call_oi_ratio": 0.35,
+    "total_call_oi": 37482,
+    "total_put_oi": 12502,
+    "total_oi": 49984,
+    "put_call_oi_ratio": 0.33,
     "hvl": 900,
-    "contracts": 91,
+    "contracts": 99,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

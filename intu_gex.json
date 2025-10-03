@@ -1,12 +1,12 @@
 {
   "symbol": "INTU",
-  "timestamp": "2025-10-03T18:07:23Z",
+  "timestamp": "2025-10-03T19:07:15Z",
   "data": {
     "spot": 681.86,
     "zero_gamma": 660.0,
-    "net_gex": 10843755,
-    "call_gex": 12321756,
-    "put_gex": -1478001,
+    "net_gex": 11001358,
+    "call_gex": 12398414,
+    "put_gex": -1397055,
     "call_walls": [
       700,
       710,
@@ -20,14 +20,14 @@
     ],
     "call_walls_pct": [
       100.0,
-      37.0,
-      22.5,
-      8.8,
-      5.4
+      37.5,
+      21.7,
+      9.0,
+      5.7
     ],
     "put_walls_pct": [
       100.0,
-      58.9
+      59.9
     ],
     "total_call_oi": 2789,
     "total_put_oi": 665,

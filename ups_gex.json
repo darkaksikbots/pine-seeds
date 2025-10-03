@@ -1,12 +1,12 @@
 {
   "symbol": "UPS",
-  "timestamp": "2025-10-03T18:12:12Z",
+  "timestamp": "2025-10-03T19:11:59Z",
   "data": {
     "spot": 85.57,
-    "zero_gamma": 87.5,
-    "net_gex": 12972290,
-    "call_gex": 27502195,
-    "put_gex": -14529905,
+    "zero_gamma": 88.5,
+    "net_gex": 12011728,
+    "call_gex": 28234347,
+    "put_gex": -16222618,
     "call_walls": [
       90,
       87,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      31.7,
-      24.4,
-      16.8,
-      16.7
+      33.0,
+      24.8,
+      17.6,
+      16.8
     ],
     "put_walls_pct": [
       100.0,
-      24.2,
-      18.9,
-      10.2,
-      9.2
+      22.7,
+      20.4,
+      11.7,
+      9.4
     ],
-    "total_call_oi": 52318,
-    "total_put_oi": 35241,
-    "total_oi": 87559,
-    "put_call_oi_ratio": 0.67,
+    "total_call_oi": 53438,
+    "total_put_oi": 38318,
+    "total_oi": 91756,
+    "put_call_oi_ratio": 0.72,
     "hvl": 90,
-    "contracts": 68,
+    "contracts": 79,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

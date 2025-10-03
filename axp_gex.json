@@ -1,44 +1,44 @@
 {
   "symbol": "AXP",
-  "timestamp": "2025-10-03T18:18:13Z",
+  "timestamp": "2025-10-03T19:17:45Z",
   "data": {
     "spot": 330.48,
     "zero_gamma": 330.48,
-    "net_gex": -2585837,
-    "call_gex": 7892992,
-    "put_gex": -10478830,
+    "net_gex": -12539,
+    "call_gex": 13148440,
+    "put_gex": -13160979,
     "call_walls": [
+      350,
       342.5,
       340,
-      350,
       332.5
     ],
     "put_walls": [
       322.5,
       330,
+      325,
       320,
-      300,
-      310
+      300
     ],
     "call_walls_pct": [
       100.0,
-      66.6,
-      39.3,
-      38.5
+      9.9,
+      6.6,
+      4.0
     ],
     "put_walls_pct": [
       100.0,
-      99.8,
-      43.1,
-      30.7,
-      29.1
+      97.2,
+      65.9,
+      44.0,
+      31.1
     ],
-    "total_call_oi": 3687,
-    "total_put_oi": 5400,
-    "total_oi": 9087,
-    "put_call_oi_ratio": 1.46,
-    "hvl": 330,
-    "contracts": 19,
+    "total_call_oi": 7325,
+    "total_put_oi": 6425,
+    "total_oi": 13750,
+    "put_call_oi_ratio": 0.88,
+    "hvl": 350,
+    "contracts": 21,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
