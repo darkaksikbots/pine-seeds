@@ -1,12 +1,12 @@
 {
   "symbol": "CMG",
-  "timestamp": "2025-10-03T22:26:40Z",
+  "timestamp": "2025-10-03T23:24:02Z",
   "data": {
     "spot": 40.27,
     "zero_gamma": 41.75,
-    "net_gex": 5912139,
-    "call_gex": 14648742,
-    "put_gex": -8736602,
+    "net_gex": 5963467,
+    "call_gex": 14469260,
+    "put_gex": -8505792,
     "call_walls": [
       42.5,
       42,
@@ -23,21 +23,21 @@
     ],
     "call_walls_pct": [
       100.0,
-      68.2,
-      34.2,
-      26.4,
-      23.8
+      68.9,
+      35.3,
+      25.7,
+      22.8
     ],
     "put_walls_pct": [
       100.0,
-      93.5,
-      45.6,
-      16.0,
-      11.1
+      91.5,
+      43.9,
+      15.4,
+      10.7
     ],
-    "total_call_oi": 77021,
+    "total_call_oi": 76717,
     "total_put_oi": 82248,
-    "total_oi": 159269,
+    "total_oi": 158965,
     "put_call_oi_ratio": 1.07,
     "hvl": 37.5,
     "contracts": 76,

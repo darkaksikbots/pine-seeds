@@ -1,18 +1,18 @@
 {
   "symbol": "MDLZ",
-  "timestamp": "2025-10-03T22:26:20Z",
+  "timestamp": "2025-10-03T23:23:44Z",
   "data": {
     "spot": 61.78,
     "zero_gamma": 62.5,
-    "net_gex": 1088432,
-    "call_gex": 1222917,
-    "put_gex": -134484,
+    "net_gex": 969277,
+    "call_gex": 1124952,
+    "put_gex": -155675,
     "call_walls": [
       65,
       64,
       63,
-      66,
-      62
+      62,
+      66
     ],
     "put_walls": [
       60,
@@ -20,14 +20,14 @@
     ],
     "call_walls_pct": [
       100.0,
-      43.9,
-      23.5,
-      13.5,
-      12.5
+      45.9,
+      27.6,
+      18.5,
+      13.6
     ],
     "put_walls_pct": [
       100.0,
-      18.6
+      17.8
     ],
     "total_call_oi": 2581,
     "total_put_oi": 579,

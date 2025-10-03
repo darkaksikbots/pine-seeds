@@ -1,12 +1,12 @@
 {
   "symbol": "ABBV",
-  "timestamp": "2025-10-03T22:33:52Z",
+  "timestamp": "2025-10-03T23:30:59Z",
   "data": {
     "spot": 236.56,
-    "zero_gamma": 215,
-    "net_gex": 23943967,
-    "call_gex": 31602213,
-    "put_gex": -7658245,
+    "zero_gamma": 218.75,
+    "net_gex": 27351584,
+    "call_gex": 35125970,
+    "put_gex": -7774385,
     "call_walls": [
       242.5,
       240,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      68.8,
-      52.4,
-      33.3,
-      33.1
+      71.4,
+      55.8,
+      39.0,
+      32.8
     ],
     "put_walls_pct": [
       100.0,
-      40.4,
-      32.1,
-      30.4,
-      26.4
+      35.6,
+      30.5,
+      28.1,
+      25.4
     ],
-    "total_call_oi": 18819,
-    "total_put_oi": 4914,
-    "total_oi": 23733,
-    "put_call_oi_ratio": 0.26,
+    "total_call_oi": 21480,
+    "total_put_oi": 5048,
+    "total_oi": 26528,
+    "put_call_oi_ratio": 0.24,
     "hvl": 230,
-    "contracts": 47,
+    "contracts": 48,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"
