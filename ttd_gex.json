@@ -1,12 +1,12 @@
 {
   "symbol": "TTD",
-  "timestamp": "2025-10-03T15:25:15Z",
+  "timestamp": "2025-10-03T16:25:25Z",
   "data": {
     "spot": 50.88,
     "zero_gamma": 49.75,
-    "net_gex": 6807686,
-    "call_gex": 11860771,
-    "put_gex": -5053084,
+    "net_gex": 6807149,
+    "call_gex": 11860395,
+    "put_gex": -5053246,
     "call_walls": [
       55,
       52.5,

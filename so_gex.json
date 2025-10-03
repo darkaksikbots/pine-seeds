@@ -1,12 +1,12 @@
 {
   "symbol": "SO",
-  "timestamp": "2025-10-03T15:28:42Z",
+  "timestamp": "2025-10-03T16:28:58Z",
   "data": {
     "spot": 93.89,
     "zero_gamma": 93.25,
-    "net_gex": 11171744,
-    "call_gex": 11455466,
-    "put_gex": -283722,
+    "net_gex": 9550394,
+    "call_gex": 9888704,
+    "put_gex": -338309,
     "call_walls": [
       95,
       96,
@@ -20,14 +20,14 @@
     ],
     "call_walls_pct": [
       100.0,
-      16.8,
-      15.5,
-      8.3,
-      5.4
+      16.4,
+      16.0,
+      8.8,
+      5.2
     ],
     "put_walls_pct": [
       100.0,
-      51.0
+      50.4
     ],
     "total_call_oi": 11542,
     "total_put_oi": 274,

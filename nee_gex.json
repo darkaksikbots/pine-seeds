@@ -1,12 +1,12 @@
 {
   "symbol": "NEE",
-  "timestamp": "2025-10-03T15:28:11Z",
+  "timestamp": "2025-10-03T16:28:26Z",
   "data": {
     "spot": 78.18,
     "zero_gamma": 74.5,
-    "net_gex": 29841562,
-    "call_gex": 33076971,
-    "put_gex": -3235408,
+    "net_gex": 29841354,
+    "call_gex": 33076839,
+    "put_gex": -3235484,
     "call_walls": [
       80,
       81,
