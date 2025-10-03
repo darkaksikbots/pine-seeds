@@ -1,12 +1,12 @@
 {
   "symbol": "TMO",
-  "timestamp": "2025-10-03T11:31:54Z",
+  "timestamp": "2025-10-03T12:32:19Z",
   "data": {
     "spot": 524.96,
     "zero_gamma": 490,
-    "net_gex": 21216682,
-    "call_gex": 22583158,
-    "put_gex": -1366475,
+    "net_gex": 21421552,
+    "call_gex": 22771366,
+    "put_gex": -1349814,
     "call_walls": [
       540,
       550,
@@ -21,15 +21,15 @@
     ],
     "call_walls_pct": [
       100.0,
-      96.0,
+      95.9,
       19.0,
-      3.5
+      3.4
     ],
     "put_walls_pct": [
       100.0,
-      65.1,
-      53.5,
-      40.3
+      65.0,
+      53.4,
+      40.4
     ],
     "total_call_oi": 9022,
     "total_put_oi": 556,

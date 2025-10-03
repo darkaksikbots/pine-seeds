@@ -1,18 +1,18 @@
 {
   "symbol": "USB",
-  "timestamp": "2025-10-03T11:14:33Z",
+  "timestamp": "2025-10-03T12:14:39Z",
   "data": {
     "spot": 47.91,
     "zero_gamma": 49.5,
-    "net_gex": 1607754,
-    "call_gex": 3351462,
-    "put_gex": -1743707,
+    "net_gex": 1506642,
+    "call_gex": 3286242,
+    "put_gex": -1779600,
     "call_walls": [
       50,
       49,
       52,
       48.5,
-      48
+      51
     ],
     "put_walls": [
       47.5,
@@ -22,15 +22,15 @@
     ],
     "call_walls_pct": [
       100.0,
-      12.8,
+      12.6,
       11.6,
       2.7,
       2.6
     ],
     "put_walls_pct": [
       100.0,
-      22.2,
-      7.1,
+      22.1,
+      7.2,
       4.6
     ],
     "total_call_oi": 13460,

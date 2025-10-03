@@ -1,18 +1,18 @@
 {
   "symbol": "AVGO",
-  "timestamp": "2025-10-03T11:03:45Z",
+  "timestamp": "2025-10-03T12:03:45Z",
   "data": {
     "spot": 338.18,
     "zero_gamma": 343.75,
-    "net_gex": 58575329,
-    "call_gex": 134337309,
-    "put_gex": -75761979,
+    "net_gex": 77151334,
+    "call_gex": 142029731,
+    "put_gex": -64878397,
     "call_walls": [
       350,
       340,
       360,
       370,
-      355
+      345
     ],
     "put_walls": [
       330,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      70.9,
-      52.1,
-      46.1,
-      33.4
+      73.4,
+      50.1,
+      43.7,
+      33.9
     ],
     "put_walls_pct": [
       100.0,
-      74.0,
-      46.7,
-      42.9,
+      74.7,
+      45.0,
+      44.2,
       36.2
     ],
-    "total_call_oi": 91186,
+    "total_call_oi": 78701,
     "total_put_oi": 60061,
-    "total_oi": 151247,
-    "put_call_oi_ratio": 0.66,
-    "hvl": 330,
-    "contracts": 131,
+    "total_oi": 138762,
+    "put_call_oi_ratio": 0.76,
+    "hvl": 350,
+    "contracts": 123,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

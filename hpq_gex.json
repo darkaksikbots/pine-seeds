@@ -1,12 +1,12 @@
 {
   "symbol": "HPQ",
-  "timestamp": "2025-10-03T11:07:12Z",
+  "timestamp": "2025-10-03T12:07:20Z",
   "data": {
     "spot": 26.48,
     "zero_gamma": 27.75,
-    "net_gex": 469218,
-    "call_gex": 1197109,
-    "put_gex": -727890,
+    "net_gex": 579670,
+    "call_gex": 1268155,
+    "put_gex": -688484,
     "call_walls": [
       28,
       28.5,
@@ -19,10 +19,10 @@
     ],
     "call_walls_pct": [
       100.0,
-      12.0,
-      8.9,
-      8.7,
-      3.3
+      11.7,
+      9.0,
+      8.8,
+      3.2
     ],
     "put_walls_pct": [
       100.0

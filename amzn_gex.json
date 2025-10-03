@@ -1,12 +1,12 @@
 {
   "symbol": "AMZN",
-  "timestamp": "2025-10-03T11:02:45Z",
+  "timestamp": "2025-10-03T12:02:45Z",
   "data": {
     "spot": 222.41,
-    "zero_gamma": 228.75,
-    "net_gex": 164112563,
-    "call_gex": 386133929,
-    "put_gex": -222021366,
+    "zero_gamma": 223.75,
+    "net_gex": 210395681,
+    "call_gex": 413878196,
+    "put_gex": -203482514,
     "call_walls": [
       230,
       225,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      73.7,
-      57.5,
-      55.1,
-      22.8
+      75.0,
+      55.9,
+      54.2,
+      23.5
     ],
     "put_walls_pct": [
       100.0,
-      63.2,
-      56.7,
-      29.7,
-      25.0
+      65.2,
+      57.6,
+      31.3,
+      26.1
     ],
-    "total_call_oi": 342444,
-    "total_put_oi": 214384,
-    "total_oi": 556828,
-    "put_call_oi_ratio": 0.63,
+    "total_call_oi": 328124,
+    "total_put_oi": 214497,
+    "total_oi": 542621,
+    "put_call_oi_ratio": 0.65,
     "hvl": 230,
-    "contracts": 109,
+    "contracts": 103,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

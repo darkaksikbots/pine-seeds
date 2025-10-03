@@ -1,12 +1,12 @@
 {
   "symbol": "INTC",
-  "timestamp": "2025-10-03T11:04:22Z",
+  "timestamp": "2025-10-03T12:04:23Z",
   "data": {
     "spot": 37.3,
-    "zero_gamma": 33,
-    "net_gex": 34689111,
-    "call_gex": 39541841,
-    "put_gex": -4852729,
+    "zero_gamma": 34.75,
+    "net_gex": 35899597,
+    "call_gex": 40158471,
+    "put_gex": -4258874,
     "call_walls": [
       40,
       38,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      24.8,
-      24.5,
-      3.2,
+      25.3,
+      24.7,
+      3.4,
       2.1
     ],
     "put_walls_pct": [
       100.0,
-      85.7,
-      73.5,
-      65.0,
-      55.4
+      84.4,
+      73.1,
+      63.1,
+      54.8
     ],
-    "total_call_oi": 400477,
+    "total_call_oi": 375440,
     "total_put_oi": 55448,
-    "total_oi": 455925,
-    "put_call_oi_ratio": 0.14,
+    "total_oi": 430888,
+    "put_call_oi_ratio": 0.15,
     "hvl": 40,
-    "contracts": 121,
+    "contracts": 116,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

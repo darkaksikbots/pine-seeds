@@ -1,12 +1,12 @@
 {
   "symbol": "EOG",
-  "timestamp": "2025-10-03T11:26:31Z",
+  "timestamp": "2025-10-03T12:26:40Z",
   "data": {
     "spot": 110.4,
     "zero_gamma": 110.4,
-    "net_gex": -805801,
-    "call_gex": 1200793,
-    "put_gex": -2006595,
+    "net_gex": -586839,
+    "call_gex": 1292036,
+    "put_gex": -1878876,
     "call_walls": [
       112,
       115,
@@ -20,14 +20,14 @@
     ],
     "call_walls_pct": [
       100.0,
-      92.2,
-      40.4,
-      35.2,
-      30.3
+      91.2,
+      40.3,
+      35.6,
+      29.7
     ],
     "put_walls_pct": [
       100.0,
-      47.6
+      48.1
     ],
     "total_call_oi": 1776,
     "total_put_oi": 3359,

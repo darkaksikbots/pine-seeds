@@ -1,12 +1,12 @@
 {
   "symbol": "TMUS",
-  "timestamp": "2025-10-03T11:34:46Z",
+  "timestamp": "2025-10-03T12:35:11Z",
   "data": {
     "spot": 230.14,
     "zero_gamma": 230.14,
-    "net_gex": -2985794,
-    "call_gex": 3452137,
-    "put_gex": -6437932,
+    "net_gex": -2986014,
+    "call_gex": 3451936,
+    "put_gex": -6437950,
     "call_walls": [
       240,
       250,
