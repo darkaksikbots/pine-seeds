@@ -1,12 +1,12 @@
 {
   "symbol": "MSFT",
-  "timestamp": "2025-10-03T00:22:26Z",
+  "timestamp": "2025-10-03T11:02:05Z",
   "data": {
-    "spot": 519.71,
+    "spot": 515.74,
     "zero_gamma": 523.75,
-    "net_gex": 323700228,
-    "call_gex": 675507768,
-    "put_gex": -351807540,
+    "net_gex": 308990850,
+    "call_gex": 660786019,
+    "put_gex": -351795169,
     "call_walls": [
       520,
       530,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      82.0,
+      82.1,
       72.7,
-      68.6,
-      59.6
+      68.7,
+      59.7
     ],
     "put_walls_pct": [
       100.0,
-      55.8,
+      55.9,
       22.7,
-      21.2,
+      21.1,
       16.8
     ],
-    "total_call_oi": 238546,
-    "total_put_oi": 123729,
-    "total_oi": 362275,
-    "put_call_oi_ratio": 0.52,
+    "total_call_oi": 235645,
+    "total_put_oi": 128636,
+    "total_oi": 364281,
+    "put_call_oi_ratio": 0.55,
     "hvl": 510,
-    "contracts": 152,
+    "contracts": 154,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

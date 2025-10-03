@@ -1,16 +1,15 @@
 {
   "symbol": "CSX",
-  "timestamp": "2025-10-03T00:31:47Z",
+  "timestamp": "2025-10-03T11:11:33Z",
   "data": {
-    "spot": 35,
-    "zero_gamma": 36.5,
-    "net_gex": 3148599,
-    "call_gex": 5319774,
-    "put_gex": -2171174,
+    "spot": 35.57,
+    "zero_gamma": 34.75,
+    "net_gex": 3581265,
+    "call_gex": 5715017,
+    "put_gex": -2133752,
     "call_walls": [
       37.5,
       37,
-      35.5,
       36
     ],
     "put_walls": [
@@ -23,13 +22,12 @@
     "call_walls_pct": [
       100.0,
       9.2,
-      1.0,
       0.9
     ],
     "put_walls_pct": [
       100.0,
-      71.2,
-      30.7,
+      70.6,
+      31.1,
       15.7,
       1.5
     ],

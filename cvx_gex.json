@@ -1,12 +1,12 @@
 {
   "symbol": "CVX",
-  "timestamp": "2025-10-03T00:46:08Z",
+  "timestamp": "2025-10-03T11:25:57Z",
   "data": {
-    "spot": 154.58,
+    "spot": 153.37,
     "zero_gamma": 158.75,
-    "net_gex": 17916137,
-    "call_gex": 32241233,
-    "put_gex": -14325096,
+    "net_gex": 17832948,
+    "call_gex": 31432747,
+    "put_gex": -13599799,
     "call_walls": [
       160,
       155,
@@ -23,24 +23,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      36.4,
-      29.3,
-      22.2,
+      36.7,
+      29.0,
+      22.4,
       12.9
     ],
     "put_walls_pct": [
       100.0,
-      48.5,
-      45.1,
+      48.9,
+      44.8,
       7.8,
       6.0
     ],
-    "total_call_oi": 45250,
+    "total_call_oi": 38203,
     "total_put_oi": 13180,
-    "total_oi": 58430,
-    "put_call_oi_ratio": 0.29,
+    "total_oi": 51383,
+    "put_call_oi_ratio": 0.34,
     "hvl": 160,
-    "contracts": 47,
+    "contracts": 44,
     "oi_vintage": "2025-10-03",
     "data_quality": "production",
     "source": "polygon"

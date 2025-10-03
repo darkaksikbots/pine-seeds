@@ -1,0 +1,2 @@
+time,spot,zero_gamma,cw1,cw2,cw3,pw1,pw2,pw3,net_gex,hvl,cw1_pct,cw2_pct,cw3_pct,pw1_pct,pw2_pct,pw3_pct,call_oi,put_oi,pc_ratio
+2025-10-03,681.86,695.0,700,710,690,650,670,640,0.005653687,700,100.0,45.9,22.4,100.0,35.2,34.7,2524,1888,0.75
