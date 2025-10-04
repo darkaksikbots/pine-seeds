@@ -1,12 +1,12 @@
 {
   "symbol": "HAL",
-  "timestamp": "2025-10-03T23:28:05Z",
+  "timestamp": "2025-10-04T15:13:31Z",
   "data": {
-    "spot": 24.38,
+    "spot": 24.31,
     "zero_gamma": 24.75,
-    "net_gex": 1199993,
-    "call_gex": 6132552,
-    "put_gex": -4932558,
+    "net_gex": 2005621,
+    "call_gex": 6495958,
+    "put_gex": -4490337,
     "call_walls": [
       25,
       24.5,
@@ -22,24 +22,24 @@
     ],
     "call_walls_pct": [
       100.0,
-      36.7,
-      30.3,
+      37.2,
+      29.8,
       5.0
     ],
     "put_walls_pct": [
       100.0,
-      87.2,
-      16.9,
-      16.7,
-      2.2
+      87.0,
+      17.3,
+      16.6,
+      2.3
     ],
     "total_call_oi": 56391,
-    "total_put_oi": 42770,
-    "total_oi": 99161,
+    "total_put_oi": 42887,
+    "total_oi": 99278,
     "put_call_oi_ratio": 0.76,
     "hvl": 23,
-    "contracts": 36,
-    "oi_vintage": "2025-10-03",
+    "contracts": 37,
+    "oi_vintage": "2025-10-04",
     "data_quality": "production",
     "source": "polygon"
   }

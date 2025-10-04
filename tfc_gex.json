@@ -1,18 +1,18 @@
 {
   "symbol": "TFC",
-  "timestamp": "2025-10-03T23:15:27Z",
+  "timestamp": "2025-10-04T14:59:40Z",
   "data": {
-    "spot": 45.36,
+    "spot": 45.52,
     "zero_gamma": 41.0,
-    "net_gex": 3549798,
-    "call_gex": 7186256,
-    "put_gex": -3636458,
+    "net_gex": 3859328,
+    "call_gex": 7521083,
+    "put_gex": -3661754,
     "call_walls": [
       46.5,
       48,
       47.5,
       46,
-      47
+      50
     ],
     "put_walls": [
       45,
@@ -25,7 +25,7 @@
       71.9,
       29.2,
       18.6,
-      9.1
+      10.3
     ],
     "put_walls_pct": [
       100.0,
@@ -33,13 +33,13 @@
       2.9,
       0.4
     ],
-    "total_call_oi": 24894,
+    "total_call_oi": 27488,
     "total_put_oi": 8121,
-    "total_oi": 33015,
-    "put_call_oi_ratio": 0.33,
+    "total_oi": 35609,
+    "put_call_oi_ratio": 0.3,
     "hvl": 48,
-    "contracts": 20,
-    "oi_vintage": "2025-10-03",
+    "contracts": 21,
+    "oi_vintage": "2025-10-04",
     "data_quality": "production",
     "source": "polygon"
   }

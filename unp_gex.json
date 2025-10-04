@@ -1,18 +1,18 @@
 {
   "symbol": "UNP",
-  "timestamp": "2025-10-03T23:11:38Z",
+  "timestamp": "2025-10-04T14:55:31Z",
   "data": {
-    "spot": 234.52,
+    "spot": 236.8,
     "zero_gamma": 241.25,
-    "net_gex": 7030725,
-    "call_gex": 8966722,
-    "put_gex": -1935997,
+    "net_gex": 7481077,
+    "call_gex": 9400349,
+    "put_gex": -1919271,
     "call_walls": [
       242.5,
       245,
       250,
       240,
-      235
+      255
     ],
     "put_walls": [
       225,
@@ -20,22 +20,22 @@
     ],
     "call_walls_pct": [
       100.0,
-      72.6,
-      59.9,
-      28.4,
-      12.9
+      72.0,
+      59.8,
+      29.3,
+      12.0
     ],
     "put_walls_pct": [
       100.0,
-      88.1
+      88.3
     ],
-    "total_call_oi": 5977,
+    "total_call_oi": 6193,
     "total_put_oi": 1481,
-    "total_oi": 7458,
-    "put_call_oi_ratio": 0.25,
+    "total_oi": 7674,
+    "put_call_oi_ratio": 0.24,
     "hvl": 250,
-    "contracts": 12,
-    "oi_vintage": "2025-10-03",
+    "contracts": 13,
+    "oi_vintage": "2025-10-04",
     "data_quality": "production",
     "source": "polygon"
   }

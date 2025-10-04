@@ -1,12 +1,12 @@
 {
   "symbol": "QCOM",
-  "timestamp": "2025-10-03T23:04:50Z",
+  "timestamp": "2025-10-04T14:48:16Z",
   "data": {
-    "spot": 168.85,
+    "spot": 169.18,
     "zero_gamma": 163.75,
-    "net_gex": 26535200,
-    "call_gex": 38060254,
-    "put_gex": -11525053,
+    "net_gex": 25970253,
+    "call_gex": 37857412,
+    "put_gex": -11887159,
     "call_walls": [
       170,
       175,
@@ -23,17 +23,17 @@
     ],
     "call_walls_pct": [
       100.0,
-      65.1,
-      62.5,
-      21.5,
-      19.4
+      63.1,
+      59.9,
+      20.6,
+      19.0
     ],
     "put_walls_pct": [
       100.0,
-      73.1,
-      62.8,
-      29.3,
-      20.0
+      72.1,
+      62.1,
+      29.2,
+      19.5
     ],
     "total_call_oi": 44832,
     "total_put_oi": 16628,
@@ -41,7 +41,7 @@
     "put_call_oi_ratio": 0.37,
     "hvl": 160,
     "contracts": 57,
-    "oi_vintage": "2025-10-03",
+    "oi_vintage": "2025-10-04",
     "data_quality": "production",
     "source": "polygon"
   }
